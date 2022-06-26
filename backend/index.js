@@ -15,6 +15,7 @@ const salt = 6;
 const transporter = nodemailer.createTransport({
     host: "smtp-mail.outlook.com", // hostname
     secureConnection: false, // TLS requires secureConnection to be false
+    secure: false,
     port: 587, // port for secure SMTP
     tls: {
        ciphers:'SSLv3'
@@ -84,7 +85,6 @@ app.post('/createUser', (req, res) => {
 
                 bcrypt.hash(plainPassword, salt, function(err, hash) {
                     hashedPassword = hash;
-                    console.log(hashedPassword)
                     const tempUser = new User({
                         _id: mongoose.Types.ObjectId(),
                         full_name: req.body.full_name,
@@ -92,19 +92,19 @@ app.post('/createUser', (req, res) => {
                         password: hashedPassword
                     });
 
-                    const verificationToken = generateVerificationToken({id: tempUser._id});
+                    const verificationToken = generateVerificationToken({email: tempUser.email});
                     const verificationUrl = `http://localhost:3005/verify/${verificationToken}`;
 
                     transporter.sendMail({  
                         to: tempUser.email,
-                        from: process.env.EMAIL,
+                        from: `Sirena Nutrition <${process.env.EMAIL}>`,
                         subject: 'Account verification',
                         html: `<!doctype html>
                         <html>
                           <head>
                             <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
                             <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-                            <title>Simple Transactional Email</title>
+                            <title>Account verification email</title>
                             <style>
                               /* -------------------------------------
                                   GLOBAL RESETS
@@ -120,7 +120,7 @@ app.post('/createUser', (req, res) => {
                         
                               body {
                                 background-color: #f6f6f6;
-                                font-family: sans-serif;
+                                font-family: 'Inter';
                                 -webkit-font-smoothing: antialiased;
                                 font-size: 14px;
                                 line-height: 1.4;
@@ -136,7 +136,7 @@ app.post('/createUser', (req, res) => {
                                 mso-table-rspace: 0pt;
                                 width: 100%; }
                                 table td {
-                                  font-family: sans-serif;
+                                  font-family: 'Inter';
                                   font-size: 14px;
                                   vertical-align: top; 
                               }
@@ -211,7 +211,7 @@ app.post('/createUser', (req, res) => {
                               h3,
                               h4 {
                                 color: #000000;
-                                font-family: sans-serif;
+                                font-family: 'Inter';
                                 font-weight: 400;
                                 line-height: 1.4;
                                 margin: 0;
@@ -228,8 +228,8 @@ app.post('/createUser', (req, res) => {
                               p,
                               ul,
                               ol {
-                                font-family: sans-serif;
-                                font-size: 14px;
+                                font-family: 'Inter';
+                                font-size: 18px;
                                 font-weight: normal;
                                 margin: 0;
                                 margin-bottom: 15px; 
@@ -242,7 +242,7 @@ app.post('/createUser', (req, res) => {
                               }
                         
                               a {
-                                color: #3498db;
+                                color: #032248;
                                 text-decoration: underline; 
                               }
                         
@@ -259,18 +259,18 @@ app.post('/createUser', (req, res) => {
                               }
                                 .btn table td {
                                   background-color: #ffffff;
-                                  border-radius: 5px;
+                                  /* border-radius: 5px; */
                                   text-align: center; 
                               }
                                 .btn a {
                                   background-color: #ffffff;
-                                  border: solid 1px #3498db;
+                                  border: solid 1px #032248;
                                   border-radius: 5px;
                                   box-sizing: border-box;
-                                  color: #3498db;
+                                  color: #032248;
                                   cursor: pointer;
                                   display: inline-block;
-                                  font-size: 14px;
+                                  font-size: 18px;
                                   font-weight: bold;
                                   margin: 0;
                                   padding: 12px 25px;
@@ -279,12 +279,12 @@ app.post('/createUser', (req, res) => {
                               }
                         
                               .btn-primary table td {
-                                background-color: #3498db; 
+                                background-color: #032248; 
                               }
                         
                               .btn-primary a {
-                                background-color: #3498db;
-                                border-color: #3498db;
+                                background-color: #032248;
+                                border-color: #032248;
                                 color: #ffffff; 
                               }
                         
@@ -338,6 +338,10 @@ app.post('/createUser', (req, res) => {
                         
                               .powered-by a {
                                 text-decoration: none; 
+                              }
+                        
+                              .p-tag {
+                                text-align: center;
                               }
                         
                               hr {
@@ -408,7 +412,7 @@ app.post('/createUser', (req, res) => {
                                 }
                                 .apple-link a {
                                   color: inherit !important;
-                                  font-family: inherit !important;
+                                  font-family: 'Inter' !important;
                                   font-size: inherit !important;
                                   font-weight: inherit !important;
                                   line-height: inherit !important;
@@ -418,27 +422,27 @@ app.post('/createUser', (req, res) => {
                                   color: inherit;
                                   text-decoration: none;
                                   font-size: inherit;
-                                  font-family: inherit;
+                                  font-family: 'Inter';
                                   font-weight: inherit;
                                   line-height: inherit;
                                 }
-                                .btn-primary table td:hover {
-                                  background-color: #34495e !important; 
-                                }
-                                .btn-primary a:hover {
-                                  background-color: #34495e !important;
-                                  border-color: #34495e !important; 
-                                } 
                               }
                         
                             </style>
                           </head>
                           <body>
-                            <span class="preheader"></span>
+                            <span class="preheader">This is an automated account verification email sent to you by Sirena.</span>
                             <table role="presentation" border="0" cellpadding="0" cellspacing="0" class="body">
                               <tr>
                                 <td>&nbsp;</td>
                                 <td class="container">
+                                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <tr>
+                                        <td align="center">
+                                            <img src="https://lh3.googleusercontent.com/YER84tgeIyanNgldYLxLa7dEjHLpv4EE5w-I2HtNCRUZehJFVdThlcO3UxNZd4oLGM50AnuPBjkeBoGXMSL32wdqWi4sRKZwoMcce6FO3DHRRpLdv7qyTNe62x-LSxaW_nrsitAN0sGW6xQ3DrT6zvIdPKuBfqSfUexjIP365HU1sLH7kswoSe_Xzczi4T5vzJqKDSYNF14BTOYUiYAGsX8LENgkvoyPER9Np1Xx_ub9ELUziQ1odHE9bDh_WGEkSehSrFzG-KnnPwDyZedxyJ1k6C3gVChCLW_WbrSLDTnPMDIXCzSxPz7nrjXFXoKpytyqT1t0ZZIBIt7MJBl_BSv7-RF9O5XZpdKIcsKwbIccTXucZxKjah9cT_ORhcYY7H-6NqjTCXuX86N2kcAnqvZvqvWQq-IQMqpC72_8Tf63FWLOyV-K7xOBKSj0E4bgGQ8hFRskccgtG_mPeeNdRle_KaA3vihpYj5loJZ8l7q5f48L0hJ1nAnMDz-W_PheKNuNWEfct51URXzELpbY1ikuIM1dIMfRCgblhMydw7zTr2BUTF_61-gHNRxkAYk8tnFXmJZN9PlbhqdJtYeqqaUQr3AnjIv6mkokzkz0cbS1Hwi9YoKQzN4AZoz_sOai7RwIWm_Hwm_A-qmnyKk4tRO3brmxFKOUaEvzIF-AFjdevliOF_0wCIX66WqEgyTtau2HRH8EazkgO5ukaWodrUzgfH_lVkWsgUYC5LkevVj0TsDj0v7X6Qqtd9i4D7G0mJuWJJl7X1cz9Wp0ye2US_r_ftfEb4ZGNn0sgHYHOWh6jbfHRQ801NftFr4z254WoLg7z0b-SegpK8qYQHL5pf4enKhfpoVGevoobdq9Tlso0eUFy02apVrtEJkIYp_KeNSZDwPyQbbBYDbL9_AzYcLl282aJLSEAMIzam4gdcwmHrNtPftCYWeetseaZ4FqHhZUjsRvYsSu9m9zqNkH=w408-h355-no?authuser=6" width="128px" height="auto" alt="Sirena Logo" title="Logo">
+                                        </td>
+                                    </tr>
+                                  </table>
                                   <div class="content">
                         
                                     <!-- START CENTERED WHITE CONTAINER -->
@@ -450,16 +454,16 @@ app.post('/createUser', (req, res) => {
                                           <table role="presentation" border="0" cellpadding="0" cellspacing="0">
                                             <tr>
                                               <td>
-                                                <p>Hi there,</p>
-                                                <p>Sometimes you just want to send a simple HTML email with a simple design and clear call to action. This is it.</p>
+                                                <h1>Verify your account</h1>
+                                                <p class="p-tag">Thanks for signing up for a Sirena account. Confirm your email address by clicking the button below.</p>
                                                 <table role="presentation" border="0" cellpadding="0" cellspacing="0" class="btn btn-primary">
                                                   <tbody>
-                                                    <tr>
-                                                      <td align="left">
+                                                    <tr align="center">
+                                                      <td align="center">
                                                         <table role="presentation" border="0" cellpadding="0" cellspacing="0">
                                                           <tbody>
-                                                            <tr>
-                                                              <td> <a href="${verificationUrl}" target="_blank">CONFIRM</a> </td>
+                                                            <tr align="center">
+                                                              <td align="center"> <a href="${verificationUrl}" target="_blank">CONFIRM</a> </td>
                                                             </tr>
                                                           </tbody>
                                                         </table>
@@ -467,8 +471,8 @@ app.post('/createUser', (req, res) => {
                                                     </tr>
                                                   </tbody>
                                                 </table>
-                                                <p>This is a really simple email template. Its sole purpose is to get the recipient to click the button with no distractions.</p>
-                                                <p>Good luck! Hope it works.</p>
+                                                <!-- <p>This is a really simple email template. Its sole purpose is to get the recipient to click the button with no distractions.</p>
+                                                <p>Good luck! Hope it works.</p> -->
                                               </td>
                                             </tr>
                                           </table>
@@ -484,13 +488,13 @@ app.post('/createUser', (req, res) => {
                                       <table role="presentation" border="0" cellpadding="0" cellspacing="0">
                                         <tr>
                                           <td class="content-block">
-                                            <span class="apple-link">Company Inc, 3 Abbey Road, San Francisco CA 94102</span>
-                                            <br> Don't like these emails? <a href="http://i.imgur.com/CScmqnj.gif">Unsubscribe</a>.
+                                            <span class="apple-link">Sirena nutrition app</span>
+                                            <!-- <br> Don't like these emails? <a href="http://i.imgur.com/CScmqnj.gif">Unsubscribe</a>. -->
                                           </td>
                                         </tr>
                                         <tr>
                                           <td class="content-block powered-by">
-                                            Powered by <a href="http://htmlemail.io">HTMLemail</a>.
+                                            <!-- Powered by <a href="http://htmlemail.io">HTMLemail</a>. -->
                                           </td>
                                         </tr>
                                       </table>
@@ -508,7 +512,6 @@ app.post('/createUser', (req, res) => {
                 
                     tempUser.save(function (err) {
                         if(err) return res.send({ outcome: err });
-                        console.log("saved!");
                         res.send({ outcome: Messages.USER_CREATED_SUCCESSFULLY });
                     })
                 });
@@ -529,28 +532,56 @@ app.post('/login', (req, res) => {
         userFromDB = user;
 
         if(userFromDB != null) {
-            bcrypt.compare(req.body.password, userFromDB.password, function(err, result) {
-                if(err) return err;
-                if(result == true) {
-                    let token = generateAccessToken({ 
-                        email: userFromDB.email,
-                        full_name: userFromDB.full_name,
-                        age: userFromDB.age,
-                        weight: userFromDB.weight,
-                        height: userFromDB.height,
-                        daily_calorie_goal: userFromDB.daily_calorie_goal,
-                        calories_left: userFromDB.calories_left,
-                        is_new_user: userFromDB.is_new_user 
-                    })
-                    return res.send({outcome: Messages.LOGIN_SUCCESSFUL, token: token});
-                } else {
-                    return res.send({outcome: Messages.PASSWORD_OR_EMAIL_INCORRECT});
-                }
-            });
-        } else {
-            res.send({outcome: Messages.USER_WITH_EMAIL_DOES_NOT_EXIST})
+            if(userFromDB.is_email_verified == false) return res.send({ outcome: Messages.EMAIL_NOT_VERIFIED })
+              bcrypt.compare(req.body.password, userFromDB.password, function(err, result) {
+                  if(err) return err;
+                  if(result == true) {
+                      let token = generateAccessToken({ 
+                          email: userFromDB.email,
+                          full_name: userFromDB.full_name,
+                          age: userFromDB.age,
+                          weight: userFromDB.weight,
+                          height: userFromDB.height,
+                          daily_calorie_goal: userFromDB.daily_calorie_goal,
+                          calories_left: userFromDB.calories_left,
+                          is_new_user: userFromDB.is_new_user 
+                      })
+                      return res.send({outcome: Messages.LOGIN_SUCCESSFUL, token: token});
+                  } else {
+                      return res.send({outcome: Messages.PASSWORD_OR_EMAIL_INCORRECT});
+                  }
+              });
+          } else {
+              res.send({outcome: Messages.USER_WITH_EMAIL_DOES_NOT_EXIST})
+          }
+    })
+})
+
+app.get('/verify/:token', (req, res) => {
+  const token = req.params;
+  
+  if(!token.token) return res.send({ outcome: Messages.INTERNAL_SERVER_ERROR })
+  let userData;
+
+  try {
+    userData = jwt.verify(token.token, process.env.USER_VERIFICATION_SECRET);
+    let userFromDB;
+      
+    User.findOne({ email: userData.email }, function(err, user) {
+        if(err) return res.send({ outcome: err });
+        userFromDB = user;
+  
+        if(userFromDB != null) {
+          User.updateOne({ "email": userFromDB.email }, { "is_email_verified": true }, (err, result) => {
+            if(err) return res.send({ outcome: Messages.INTERNAL_SERVER_ERROR })
+            return res.send({ outcome: Messages.SUCCESS })
+          })
         }
     })
+  } catch(err) {
+    return res.send({ outcome: Messages.INTERNAL_SERVER_ERROR })
+  }
+
 })
 
 app.post('/setAge', authenticateToken, (req, res) => {
@@ -578,9 +609,7 @@ app.post('/setWeight', authenticateToken, (req, res) => {
 cron.schedule('0 0 0 * * *', () => {
     console.log("< ! > PERFORMING DAILY CALORIE RESET < ! >")
     User.updateMany(
-        // Match all documents
         {},
-        // MongoDB 4.2+ can use an aggregation pipeline for updates
         [{
             $set: {
                 "calories_left": "$daily_calorie_goal"
