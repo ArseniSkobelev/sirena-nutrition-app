@@ -1,0 +1,7934 @@
+[
+  {
+    "MatvareID": "01.272",
+    "Matvare": "Helmelk, 3,5 % fett, laktosefri"
+  },
+  {
+    "MatvareID": "01.001",
+    "Matvare": "Helmelk, 3,5 % fett, Tine"
+  },
+  {
+    "MatvareID": "01.235",
+    "Matvare": "Helmelk, 3,9 % fett, Q-meieriene"
+  },
+  {
+    "MatvareID": "01.283",
+    "Matvare": "Helmelk, 4,1 % fett, økologisk"
+  },
+  {
+    "MatvareID": "01.236",
+    "Matvare": "Helmelk, uspesifisert"
+  },
+  {
+    "MatvareID": "01.109",
+    "Matvare": "Kaffemelk, 3,5 % fett"
+  },
+  {
+    "MatvareID": "01.196",
+    "Matvare": "Kakao, med lettmelk, tilberedt"
+  },
+  {
+    "MatvareID": "01.274",
+    "Matvare": "Lettmelk, 0,5 % fett, vitamin D, laktosefri"
+  },
+  {
+    "MatvareID": "01.230",
+    "Matvare": "Lettmelk, 0,5 % fett, vitamin D, Q-meieriene"
+  },
+  {
+    "MatvareID": "01.192",
+    "Matvare": "Lettmelk, 0,5 % fett, vitamin D, Tine"
+  },
+  {
+    "MatvareID": "01.231",
+    "Matvare": "Lettmelk, 0,5-0,7 % fett, vitamin D, uspesifisert"
+  },
+  {
+    "MatvareID": "01.285",
+    "Matvare": "Lettmelk, 0,7 % fett, økologisk"
+  },
+  {
+    "MatvareID": "01.215",
+    "Matvare": "Lettmelk, 1,0 % fett, laktosefri"
+  },
+  {
+    "MatvareID": "01.118",
+    "Matvare": "Lettmelk, 1,0 % fett, laktoseredusert"
+  },
+  {
+    "MatvareID": "01.228",
+    "Matvare": "Lettmelk, 1,0 % fett, Q-meieriene"
+  },
+  {
+    "MatvareID": "01.002",
+    "Matvare": "Lettmelk, 1,0 % fett, Tine"
+  },
+  {
+    "MatvareID": "01.119",
+    "Matvare": "Lettmelk, 1,2 % fett, langtidsholdbar"
+  },
+  {
+    "MatvareID": "01.268",
+    "Matvare": "Lettmelk, 1,2 % fett, økologisk"
+  },
+  {
+    "MatvareID": "01.229",
+    "Matvare": "Lettmelk, 1-1,2 % fett, uspesifisert"
+  },
+  {
+    "MatvareID": "01.227",
+    "Matvare": "Lettmelk, kakao, vitamin D"
+  },
+  {
+    "MatvareID": "01.292",
+    "Matvare": "Lettmelk, uspesifisert"
+  },
+  {
+    "MatvareID": "01.291",
+    "Matvare": "Melk, uspesifisert"
+  },
+  {
+    "MatvareID": "01.079",
+    "Matvare": "Milkshake, sjokoladesmak"
+  },
+  {
+    "MatvareID": "01.197",
+    "Matvare": "Sjokolademelk, av pulver og lettmelk"
+  },
+  {
+    "MatvareID": "01.127",
+    "Matvare": "Sjokolademelk, Litago"
+  },
+  {
+    "MatvareID": "01.008",
+    "Matvare": "Sjokolademelk, Sjokomelk"
+  },
+  {
+    "MatvareID": "01.280",
+    "Matvare": "Sjokolademelk, uten tilsatt sukker, Litago Uten"
+  },
+  {
+    "MatvareID": "01.289",
+    "Matvare": "Skummet melk, Styrk"
+  },
+  {
+    "MatvareID": "01.003",
+    "Matvare": "Skummet melk, Tine"
+  },
+  {
+    "MatvareID": "01.277",
+    "Matvare": "Syrnet melk, blåbær, laktosefri, Biola"
+  },
+  {
+    "MatvareID": "01.171",
+    "Matvare": "Syrnet melk, blåbær, mager, Biola"
+  },
+  {
+    "MatvareID": "01.237",
+    "Matvare": "Syrnet melk, blåbær/bringebær, BioQ"
+  },
+  {
+    "MatvareID": "01.214",
+    "Matvare": "Syrnet melk, bringebær, Biola"
+  },
+  {
+    "MatvareID": "01.213",
+    "Matvare": "Syrnet melk, jordbær, Biola"
+  },
+  {
+    "MatvareID": "01.083",
+    "Matvare": "Syrnet melk, Kulturmjølk"
+  },
+  {
+    "MatvareID": "01.170",
+    "Matvare": "Syrnet melk, naturell, Biola"
+  },
+  {
+    "MatvareID": "01.278",
+    "Matvare": "Syrnet melk, rødbete/eple/lime, Biola"
+  },
+  {
+    "MatvareID": "01.085",
+    "Matvare": "Syrnet melk, Skumma Kulturmjølk"
+  },
+  {
+    "MatvareID": "01.084",
+    "Matvare": "Syrnet melk, økologisk, Kefir"
+  },
+  {
+    "MatvareID": "01.233",
+    "Matvare": "Skyr, med smak, kunstig søtet"
+  },
+  {
+    "MatvareID": "01.234",
+    "Matvare": "Skyr, naturell"
+  },
+  {
+    "MatvareID": "01.299",
+    "Matvare": "Yoghurt, blåbær, 0 % fett, Yoplait"
+  },
+  {
+    "MatvareID": "01.096",
+    "Matvare": "Yoghurt, jordbær"
+  },
+  {
+    "MatvareID": "01.222",
+    "Matvare": "Yoghurt, med müsli og skogsbær, Go Morgen"
+  },
+  {
+    "MatvareID": "01.011",
+    "Matvare": "Yoghurt, naturell"
+  },
+  {
+    "MatvareID": "01.275",
+    "Matvare": "Yoghurt, naturell, laktosefri"
+  },
+  {
+    "MatvareID": "01.290",
+    "Matvare": "Yoghurt, naturell, økologisk"
+  },
+  {
+    "MatvareID": "01.298",
+    "Matvare": "Yoghurt, vanilje, 0 % fett, Yoplait"
+  },
+  {
+    "MatvareID": "01.279",
+    "Matvare": "Yoghurt, vanilje, laktosefri"
+  },
+  {
+    "MatvareID": "01.089",
+    "Matvare": "Crème Fraîche, 35 % fett"
+  },
+  {
+    "MatvareID": "01.179",
+    "Matvare": "Dessert-topping på boks"
+  },
+  {
+    "MatvareID": "01.178",
+    "Matvare": "Husholdningshvitt, flytende"
+  },
+  {
+    "MatvareID": "01.108",
+    "Matvare": "Kaffefløte, 10 % fett"
+  },
+  {
+    "MatvareID": "01.177",
+    "Matvare": "Kaffehvitt"
+  },
+  {
+    "MatvareID": "01.176",
+    "Matvare": "Kaffehvitt, pulver, Coffeemate"
+  },
+  {
+    "MatvareID": "01.225",
+    "Matvare": "Krem, pisket, på boks"
+  },
+  {
+    "MatvareID": "01.015",
+    "Matvare": "Kremfløte, 37 % fett"
+  },
+  {
+    "MatvareID": "01.273",
+    "Matvare": "Kremfløte, 37 % fett, laktosefri"
+  },
+  {
+    "MatvareID": "01.036",
+    "Matvare": "Kvarg, 1 % fett, Kesam"
+  },
+  {
+    "MatvareID": "01.226",
+    "Matvare": "Kvarg, 7 % fett, Kesam"
+  },
+  {
+    "MatvareID": "01.088",
+    "Matvare": "Lettrømme, 10 % fett"
+  },
+  {
+    "MatvareID": "01.087",
+    "Matvare": "Lettrømme, 18 % fett"
+  },
+  {
+    "MatvareID": "01.286",
+    "Matvare": "Lettrømme, 18 % fett, økologisk"
+  },
+  {
+    "MatvareID": "01.175",
+    "Matvare": "Matfløte, 18 % fett"
+  },
+  {
+    "MatvareID": "01.294",
+    "Matvare": "Matlagingsprodukt, av havre, 13 % fett"
+  },
+  {
+    "MatvareID": "01.293",
+    "Matvare": "Matlagingsprodukt, av soya, 17 % fett"
+  },
+  {
+    "MatvareID": "01.189",
+    "Matvare": "Matlagingsprodukt, whipping"
+  },
+  {
+    "MatvareID": "01.180",
+    "Matvare": "Rømmedressing, med urter"
+  },
+  {
+    "MatvareID": "01.086",
+    "Matvare": "Seterrømme, 35 % fett"
+  },
+  {
+    "MatvareID": "01.296",
+    "Matvare": "Syrnet havreprodukt til matlaging, 15 % fett"
+  },
+  {
+    "MatvareID": "01.295",
+    "Matvare": "Syrnet, tyknet havreprodukt"
+  },
+  {
+    "MatvareID": "01.136",
+    "Matvare": "Brie, hvitmuggost"
+  },
+  {
+    "MatvareID": "01.027",
+    "Matvare": "Cheddar, gulost"
+  },
+  {
+    "MatvareID": "01.062",
+    "Matvare": "Crème Chérie, mykost"
+  },
+  {
+    "MatvareID": "01.248",
+    "Matvare": "Geitost, hvit, Balsfjord"
+  },
+  {
+    "MatvareID": "01.261",
+    "Matvare": "Gorgonzola, blåmuggost"
+  },
+  {
+    "MatvareID": "01.262",
+    "Matvare": "Gruyere, ost"
+  },
+  {
+    "MatvareID": "01.038",
+    "Matvare": "Gräddost"
+  },
+  {
+    "MatvareID": "01.263",
+    "Matvare": "Mascarpone, kremost"
+  },
+  {
+    "MatvareID": "01.042",
+    "Matvare": "Norzola, blåmuggost"
+  },
+  {
+    "MatvareID": "01.048",
+    "Matvare": "Ridderost"
+  },
+  {
+    "MatvareID": "01.264",
+    "Matvare": "Roquefort, blåmuggost"
+  },
+  {
+    "MatvareID": "01.252",
+    "Matvare": "Selbu blå, blåmuggost"
+  },
+  {
+    "MatvareID": "01.287",
+    "Matvare": "Selbu blå, blåmuggost, økologisk"
+  },
+  {
+    "MatvareID": "01.265",
+    "Matvare": "Stilton, blåmuggost"
+  },
+  {
+    "MatvareID": "01.282",
+    "Matvare": "Østavind, gulost"
+  },
+  {
+    "MatvareID": "01.186",
+    "Matvare": "Brunost, uspesifisert"
+  },
+  {
+    "MatvareID": "01.025",
+    "Matvare": "Camembert, hvitmuggost"
+  },
+  {
+    "MatvareID": "01.251",
+    "Matvare": "Chevre, geitost, naturell"
+  },
+  {
+    "MatvareID": "01.030",
+    "Matvare": "Edamer, gulost"
+  },
+  {
+    "MatvareID": "01.188",
+    "Matvare": "Feta, ost med geitmelk"
+  },
+  {
+    "MatvareID": "01.053",
+    "Matvare": "Fløtemysost, brunost"
+  },
+  {
+    "MatvareID": "01.052",
+    "Matvare": "Geitost, brunost"
+  },
+  {
+    "MatvareID": "01.249",
+    "Matvare": "Geitost, hvit, Kvitlin"
+  },
+  {
+    "MatvareID": "01.257",
+    "Matvare": "Geitost, smørbar, dill, Snøfrisk"
+  },
+  {
+    "MatvareID": "01.260",
+    "Matvare": "Geitost, smørbar, kantarell, Snøfrisk"
+  },
+  {
+    "MatvareID": "01.117",
+    "Matvare": "Geitost, smørbar, naturell, Snøfrisk"
+  },
+  {
+    "MatvareID": "01.258",
+    "Matvare": "Geitost, smørbar, rødløk og timian, Snøfrisk"
+  },
+  {
+    "MatvareID": "01.055",
+    "Matvare": "Gudbrandsdalsost, brunost"
+  },
+  {
+    "MatvareID": "01.185",
+    "Matvare": "Gulost, uspesifisert"
+  },
+  {
+    "MatvareID": "01.270",
+    "Matvare": "Halloumi, ost"
+  },
+  {
+    "MatvareID": "01.035",
+    "Matvare": "Jarlsberg, gulost"
+  },
+  {
+    "MatvareID": "01.253",
+    "Matvare": "Kremost, krydder"
+  },
+  {
+    "MatvareID": "01.150",
+    "Matvare": "Kremost, naturell"
+  },
+  {
+    "MatvareID": "01.254",
+    "Matvare": "Kremost, pepper"
+  },
+  {
+    "MatvareID": "01.269",
+    "Matvare": "Kremost, Philadelphia"
+  },
+  {
+    "MatvareID": "01.212",
+    "Matvare": "Kremost, urter"
+  },
+  {
+    "MatvareID": "01.300",
+    "Matvare": "Manchego, ost"
+  },
+  {
+    "MatvareID": "01.066",
+    "Matvare": "Mozzarella, norsk"
+  },
+  {
+    "MatvareID": "01.037",
+    "Matvare": "Normanna, blåmuggost"
+  },
+  {
+    "MatvareID": "01.039",
+    "Matvare": "Norvegia, gulost"
+  },
+  {
+    "MatvareID": "01.247",
+    "Matvare": "Norvegia, gulost, fyldig"
+  },
+  {
+    "MatvareID": "01.245",
+    "Matvare": "Norvegia, gulost, vellagret"
+  },
+  {
+    "MatvareID": "01.246",
+    "Matvare": "Norvegia, gulost, økologisk"
+  },
+  {
+    "MatvareID": "01.043",
+    "Matvare": "Nøkkelost"
+  },
+  {
+    "MatvareID": "01.200",
+    "Matvare": "Parmesan, ost"
+  },
+  {
+    "MatvareID": "01.219",
+    "Matvare": "Pizzaost, revet"
+  },
+  {
+    "MatvareID": "01.046",
+    "Matvare": "Port Salut, kittmodnet ost"
+  },
+  {
+    "MatvareID": "01.267",
+    "Matvare": "Raclette, ost"
+  },
+  {
+    "MatvareID": "01.050",
+    "Matvare": "Sveitserost, gulost"
+  },
+  {
+    "MatvareID": "01.161",
+    "Matvare": "Taffelost, tomat"
+  },
+  {
+    "MatvareID": "01.190",
+    "Matvare": "Ystet produkt med vegetabilsk fett"
+  },
+  {
+    "MatvareID": "01.063",
+    "Matvare": "Baconost, smørbar"
+  },
+  {
+    "MatvareID": "01.028",
+    "Matvare": "Cottage Cheese"
+  },
+  {
+    "MatvareID": "01.054",
+    "Matvare": "Fløtemysost, brunost, lett"
+  },
+  {
+    "MatvareID": "01.032",
+    "Matvare": "Gamalost"
+  },
+  {
+    "MatvareID": "01.058",
+    "Matvare": "Gomme, Namdal"
+  },
+  {
+    "MatvareID": "01.072",
+    "Matvare": "Gudbrandsdalsost, brunost, lett"
+  },
+  {
+    "MatvareID": "01.071",
+    "Matvare": "Jarlsberg, gulost, lett"
+  },
+  {
+    "MatvareID": "01.271",
+    "Matvare": "Kremost, lett, Philadelphia"
+  },
+  {
+    "MatvareID": "01.204",
+    "Matvare": "Magerost, smørbar, 10 % fett"
+  },
+  {
+    "MatvareID": "01.202",
+    "Matvare": "Magerost, smørbar, 3 % fett"
+  },
+  {
+    "MatvareID": "01.064",
+    "Matvare": "Magerost, smørbar, 7 % fett"
+  },
+  {
+    "MatvareID": "01.297",
+    "Matvare": "Mozzarella, i lake, importert"
+  },
+  {
+    "MatvareID": "01.138",
+    "Matvare": "Mozzarella, lett, norsk"
+  },
+  {
+    "MatvareID": "01.040",
+    "Matvare": "Norvegia, gulost, lett"
+  },
+  {
+    "MatvareID": "01.142",
+    "Matvare": "Nøkkelost, lett"
+  },
+  {
+    "MatvareID": "01.059",
+    "Matvare": "Prim"
+  },
+  {
+    "MatvareID": "01.060",
+    "Matvare": "Prim, lett"
+  },
+  {
+    "MatvareID": "01.220",
+    "Matvare": "Prim, med jern, Sprett"
+  },
+  {
+    "MatvareID": "01.250",
+    "Matvare": "Pultost, Hedemark"
+  },
+  {
+    "MatvareID": "01.047",
+    "Matvare": "Pultost, Løiten"
+  },
+  {
+    "MatvareID": "01.266",
+    "Matvare": "Ricotta, ferskost"
+  },
+  {
+    "MatvareID": "02.001",
+    "Matvare": "Egg, rå"
+  },
+  {
+    "MatvareID": "02.030",
+    "Matvare": "Egg, økologisk, rå"
+  },
+  {
+    "MatvareID": "02.010",
+    "Matvare": "Eggedosis"
+  },
+  {
+    "MatvareID": "02.002",
+    "Matvare": "Eggehvite, rå"
+  },
+  {
+    "MatvareID": "02.003",
+    "Matvare": "Eggeplomme, rå"
+  },
+  {
+    "MatvareID": "02.026",
+    "Matvare": "Egg, kokt"
+  },
+  {
+    "MatvareID": "02.025",
+    "Matvare": "Egg, stekt i fett"
+  },
+  {
+    "MatvareID": "02.037",
+    "Matvare": "Egg, økologisk, kokt"
+  },
+  {
+    "MatvareID": "02.038",
+    "Matvare": "Egg, økologisk, stekt"
+  },
+  {
+    "MatvareID": "02.039",
+    "Matvare": "Eggehvite, kokt"
+  },
+  {
+    "MatvareID": "02.040",
+    "Matvare": "Eggeplomme, kokt"
+  },
+  {
+    "MatvareID": "02.008",
+    "Matvare": "Eggerøre, stekt i fett"
+  },
+  {
+    "MatvareID": "02.009",
+    "Matvare": "Eggerøre, stekt uten fett"
+  },
+  {
+    "MatvareID": "02.006",
+    "Matvare": "Omelett, stekt i fett"
+  },
+  {
+    "MatvareID": "02.007",
+    "Matvare": "Omelett, stekt uten fett"
+  },
+  {
+    "MatvareID": "03.001",
+    "Matvare": "And, kjøtt med skinn, rå"
+  },
+  {
+    "MatvareID": "03.231",
+    "Matvare": "And, kjøtt uten skinn, rå"
+  },
+  {
+    "MatvareID": "03.002",
+    "Matvare": "Gås, kjøtt med skinn, rå"
+  },
+  {
+    "MatvareID": "03.305",
+    "Matvare": "Gås, kjøtt uten skinn, rå"
+  },
+  {
+    "MatvareID": "03.224",
+    "Matvare": "Høne, bryst, filet, uten skinn, rå"
+  },
+  {
+    "MatvareID": "03.003",
+    "Matvare": "Høne, kjøtt med skinn, rå"
+  },
+  {
+    "MatvareID": "03.237",
+    "Matvare": "Høne, kjøtt uten skinn, rå"
+  },
+  {
+    "MatvareID": "03.204",
+    "Matvare": "Kalkun, bryst, filet, uten skinn, rå"
+  },
+  {
+    "MatvareID": "03.004",
+    "Matvare": "Kalkun, kjøtt med skinn, rå"
+  },
+  {
+    "MatvareID": "03.239",
+    "Matvare": "Kalkun, kjøtt uten skinn, rå"
+  },
+  {
+    "MatvareID": "03.205",
+    "Matvare": "Kylling, filet, uten skinn, rå"
+  },
+  {
+    "MatvareID": "03.373",
+    "Matvare": "Kylling, hel, med skinn, landkylling, rå"
+  },
+  {
+    "MatvareID": "03.006",
+    "Matvare": "Kylling, hel, med skinn, rå"
+  },
+  {
+    "MatvareID": "03.292",
+    "Matvare": "Kylling, hel, uten skinn, rå"
+  },
+  {
+    "MatvareID": "03.225",
+    "Matvare": "Kylling, lår (overlår og lårklubbe), med skinn, rå"
+  },
+  {
+    "MatvareID": "03.332",
+    "Matvare": "Kylling, lår (overlår og lårklubbe), uten skinn, rå"
+  },
+  {
+    "MatvareID": "03.331",
+    "Matvare": "Kylling, lårklubbe (underlår), med skinn, rå"
+  },
+  {
+    "MatvareID": "03.334",
+    "Matvare": "Kylling, lårklubbe (underlår), uten skinn, rå"
+  },
+  {
+    "MatvareID": "03.330",
+    "Matvare": "Kylling, overlår (lår uten lårklubbe), med skinn, rå"
+  },
+  {
+    "MatvareID": "03.333",
+    "Matvare": "Kylling, overlår (lår uten lårklubbe), uten skinn, rå"
+  },
+  {
+    "MatvareID": "03.390",
+    "Matvare": "Kyllingskinn, rå"
+  },
+  {
+    "MatvareID": "03.008",
+    "Matvare": "Rype, bryst, uten skinn, rå"
+  },
+  {
+    "MatvareID": "03.233",
+    "Matvare": "And, kjøtt med skinn, ovnsstekt"
+  },
+  {
+    "MatvareID": "03.232",
+    "Matvare": "And, kjøtt uten skinn, ovnsstekt"
+  },
+  {
+    "MatvareID": "03.234",
+    "Matvare": "Gås, kjøtt med skinn, ovnsstekt"
+  },
+  {
+    "MatvareID": "03.245",
+    "Matvare": "Gås, kjøtt uten skinn, ovnsstekt"
+  },
+  {
+    "MatvareID": "03.236",
+    "Matvare": "Høne, filet, kokt"
+  },
+  {
+    "MatvareID": "03.206",
+    "Matvare": "Høne, kjøtt med skinn, kokt"
+  },
+  {
+    "MatvareID": "03.241",
+    "Matvare": "Kalkun, brystfilet, uten skinn, ovnsstekt"
+  },
+  {
+    "MatvareID": "03.005",
+    "Matvare": "Kalkun, kjøtt med skinn, ovnsstekt"
+  },
+  {
+    "MatvareID": "03.240",
+    "Matvare": "Kalkun, kjøtt uten skinn, ovnsstekt"
+  },
+  {
+    "MatvareID": "03.418",
+    "Matvare": "Kylling, filet, kokt"
+  },
+  {
+    "MatvareID": "03.242",
+    "Matvare": "Kylling, filet, stekt i fett"
+  },
+  {
+    "MatvareID": "03.391",
+    "Matvare": "Kylling, hel, med skinn, landkylling, ovnsstekt"
+  },
+  {
+    "MatvareID": "03.007",
+    "Matvare": "Kylling, hel, med skinn, ovnsstekt"
+  },
+  {
+    "MatvareID": "03.246",
+    "Matvare": "Kylling, hel, uten skinn, ovnsstekt"
+  },
+  {
+    "MatvareID": "03.244",
+    "Matvare": "Kylling, lår (overlår og lårklubbe), med skinn, ovnsstekt"
+  },
+  {
+    "MatvareID": "03.392",
+    "Matvare": "Kylling, lår (overlår og lårklubbe), uten skinn, ovnsstekt"
+  },
+  {
+    "MatvareID": "03.395",
+    "Matvare": "Kylling, lårklubbe (underlår), med skinn, ovnsstekt"
+  },
+  {
+    "MatvareID": "03.396",
+    "Matvare": "Kylling, lårklubbe (underlår), uten skinn, ovnsstekt"
+  },
+  {
+    "MatvareID": "03.393",
+    "Matvare": "Kylling, overlår (lår uten lårklubbe), med skinn, ovnsstekt"
+  },
+  {
+    "MatvareID": "03.394",
+    "Matvare": "Kylling, overlår (lår uten lårklubbe), uten skinn, ovnsstekt"
+  },
+  {
+    "MatvareID": "03.249",
+    "Matvare": "Rype, bryst uten skinn, ovnsstekt"
+  },
+  {
+    "MatvareID": "03.215",
+    "Matvare": "Lam, bogstek, rå"
+  },
+  {
+    "MatvareID": "03.343",
+    "Matvare": "Lam, fett fra lammekjøtt, rå"
+  },
+  {
+    "MatvareID": "03.211",
+    "Matvare": "Lam, flatbiff, rå"
+  },
+  {
+    "MatvareID": "03.218",
+    "Matvare": "Lam, fårikålkjøtt, rå"
+  },
+  {
+    "MatvareID": "03.217",
+    "Matvare": "Lam, grytekjøtt, rå"
+  },
+  {
+    "MatvareID": "03.213",
+    "Matvare": "Lam, indrefilet, rå"
+  },
+  {
+    "MatvareID": "03.266",
+    "Matvare": "Lam, kotelett og sadel, kjøtt med fettrand, rå"
+  },
+  {
+    "MatvareID": "03.342",
+    "Matvare": "Lam, kotelett og sadel, kjøtt uten fettrand, rå"
+  },
+  {
+    "MatvareID": "03.015",
+    "Matvare": "Lam, lår med mørbrad, rå"
+  },
+  {
+    "MatvareID": "03.014",
+    "Matvare": "Lam, lår, stek, rå"
+  },
+  {
+    "MatvareID": "03.017",
+    "Matvare": "Lam, ribbe, side med ben, rå"
+  },
+  {
+    "MatvareID": "03.013",
+    "Matvare": "Lam, sadel, rå"
+  },
+  {
+    "MatvareID": "03.212",
+    "Matvare": "Lam, ytrefilet, rå"
+  },
+  {
+    "MatvareID": "03.032",
+    "Matvare": "Pinnekjøtt, råvare"
+  },
+  {
+    "MatvareID": "03.031",
+    "Matvare": "Sau, fårekjøtt, lettsaltet, rå"
+  },
+  {
+    "MatvareID": "03.267",
+    "Matvare": "Lam, kotelett, stekt"
+  },
+  {
+    "MatvareID": "03.265",
+    "Matvare": "Lam, lårstek med mørbrad, ovnsstekt"
+  },
+  {
+    "MatvareID": "03.039",
+    "Matvare": "Kalv, koteletter, rå"
+  },
+  {
+    "MatvareID": "03.037",
+    "Matvare": "Kalv, stek, rå"
+  },
+  {
+    "MatvareID": "03.051",
+    "Matvare": "Storfe, bankekjøtt, rå"
+  },
+  {
+    "MatvareID": "03.052",
+    "Matvare": "Storfe, bibringe, rå"
+  },
+  {
+    "MatvareID": "03.053",
+    "Matvare": "Storfe, bog, uten knoke, rå"
+  },
+  {
+    "MatvareID": "03.221",
+    "Matvare": "Storfe, bogstek, rå"
+  },
+  {
+    "MatvareID": "03.344",
+    "Matvare": "Storfe, entrecôte, synlig fett skåret vekk, rå"
+  },
+  {
+    "MatvareID": "03.054",
+    "Matvare": "Storfe, entrecôtekam, rå"
+  },
+  {
+    "MatvareID": "03.345",
+    "Matvare": "Storfe, fett fra storfekjøtt, rå"
+  },
+  {
+    "MatvareID": "03.068",
+    "Matvare": "Storfe, filetkam, rå"
+  },
+  {
+    "MatvareID": "03.056",
+    "Matvare": "Storfe, flatbiff, rå"
+  },
+  {
+    "MatvareID": "03.057",
+    "Matvare": "Storfe, høyrygg, rå"
+  },
+  {
+    "MatvareID": "03.058",
+    "Matvare": "Storfe, indrefilet, rå"
+  },
+  {
+    "MatvareID": "03.222",
+    "Matvare": "Storfe, kam, rå"
+  },
+  {
+    "MatvareID": "03.060",
+    "Matvare": "Storfe, kotelettkam, rå"
+  },
+  {
+    "MatvareID": "03.064",
+    "Matvare": "Storfe, mørbrad, rå"
+  },
+  {
+    "MatvareID": "03.219",
+    "Matvare": "Storfe, rundstek, rå"
+  },
+  {
+    "MatvareID": "03.066",
+    "Matvare": "Storfe, ytrefilet, rå"
+  },
+  {
+    "MatvareID": "03.151",
+    "Matvare": "Bankekjøtt, salt"
+  },
+  {
+    "MatvareID": "03.268",
+    "Matvare": "Storfe, entrecôtekam, stekt"
+  },
+  {
+    "MatvareID": "03.280",
+    "Matvare": "Storfe, kjøtt, kokt"
+  },
+  {
+    "MatvareID": "03.281",
+    "Matvare": "Storfe, stek, roastbiff, rosa stekt"
+  },
+  {
+    "MatvareID": "03.271",
+    "Matvare": "Storfe, ytrefilet, stekt"
+  },
+  {
+    "MatvareID": "03.349",
+    "Matvare": "Svin, 70 % skinke, 30 % flatbiff, strimlet, rå"
+  },
+  {
+    "MatvareID": "03.099",
+    "Matvare": "Svin, bacon med svor, rå"
+  },
+  {
+    "MatvareID": "03.095",
+    "Matvare": "Svin, bogstek, kjøtt uten fettrand, rå"
+  },
+  {
+    "MatvareID": "03.347",
+    "Matvare": "Svin, bogstek, med fettrand, rå"
+  },
+  {
+    "MatvareID": "03.291",
+    "Matvare": "Svin, familieribbe, rå"
+  },
+  {
+    "MatvareID": "03.350",
+    "Matvare": "Svin, fettrand, rå"
+  },
+  {
+    "MatvareID": "03.208",
+    "Matvare": "Svin, flatbiff, rå"
+  },
+  {
+    "MatvareID": "03.201",
+    "Matvare": "Svin, grillben, rå"
+  },
+  {
+    "MatvareID": "03.209",
+    "Matvare": "Svin, indrefilet, rå"
+  },
+  {
+    "MatvareID": "03.207",
+    "Matvare": "Svin, kjøtt fra knoke, rå"
+  },
+  {
+    "MatvareID": "03.096",
+    "Matvare": "Svin, kotelett, kam, svinekotelett, uten fettrand, rå"
+  },
+  {
+    "MatvareID": "03.082",
+    "Matvare": "Svin, kotelett, kam, svinekoteletter, inntil 5 mm fettrand, rå"
+  },
+  {
+    "MatvareID": "03.089",
+    "Matvare": "Svin, midtribbe, med kam og svor, rå"
+  },
+  {
+    "MatvareID": "03.086",
+    "Matvare": "Svin, mørbrad, rå"
+  },
+  {
+    "MatvareID": "03.083",
+    "Matvare": "Svin, nakkekoteletter, rå"
+  },
+  {
+    "MatvareID": "03.100",
+    "Matvare": "Svin, sideflesk, lettsaltet, rå"
+  },
+  {
+    "MatvareID": "03.090",
+    "Matvare": "Svin, sideflesk, uten ben, rå"
+  },
+  {
+    "MatvareID": "03.091",
+    "Matvare": "Svin, skinke, med knoke, rå"
+  },
+  {
+    "MatvareID": "03.346",
+    "Matvare": "Svin, skinkestek med fettrand, uten svor, rå"
+  },
+  {
+    "MatvareID": "03.098",
+    "Matvare": "Svin, skinkestek, rå"
+  },
+  {
+    "MatvareID": "03.087",
+    "Matvare": "Svin, tynnribbe, med svor, rå"
+  },
+  {
+    "MatvareID": "03.210",
+    "Matvare": "Svin, ytrefilet, rå"
+  },
+  {
+    "MatvareID": "03.275",
+    "Matvare": "Svin, bacon med svor, stekt"
+  },
+  {
+    "MatvareID": "03.283",
+    "Matvare": "Svin, familieribbe, stekt"
+  },
+  {
+    "MatvareID": "03.272",
+    "Matvare": "Svin, flatbiff, stekt"
+  },
+  {
+    "MatvareID": "03.273",
+    "Matvare": "Svin, koteletter, kam med fettrand, stekt"
+  },
+  {
+    "MatvareID": "03.297",
+    "Matvare": "Svin, koteletter, kam uten fettrand, stekt"
+  },
+  {
+    "MatvareID": "03.274",
+    "Matvare": "Svin, nakkekoteletter, stekt"
+  },
+  {
+    "MatvareID": "03.285",
+    "Matvare": "Svin, sideflesk, lettsaltet, stekt"
+  },
+  {
+    "MatvareID": "03.296",
+    "Matvare": "Svin, stek uten fettrand, ovnsstekt"
+  },
+  {
+    "MatvareID": "03.282",
+    "Matvare": "Svin, stek, med fettrand, ovnsstekt"
+  },
+  {
+    "MatvareID": "03.117",
+    "Matvare": "Blod, okse, rå"
+  },
+  {
+    "MatvareID": "03.112",
+    "Matvare": "Elg, ytterlår, stek, rå"
+  },
+  {
+    "MatvareID": "03.132",
+    "Matvare": "Hamburger, rå"
+  },
+  {
+    "MatvareID": "03.113",
+    "Matvare": "Hare, kjøtt, rå"
+  },
+  {
+    "MatvareID": "03.118",
+    "Matvare": "Hjerte, rå"
+  },
+  {
+    "MatvareID": "03.114",
+    "Matvare": "Hjort, stek, rå"
+  },
+  {
+    "MatvareID": "03.033",
+    "Matvare": "Hval, kjøtt, rå"
+  },
+  {
+    "MatvareID": "03.044",
+    "Matvare": "Kanin, kjøtt, rå"
+  },
+  {
+    "MatvareID": "03.126",
+    "Matvare": "Karbonadedeig, rå"
+  },
+  {
+    "MatvareID": "03.136",
+    "Matvare": "Karbonader, okse, rå"
+  },
+  {
+    "MatvareID": "03.366",
+    "Matvare": "Kjøttdeig, kylling, rå"
+  },
+  {
+    "MatvareID": "03.127",
+    "Matvare": "Kjøttdeig, storfe, med salt og vann, rå"
+  },
+  {
+    "MatvareID": "03.397",
+    "Matvare": "Kjøttdeig, storfe, uten salt og vann, rå"
+  },
+  {
+    "MatvareID": "03.348",
+    "Matvare": "Kjøttdeig, svin, rå"
+  },
+  {
+    "MatvareID": "03.129",
+    "Matvare": "Kjøttfarse, rå"
+  },
+  {
+    "MatvareID": "03.259",
+    "Matvare": "Lever, kylling, rå"
+  },
+  {
+    "MatvareID": "03.120",
+    "Matvare": "Lever, lam, rå"
+  },
+  {
+    "MatvareID": "03.121",
+    "Matvare": "Lever, rein, rå"
+  },
+  {
+    "MatvareID": "03.122",
+    "Matvare": "Lever, storfe, rå"
+  },
+  {
+    "MatvareID": "03.123",
+    "Matvare": "Lever, svin, rå"
+  },
+  {
+    "MatvareID": "03.128",
+    "Matvare": "Medisterdeig, rå"
+  },
+  {
+    "MatvareID": "03.115",
+    "Matvare": "Reinsdyr, bog, stek, rå"
+  },
+  {
+    "MatvareID": "03.365",
+    "Matvare": "Villsvin, kjøtt, rå"
+  },
+  {
+    "MatvareID": "03.252",
+    "Matvare": "Wienersnitzel, rå"
+  },
+  {
+    "MatvareID": "03.188",
+    "Matvare": "Bogskinke, hermetisk"
+  },
+  {
+    "MatvareID": "03.358",
+    "Matvare": "Elg, stek, ovnsstekt"
+  },
+  {
+    "MatvareID": "03.139",
+    "Matvare": "Karbonadedeig, stekt uten fett"
+  },
+  {
+    "MatvareID": "03.457",
+    "Matvare": "Kjøttboller"
+  },
+  {
+    "MatvareID": "03.454",
+    "Matvare": "Kjøttboller, First Price"
+  },
+  {
+    "MatvareID": "03.177",
+    "Matvare": "Kjøttboller, hermetisk"
+  },
+  {
+    "MatvareID": "03.319",
+    "Matvare": "Kjøttboller, kalkun og kylling"
+  },
+  {
+    "MatvareID": "03.459",
+    "Matvare": "Kjøttboller, kalkun og kylling, Prior"
+  },
+  {
+    "MatvareID": "03.458",
+    "Matvare": "Kjøttboller, kylling, Coop"
+  },
+  {
+    "MatvareID": "03.456",
+    "Matvare": "Kjøttboller, svenske, Coop"
+  },
+  {
+    "MatvareID": "03.455",
+    "Matvare": "Kjøttboller, svenske, Gilde"
+  },
+  {
+    "MatvareID": "03.138",
+    "Matvare": "Kjøttdeig, storfe, stekt uten fett"
+  },
+  {
+    "MatvareID": "03.141",
+    "Matvare": "Kjøttdeig, svin, stekt uten fett"
+  },
+  {
+    "MatvareID": "03.133",
+    "Matvare": "Kjøttkaker"
+  },
+  {
+    "MatvareID": "03.452",
+    "Matvare": "Kjøttkaker, Gilde"
+  },
+  {
+    "MatvareID": "03.453",
+    "Matvare": "Kjøttkaker, Nordfjord"
+  },
+  {
+    "MatvareID": "03.260",
+    "Matvare": "Reinsdyr, kjøtt, røkt"
+  },
+  {
+    "MatvareID": "03.352",
+    "Matvare": "Reinsdyr, kjøtt, tørket, rå"
+  },
+  {
+    "MatvareID": "03.181",
+    "Matvare": "Reinsdyrkaker, hermetisk"
+  },
+  {
+    "MatvareID": "03.351",
+    "Matvare": "Reinsdyrskav, fryst, rå"
+  },
+  {
+    "MatvareID": "03.362",
+    "Matvare": "Rådyr, kjøtt, rå"
+  },
+  {
+    "MatvareID": "03.363",
+    "Matvare": "Chorizo, pølse"
+  },
+  {
+    "MatvareID": "03.152",
+    "Matvare": "Falukorv"
+  },
+  {
+    "MatvareID": "03.144",
+    "Matvare": "Grillpølse"
+  },
+  {
+    "MatvareID": "03.444",
+    "Matvare": "Grillpølse, Gilde"
+  },
+  {
+    "MatvareID": "03.318",
+    "Matvare": "Grillpølse, kalkun og kylling"
+  },
+  {
+    "MatvareID": "03.460",
+    "Matvare": "Grillpølse, kalkun og kylling, Prior"
+  },
+  {
+    "MatvareID": "03.461",
+    "Matvare": "Grillpølse, kalkun og kylling, Solvinge"
+  },
+  {
+    "MatvareID": "03.199",
+    "Matvare": "Grillpølse, mager, Gilde"
+  },
+  {
+    "MatvareID": "03.445",
+    "Matvare": "Grillpølse, Nordfjord"
+  },
+  {
+    "MatvareID": "03.443",
+    "Matvare": "Grillpølse, X-tra"
+  },
+  {
+    "MatvareID": "03.145",
+    "Matvare": "Kjøttpølse"
+  },
+  {
+    "MatvareID": "03.446",
+    "Matvare": "Kjøttpølse, Gilde"
+  },
+  {
+    "MatvareID": "03.146",
+    "Matvare": "Kjøttpølse, med mindre fett"
+  },
+  {
+    "MatvareID": "03.447",
+    "Matvare": "Kjøttpølse, Nordfjord"
+  },
+  {
+    "MatvareID": "03.147",
+    "Matvare": "Knakkpølse"
+  },
+  {
+    "MatvareID": "03.356",
+    "Matvare": "Kylling- og kalkunpølse, med mindre fett"
+  },
+  {
+    "MatvareID": "03.361",
+    "Matvare": "Kylling- og kalkunpølse, med ost"
+  },
+  {
+    "MatvareID": "03.148",
+    "Matvare": "Medisterpølse, røkt/urøkt, kokt"
+  },
+  {
+    "MatvareID": "03.357",
+    "Matvare": "Ostegrill, ostewiener"
+  },
+  {
+    "MatvareID": "03.364",
+    "Matvare": "Salsiccia, italiensk pølse"
+  },
+  {
+    "MatvareID": "03.149",
+    "Matvare": "Sosisser, små pølser"
+  },
+  {
+    "MatvareID": "03.150",
+    "Matvare": "Wienerpølse"
+  },
+  {
+    "MatvareID": "03.449",
+    "Matvare": "Wienerpølse, Finsbråten"
+  },
+  {
+    "MatvareID": "03.448",
+    "Matvare": "Wienerpølse, Gilde"
+  },
+  {
+    "MatvareID": "03.451",
+    "Matvare": "Wienerpølse, kalkun og kylling, Prior"
+  },
+  {
+    "MatvareID": "03.198",
+    "Matvare": "Wienerpølse, mager, Gilde"
+  },
+  {
+    "MatvareID": "03.450",
+    "Matvare": "Wienerpølse, X-tra"
+  },
+  {
+    "MatvareID": "03.103",
+    "Matvare": "Bayonneskinke, kokt"
+  },
+  {
+    "MatvareID": "03.170",
+    "Matvare": "Blodpudding"
+  },
+  {
+    "MatvareID": "03.029",
+    "Matvare": "Fenalår"
+  },
+  {
+    "MatvareID": "03.153",
+    "Matvare": "Fleskepølse"
+  },
+  {
+    "MatvareID": "03.154",
+    "Matvare": "Fårepølse"
+  },
+  {
+    "MatvareID": "03.323",
+    "Matvare": "Kalkunfilet, naturell/røkt"
+  },
+  {
+    "MatvareID": "03.322",
+    "Matvare": "Kalkunrull, krydderskinke"
+  },
+  {
+    "MatvareID": "03.155",
+    "Matvare": "Kalverull"
+  },
+  {
+    "MatvareID": "03.137",
+    "Matvare": "Karbonader"
+  },
+  {
+    "MatvareID": "03.442",
+    "Matvare": "Karbonader, First Price"
+  },
+  {
+    "MatvareID": "03.439",
+    "Matvare": "Karbonader, Gilde"
+  },
+  {
+    "MatvareID": "03.440",
+    "Matvare": "Karbonader, Prima"
+  },
+  {
+    "MatvareID": "03.441",
+    "Matvare": "Karbonader, X-tra"
+  },
+  {
+    "MatvareID": "03.134",
+    "Matvare": "Kjøttpudding, stekt"
+  },
+  {
+    "MatvareID": "03.106",
+    "Matvare": "Kokt skinke"
+  },
+  {
+    "MatvareID": "03.421",
+    "Matvare": "Kokt skinke, First Price"
+  },
+  {
+    "MatvareID": "03.419",
+    "Matvare": "Kokt skinke, Gilde"
+  },
+  {
+    "MatvareID": "03.420",
+    "Matvare": "Kokt skinke, Nordfjord"
+  },
+  {
+    "MatvareID": "03.438",
+    "Matvare": "Kyllingpostei"
+  },
+  {
+    "MatvareID": "03.437",
+    "Matvare": "Kyllingpostei, hermetisk, Stabburet"
+  },
+  {
+    "MatvareID": "03.436",
+    "Matvare": "Kyllingpostei, ovnsbakt, Prior"
+  },
+  {
+    "MatvareID": "03.214",
+    "Matvare": "Lammerull"
+  },
+  {
+    "MatvareID": "03.471",
+    "Matvare": "Leverpostei, fersk, Stabburet"
+  },
+  {
+    "MatvareID": "03.469",
+    "Matvare": "Leverpostei, grov, dansk, Stryhns"
+  },
+  {
+    "MatvareID": "03.289",
+    "Matvare": "Leverpostei, hermetisk"
+  },
+  {
+    "MatvareID": "03.434",
+    "Matvare": "Leverpostei, hermetisk, Stabburet"
+  },
+  {
+    "MatvareID": "03.157",
+    "Matvare": "Leverpostei, ovnsbakt"
+  },
+  {
+    "MatvareID": "03.432",
+    "Matvare": "Leverpostei, ovnsbakt, Gilde"
+  },
+  {
+    "MatvareID": "03.433",
+    "Matvare": "Leverpostei, ovnsbakt, Mills"
+  },
+  {
+    "MatvareID": "03.468",
+    "Matvare": "Leverpostei, ovnsbakt, Vita hjertego"
+  },
+  {
+    "MatvareID": "03.470",
+    "Matvare": "Leverpostei, uspesifisert"
+  },
+  {
+    "MatvareID": "03.171",
+    "Matvare": "Lungemos, kjøpt"
+  },
+  {
+    "MatvareID": "03.135",
+    "Matvare": "Medisterkaker, stekt"
+  },
+  {
+    "MatvareID": "03.159",
+    "Matvare": "Morrpølse"
+  },
+  {
+    "MatvareID": "03.161",
+    "Matvare": "Okserull"
+  },
+  {
+    "MatvareID": "03.162",
+    "Matvare": "Reinsdyrpølse"
+  },
+  {
+    "MatvareID": "03.353",
+    "Matvare": "Ribberull, skiver"
+  },
+  {
+    "MatvareID": "03.354",
+    "Matvare": "Roastbiff, skiver"
+  },
+  {
+    "MatvareID": "03.163",
+    "Matvare": "Salami"
+  },
+  {
+    "MatvareID": "03.429",
+    "Matvare": "Salami, dansk, First Price"
+  },
+  {
+    "MatvareID": "03.427",
+    "Matvare": "Salami, dansk, Tulip"
+  },
+  {
+    "MatvareID": "03.426",
+    "Matvare": "Salami, Gilde spesialsalami"
+  },
+  {
+    "MatvareID": "03.425",
+    "Matvare": "Salami, Grilstad jubelsalami"
+  },
+  {
+    "MatvareID": "03.428",
+    "Matvare": "Salami, mager, Gilde"
+  },
+  {
+    "MatvareID": "03.164",
+    "Matvare": "Servelat"
+  },
+  {
+    "MatvareID": "03.423",
+    "Matvare": "Servelat, Folkets"
+  },
+  {
+    "MatvareID": "03.202",
+    "Matvare": "Servelat, mager, Gilde"
+  },
+  {
+    "MatvareID": "03.422",
+    "Matvare": "Servelat, Nordfjord"
+  },
+  {
+    "MatvareID": "03.424",
+    "Matvare": "Servelat, X-tra"
+  },
+  {
+    "MatvareID": "03.109",
+    "Matvare": "Skinkerull, Westfalerskinke"
+  },
+  {
+    "MatvareID": "03.111",
+    "Matvare": "Spekeskinke"
+  },
+  {
+    "MatvareID": "03.431",
+    "Matvare": "Spekeskinke, Gilde"
+  },
+  {
+    "MatvareID": "03.430",
+    "Matvare": "Spekeskinke, Strandaskinke, Grilstad"
+  },
+  {
+    "MatvareID": "03.166",
+    "Matvare": "Stabburpølse"
+  },
+  {
+    "MatvareID": "03.105",
+    "Matvare": "Svinekam, røkt"
+  },
+  {
+    "MatvareID": "03.167",
+    "Matvare": "Sylte"
+  },
+  {
+    "MatvareID": "03.464",
+    "Matvare": "Bidos, hjemmelaget"
+  },
+  {
+    "MatvareID": "03.256",
+    "Matvare": "Biff stroganoff"
+  },
+  {
+    "MatvareID": "03.309",
+    "Matvare": "Cheeseburger, med brød, dressing mv, kjøpt"
+  },
+  {
+    "MatvareID": "03.462",
+    "Matvare": "Chili con carne"
+  },
+  {
+    "MatvareID": "03.251",
+    "Matvare": "Fårikål av lammekjøtt"
+  },
+  {
+    "MatvareID": "03.310",
+    "Matvare": "Hamburger, dobbel, med brød, dressing mv, kjøpt"
+  },
+  {
+    "MatvareID": "03.311",
+    "Matvare": "Hamburger, ekstra kjøtt, med brød, dressing mv, kjøpt"
+  },
+  {
+    "MatvareID": "03.308",
+    "Matvare": "Hamburger, enkel, med brød, dressing mv, kjøpt"
+  },
+  {
+    "MatvareID": "03.465",
+    "Matvare": "Hyrdepai, med kjøttdeig, grønnsaker og potetmos"
+  },
+  {
+    "MatvareID": "03.466",
+    "Matvare": "Hønsefrikassé, hjemmelaget"
+  },
+  {
+    "MatvareID": "03.467",
+    "Matvare": "Innbakte pølser"
+  },
+  {
+    "MatvareID": "03.312",
+    "Matvare": "Kyllingburger, med brød, dressing mv, kjøpt"
+  },
+  {
+    "MatvareID": "03.302",
+    "Matvare": "Kyllinggryte, med tomat, løk, sopp"
+  },
+  {
+    "MatvareID": "03.320",
+    "Matvare": "Kyllingnuggets, fritert, dagligvare"
+  },
+  {
+    "MatvareID": "03.307",
+    "Matvare": "Kyllingnuggets, fritert, fastfood"
+  },
+  {
+    "MatvareID": "03.257",
+    "Matvare": "Lammefrikassé"
+  },
+  {
+    "MatvareID": "03.288",
+    "Matvare": "Lapskaus, lys, storfekjøtt"
+  },
+  {
+    "MatvareID": "03.254",
+    "Matvare": "Lasagne, med kjøttdeig"
+  },
+  {
+    "MatvareID": "03.315",
+    "Matvare": "Lasagne, med kjøttdeig, fryst, kjøpt"
+  },
+  {
+    "MatvareID": "03.250",
+    "Matvare": "Moussaka, med kjøttdeig"
+  },
+  {
+    "MatvareID": "03.321",
+    "Matvare": "Panetter, med kylling og ost"
+  },
+  {
+    "MatvareID": "03.463",
+    "Matvare": "Pasta bolognese"
+  },
+  {
+    "MatvareID": "03.313",
+    "Matvare": "Pasta med kalkun, ostesaus, fryst, kjøpt"
+  },
+  {
+    "MatvareID": "03.314",
+    "Matvare": "Pasta med kjøttsaus, bolognese, fryst, kjøpt"
+  },
+  {
+    "MatvareID": "03.317",
+    "Matvare": "Pytt i panne, stekte poteter med kjøtt og løk, fryst, kjøpt"
+  },
+  {
+    "MatvareID": "03.326",
+    "Matvare": "Sodd, med kjøttboller, hermetisk"
+  },
+  {
+    "MatvareID": "04.001",
+    "Matvare": "Blåkveite, rå/kaldrøkt"
+  },
+  {
+    "MatvareID": "04.003",
+    "Matvare": "Brisling, rå"
+  },
+  {
+    "MatvareID": "04.120",
+    "Matvare": "Havål, rå"
+  },
+  {
+    "MatvareID": "04.324",
+    "Matvare": "Kveite, hellefisk, oppdrett, rå"
+  },
+  {
+    "MatvareID": "04.014",
+    "Matvare": "Kveite, hellefisk, rå"
+  },
+  {
+    "MatvareID": "04.309",
+    "Matvare": "Kveite, hellefisk, skiver, røkt, rå"
+  },
+  {
+    "MatvareID": "04.325",
+    "Matvare": "Kveite, hellefisk, uspesifisert, rå"
+  },
+  {
+    "MatvareID": "04.220",
+    "Matvare": "Laks, oppdrett, rå"
+  },
+  {
+    "MatvareID": "04.015",
+    "Matvare": "Laks, vill, rå"
+  },
+  {
+    "MatvareID": "04.022",
+    "Matvare": "Makrell, mai-juni, rå"
+  },
+  {
+    "MatvareID": "04.023",
+    "Matvare": "Makrell, vill (høst), rå"
+  },
+  {
+    "MatvareID": "04.111",
+    "Matvare": "Pigghå, håbrann, rå"
+  },
+  {
+    "MatvareID": "04.117",
+    "Matvare": "Røye, rå"
+  },
+  {
+    "MatvareID": "04.031",
+    "Matvare": "Sild, fetsild, sommersild, rå"
+  },
+  {
+    "MatvareID": "04.032",
+    "Matvare": "Sild, storsild, vintersild, rå"
+  },
+  {
+    "MatvareID": "04.256",
+    "Matvare": "Ørret, oppdrett, rå"
+  },
+  {
+    "MatvareID": "04.047",
+    "Matvare": "Ørret, sjøørret, rå"
+  },
+  {
+    "MatvareID": "04.049",
+    "Matvare": "Ål, rå"
+  },
+  {
+    "MatvareID": "04.223",
+    "Matvare": "Kveite, filet, melpanert, stekt i fett"
+  },
+  {
+    "MatvareID": "04.222",
+    "Matvare": "Kveite, skiver, kokt"
+  },
+  {
+    "MatvareID": "04.255",
+    "Matvare": "Laks, filet, gravet"
+  },
+  {
+    "MatvareID": "04.342",
+    "Matvare": "Laks, filet, ovnsstekt"
+  },
+  {
+    "MatvareID": "04.343",
+    "Matvare": "Laks, filet, stekt i panne"
+  },
+  {
+    "MatvareID": "04.225",
+    "Matvare": "Laks, oppdrett, skiver, kokt"
+  },
+  {
+    "MatvareID": "04.226",
+    "Matvare": "Laks, oppdrett, skiver, stekt i fett"
+  },
+  {
+    "MatvareID": "04.018",
+    "Matvare": "Laks, røkt"
+  },
+  {
+    "MatvareID": "04.224",
+    "Matvare": "Laks, vill, kokt"
+  },
+  {
+    "MatvareID": "04.227",
+    "Matvare": "Makrell, juli-sept (fet), kokt"
+  },
+  {
+    "MatvareID": "04.228",
+    "Matvare": "Makrell, juli-sept (fet), stekt i fett"
+  },
+  {
+    "MatvareID": "04.311",
+    "Matvare": "Makrell, kaldrøkt"
+  },
+  {
+    "MatvareID": "04.229",
+    "Matvare": "Makrell, mai-juni, kokt"
+  },
+  {
+    "MatvareID": "04.230",
+    "Matvare": "Makrell, mai-juni, stekt i fett"
+  },
+  {
+    "MatvareID": "04.024",
+    "Matvare": "Makrell, varmrøkt"
+  },
+  {
+    "MatvareID": "04.235",
+    "Matvare": "Røye, melpanert, stekt i fett"
+  },
+  {
+    "MatvareID": "04.234",
+    "Matvare": "Røye, stekt uten fett"
+  },
+  {
+    "MatvareID": "04.242",
+    "Matvare": "Sild, fetsild/sommersild, kokt"
+  },
+  {
+    "MatvareID": "04.243",
+    "Matvare": "Sild, fetsild/sommersild, melpanert, stekt i fett"
+  },
+  {
+    "MatvareID": "04.123",
+    "Matvare": "Sild, røkt, bøkling"
+  },
+  {
+    "MatvareID": "04.244",
+    "Matvare": "Sild, storsild/vintersild, kokt"
+  },
+  {
+    "MatvareID": "04.245",
+    "Matvare": "Sild, storsild/vintersild, melpanert, stekt i fett"
+  },
+  {
+    "MatvareID": "04.310",
+    "Matvare": "Spekesild, utvannet"
+  },
+  {
+    "MatvareID": "04.260",
+    "Matvare": "Ørret, filet, røkt"
+  },
+  {
+    "MatvareID": "04.257",
+    "Matvare": "Ørret, oppdrett, kokt"
+  },
+  {
+    "MatvareID": "04.267",
+    "Matvare": "Ørret, oppdrett, skiver, melpanert, stekt i fett"
+  },
+  {
+    "MatvareID": "04.317",
+    "Matvare": "Ørret, sjøørret, kokt"
+  },
+  {
+    "MatvareID": "04.259",
+    "Matvare": "Ørret, sjøørret, melpanert, stekt i fett"
+  },
+  {
+    "MatvareID": "04.050",
+    "Matvare": "Ål, røkt"
+  },
+  {
+    "MatvareID": "04.341",
+    "Matvare": "Alaska pollock, rå"
+  },
+  {
+    "MatvareID": "04.115",
+    "Matvare": "Blålange, rå"
+  },
+  {
+    "MatvareID": "04.211",
+    "Matvare": "Breiflabb, rå"
+  },
+  {
+    "MatvareID": "04.004",
+    "Matvare": "Brosme, rå"
+  },
+  {
+    "MatvareID": "04.006",
+    "Matvare": "Gjedde, rå"
+  },
+  {
+    "MatvareID": "04.008",
+    "Matvare": "Horngjel, rå"
+  },
+  {
+    "MatvareID": "04.009",
+    "Matvare": "Hvitting, rå"
+  },
+  {
+    "MatvareID": "04.011",
+    "Matvare": "Hyse, kolje, røkt, skiver, rå"
+  },
+  {
+    "MatvareID": "04.110",
+    "Matvare": "Hyse, kolje, rå"
+  },
+  {
+    "MatvareID": "04.116",
+    "Matvare": "Håbrann, rå"
+  },
+  {
+    "MatvareID": "04.019",
+    "Matvare": "Lange, rå"
+  },
+  {
+    "MatvareID": "04.113",
+    "Matvare": "Lomre, rå"
+  },
+  {
+    "MatvareID": "04.020",
+    "Matvare": "Lutefisk, tørr vare, rå"
+  },
+  {
+    "MatvareID": "04.021",
+    "Matvare": "Lyr, rå"
+  },
+  {
+    "MatvareID": "04.344",
+    "Matvare": "Pangasius, rå"
+  },
+  {
+    "MatvareID": "04.112",
+    "Matvare": "Piggvar, rå"
+  },
+  {
+    "MatvareID": "04.005",
+    "Matvare": "Rødspette, rå"
+  },
+  {
+    "MatvareID": "04.029",
+    "Matvare": "Sei, rå"
+  },
+  {
+    "MatvareID": "04.030",
+    "Matvare": "Sik, rå"
+  },
+  {
+    "MatvareID": "04.118",
+    "Matvare": "Sjøtunge, rå"
+  },
+  {
+    "MatvareID": "04.119",
+    "Matvare": "Skate, rå"
+  },
+  {
+    "MatvareID": "04.037",
+    "Matvare": "Steinbit, rå"
+  },
+  {
+    "MatvareID": "04.039",
+    "Matvare": "Torsk, i skiver, rå"
+  },
+  {
+    "MatvareID": "04.042",
+    "Matvare": "Torsk, lettsaltet i skiver, rå"
+  },
+  {
+    "MatvareID": "04.326",
+    "Matvare": "Torsk, oppdrett, rå"
+  },
+  {
+    "MatvareID": "04.327",
+    "Matvare": "Torsk, uspesifisert, rå"
+  },
+  {
+    "MatvareID": "04.038",
+    "Matvare": "Torsk, vill, rå"
+  },
+  {
+    "MatvareID": "04.043",
+    "Matvare": "Tunfisk, makrellstørje, rå"
+  },
+  {
+    "MatvareID": "04.046",
+    "Matvare": "Uer, lettsaltet, rå"
+  },
+  {
+    "MatvareID": "04.045",
+    "Matvare": "Uer, rå"
+  },
+  {
+    "MatvareID": "04.048",
+    "Matvare": "Åbor, abbor, rå"
+  },
+  {
+    "MatvareID": "04.250",
+    "Matvare": "Breiflabb, filet, kokt"
+  },
+  {
+    "MatvareID": "04.218",
+    "Matvare": "Hyse, kolje, kokt"
+  },
+  {
+    "MatvareID": "04.221",
+    "Matvare": "Hyse, kolje, røkt, skiver, kokt"
+  },
+  {
+    "MatvareID": "04.253",
+    "Matvare": "Klippfisk, saltet og tørket"
+  },
+  {
+    "MatvareID": "04.314",
+    "Matvare": "Lutefisk, kokt"
+  },
+  {
+    "MatvareID": "04.068",
+    "Matvare": "Rødspette, filet, kavringpanert, rå"
+  },
+  {
+    "MatvareID": "04.233",
+    "Matvare": "Rødspette, filet, kavringpanert, stekt i fett"
+  },
+  {
+    "MatvareID": "04.231",
+    "Matvare": "Rødspette, filet, kokt"
+  },
+  {
+    "MatvareID": "04.232",
+    "Matvare": "Rødspette, filet, melpanert, stekt i fett"
+  },
+  {
+    "MatvareID": "04.200",
+    "Matvare": "Rødspette, fylt, forfritert, fryst"
+  },
+  {
+    "MatvareID": "04.278",
+    "Matvare": "Rødspette, panert, forfritert, fylt, ovnsstekt uten fett"
+  },
+  {
+    "MatvareID": "04.279",
+    "Matvare": "Rødspette, panert, forfritert, fylt, stekt i fett"
+  },
+  {
+    "MatvareID": "04.069",
+    "Matvare": "Sei, filet, kavringpanert, rå"
+  },
+  {
+    "MatvareID": "04.241",
+    "Matvare": "Sei, filet, kavringpanert, stekt i fett"
+  },
+  {
+    "MatvareID": "04.320",
+    "Matvare": "Sei, filet, melpanert, stekt i fett"
+  },
+  {
+    "MatvareID": "04.238",
+    "Matvare": "Sei, filet, melpanert, stekt i hard margarin"
+  },
+  {
+    "MatvareID": "04.239",
+    "Matvare": "Sei, filet, melpanert, stekt i myk margarin"
+  },
+  {
+    "MatvareID": "04.237",
+    "Matvare": "Sei, filet, melpanert, stekt i smør"
+  },
+  {
+    "MatvareID": "04.240",
+    "Matvare": "Sei, filet, melpanert, stekt i soyaolje"
+  },
+  {
+    "MatvareID": "04.236",
+    "Matvare": "Sei, kokt"
+  },
+  {
+    "MatvareID": "04.349",
+    "Matvare": "Sei, panert, fryst, First Price"
+  },
+  {
+    "MatvareID": "04.351",
+    "Matvare": "Sei, panert, fryst, kjøpt"
+  },
+  {
+    "MatvareID": "04.350",
+    "Matvare": "Sei, pankopanert, fryst, Lerøy"
+  },
+  {
+    "MatvareID": "04.071",
+    "Matvare": "Seibiff, melpanert, med forstekt løk, fryst, kjøpt"
+  },
+  {
+    "MatvareID": "04.280",
+    "Matvare": "Seibiff, melpanert, med forstekt løk, kjøpt, stekt i fett"
+  },
+  {
+    "MatvareID": "04.247",
+    "Matvare": "Steinbit, filet, melpanert, stekt i fett"
+  },
+  {
+    "MatvareID": "04.246",
+    "Matvare": "Steinbit, kokt"
+  },
+  {
+    "MatvareID": "04.070",
+    "Matvare": "Torsk, filet, kavringpanert, rå"
+  },
+  {
+    "MatvareID": "04.251",
+    "Matvare": "Torsk, filet, kavringpanert, stekt i fett"
+  },
+  {
+    "MatvareID": "04.347",
+    "Matvare": "Torsk, filet, kokt"
+  },
+  {
+    "MatvareID": "04.249",
+    "Matvare": "Torsk, filet, melpanert, stekt i fett"
+  },
+  {
+    "MatvareID": "04.345",
+    "Matvare": "Torsk, filet, ovnsstekt"
+  },
+  {
+    "MatvareID": "04.346",
+    "Matvare": "Torsk, filet, stekt i panne"
+  },
+  {
+    "MatvareID": "04.203",
+    "Matvare": "Torsk, forfritert, fylt, fryst"
+  },
+  {
+    "MatvareID": "04.252",
+    "Matvare": "Torsk, lettsaltet, kokt"
+  },
+  {
+    "MatvareID": "04.348",
+    "Matvare": "Torsk, panert, Findus Steketorsk"
+  },
+  {
+    "MatvareID": "04.281",
+    "Matvare": "Torsk, panert, forfritert, fylt, ovnsstekt uten fett"
+  },
+  {
+    "MatvareID": "04.282",
+    "Matvare": "Torsk, panert, forfritert, fylt, stekt i fett"
+  },
+  {
+    "MatvareID": "04.306",
+    "Matvare": "Torsk, panert, forfritert, ovnsstekt uten fett"
+  },
+  {
+    "MatvareID": "04.284",
+    "Matvare": "Torsk, panert, forfritert, stekt i fett"
+  },
+  {
+    "MatvareID": "04.248",
+    "Matvare": "Torsk, skiver, kokt"
+  },
+  {
+    "MatvareID": "04.041",
+    "Matvare": "Tørrfisk"
+  },
+  {
+    "MatvareID": "04.266",
+    "Matvare": "Uer, kokt"
+  },
+  {
+    "MatvareID": "04.261",
+    "Matvare": "Uer, lettsaltet, skiver, kokt"
+  },
+  {
+    "MatvareID": "04.075",
+    "Matvare": "Ansjos, hermetisk"
+  },
+  {
+    "MatvareID": "04.322",
+    "Matvare": "Brisling, i olje, avrent, hermetisk"
+  },
+  {
+    "MatvareID": "04.321",
+    "Matvare": "Brisling, i tomat, hermetisk"
+  },
+  {
+    "MatvareID": "04.079",
+    "Matvare": "Fiskeboller, avrent, hermetisk"
+  },
+  {
+    "MatvareID": "04.210",
+    "Matvare": "Fiskeboller, kjølevare"
+  },
+  {
+    "MatvareID": "04.270",
+    "Matvare": "Fiskefarse, mager fisk, rå"
+  },
+  {
+    "MatvareID": "04.356",
+    "Matvare": "Fiskekaker, Coop"
+  },
+  {
+    "MatvareID": "04.355",
+    "Matvare": "Fiskekaker, Fiskemannen"
+  },
+  {
+    "MatvareID": "04.354",
+    "Matvare": "Fiskekaker, Godehav"
+  },
+  {
+    "MatvareID": "04.061",
+    "Matvare": "Fiskekaker, kjøpt"
+  },
+  {
+    "MatvareID": "04.353",
+    "Matvare": "Fiskekaker, Lofoten"
+  },
+  {
+    "MatvareID": "04.359",
+    "Matvare": "Fiskekarbonader, Berggren"
+  },
+  {
+    "MatvareID": "04.358",
+    "Matvare": "Fiskekarbonader, Fiskemannen"
+  },
+  {
+    "MatvareID": "04.357",
+    "Matvare": "Fiskekarbonader, Godehav"
+  },
+  {
+    "MatvareID": "04.360",
+    "Matvare": "Fiskekarbonader, kjøpt"
+  },
+  {
+    "MatvareID": "04.272",
+    "Matvare": "Fiskekarbonader, laks"
+  },
+  {
+    "MatvareID": "04.062",
+    "Matvare": "Fiskekarbonader, mager fisk"
+  },
+  {
+    "MatvareID": "04.271",
+    "Matvare": "Fiskekarbonader, makrell"
+  },
+  {
+    "MatvareID": "04.268",
+    "Matvare": "Fiskekarbonader, sei"
+  },
+  {
+    "MatvareID": "04.273",
+    "Matvare": "Fiskekarbonader, sild"
+  },
+  {
+    "MatvareID": "04.275",
+    "Matvare": "Fiskepaté, laks"
+  },
+  {
+    "MatvareID": "04.274",
+    "Matvare": "Fiskepaté, mager fisk"
+  },
+  {
+    "MatvareID": "04.276",
+    "Matvare": "Fiskepinner, forfritert, stekt i hard margarin"
+  },
+  {
+    "MatvareID": "04.063",
+    "Matvare": "Fiskepudding"
+  },
+  {
+    "MatvareID": "04.269",
+    "Matvare": "Fiskepudding, fløtepudding"
+  },
+  {
+    "MatvareID": "04.086",
+    "Matvare": "Gaffelbiter, sild, hermetisk"
+  },
+  {
+    "MatvareID": "04.087",
+    "Matvare": "Kaviar, av lodderogn"
+  },
+  {
+    "MatvareID": "04.089",
+    "Matvare": "Kaviar, av torskerogn"
+  },
+  {
+    "MatvareID": "04.373",
+    "Matvare": "Kaviar, polarkaviar"
+  },
+  {
+    "MatvareID": "04.307",
+    "Matvare": "Kaviarmix"
+  },
+  {
+    "MatvareID": "04.289",
+    "Matvare": "Kryddersild, innlagt, avrent"
+  },
+  {
+    "MatvareID": "04.330",
+    "Matvare": "Laksepålegg, 70 % laks, i beger, Stabbur-Laks"
+  },
+  {
+    "MatvareID": "04.375",
+    "Matvare": "Laksepålegg, med vårløk og sitron"
+  },
+  {
+    "MatvareID": "04.329",
+    "Matvare": "Makrellfilet, i tomat, 50 % makrell, i beger"
+  },
+  {
+    "MatvareID": "04.328",
+    "Matvare": "Makrellfilet, i tomat, 60 % makrell, hermetisk"
+  },
+  {
+    "MatvareID": "04.097",
+    "Matvare": "Makrellfilet, i tomat, 70 % makrell, hermetisk"
+  },
+  {
+    "MatvareID": "04.101",
+    "Matvare": "Rognleverpostei, Svolvær-/Lofotpostei"
+  },
+  {
+    "MatvareID": "04.286",
+    "Matvare": "Seilaks, i olje, avrent"
+  },
+  {
+    "MatvareID": "04.033",
+    "Matvare": "Sild, kryddersild"
+  },
+  {
+    "MatvareID": "04.287",
+    "Matvare": "Sild, marinert, i majones/rømme"
+  },
+  {
+    "MatvareID": "04.288",
+    "Matvare": "Sild, marinert, sennepssild"
+  },
+  {
+    "MatvareID": "04.290",
+    "Matvare": "Sild, sursild, innlagt, avrent"
+  },
+  {
+    "MatvareID": "04.366",
+    "Matvare": "Surimi, LobNobs"
+  },
+  {
+    "MatvareID": "04.106",
+    "Matvare": "Tunfisk, i gele, hermetisk"
+  },
+  {
+    "MatvareID": "04.107",
+    "Matvare": "Tunfisk, i olje, avrent, hermetisk"
+  },
+  {
+    "MatvareID": "04.285",
+    "Matvare": "Tunfisk, i olje, ikke avrent, hermetisk"
+  },
+  {
+    "MatvareID": "04.108",
+    "Matvare": "Tunfisk, i vann, avrent, hermetisk"
+  },
+  {
+    "MatvareID": "04.323",
+    "Matvare": "Fiskeburger, panert, med brød, ost, saus, kjøpt"
+  },
+  {
+    "MatvareID": "04.363",
+    "Matvare": "Fiskegrateng, Coop X-tra Fiskegrateng"
+  },
+  {
+    "MatvareID": "04.362",
+    "Matvare": "Fiskegrateng, Enghav Fiskegrateng med makaroni"
+  },
+  {
+    "MatvareID": "04.361",
+    "Matvare": "Fiskegrateng, Findus Familiens fiskegrateng"
+  },
+  {
+    "MatvareID": "04.364",
+    "Matvare": "Fiskegrateng, First Price Fiskegrateng med makaroni"
+  },
+  {
+    "MatvareID": "04.365",
+    "Matvare": "Fiskegrateng, kjøpt"
+  },
+  {
+    "MatvareID": "04.292",
+    "Matvare": "Fiskegrateng, med egg og makaroni, ovnsstekt"
+  },
+  {
+    "MatvareID": "04.291",
+    "Matvare": "Fiskegrateng, med egg, ovnsstekt"
+  },
+  {
+    "MatvareID": "04.293",
+    "Matvare": "Fiskegrateng, med egg, ovnsstekt, kjøpt"
+  },
+  {
+    "MatvareID": "04.295",
+    "Matvare": "Fiskegryte, med sei, løk og paprikasaus"
+  },
+  {
+    "MatvareID": "04.296",
+    "Matvare": "Fiskegryte, med torsk og tomat"
+  },
+  {
+    "MatvareID": "04.352",
+    "Matvare": "Fiskepinner, Findus"
+  },
+  {
+    "MatvareID": "04.319",
+    "Matvare": "Fiskepinner, forfritert, stekt i fett"
+  },
+  {
+    "MatvareID": "04.305",
+    "Matvare": "Fiskepinner, forfritert, stekt i matolje"
+  },
+  {
+    "MatvareID": "04.303",
+    "Matvare": "Fiskepinner, forfritert, stekt i myk margarin"
+  },
+  {
+    "MatvareID": "04.304",
+    "Matvare": "Fiskepinner, forfritert, stekt i smør"
+  },
+  {
+    "MatvareID": "04.205",
+    "Matvare": "Fiskesuppe, med laks, fryst"
+  },
+  {
+    "MatvareID": "04.298",
+    "Matvare": "Fiskesuppe, med mager fisk"
+  },
+  {
+    "MatvareID": "04.204",
+    "Matvare": "Fiskesuppe, med mager fisk, fryst"
+  },
+  {
+    "MatvareID": "04.299",
+    "Matvare": "Fiskesuppe, med mager fisk, jevnet"
+  },
+  {
+    "MatvareID": "04.297",
+    "Matvare": "Kabaret, med fiskepudding og reker"
+  },
+  {
+    "MatvareID": "04.332",
+    "Matvare": "Sashimi, kveite"
+  },
+  {
+    "MatvareID": "04.331",
+    "Matvare": "Sashimi, laks"
+  },
+  {
+    "MatvareID": "04.333",
+    "Matvare": "Sashimi, tunfisk"
+  },
+  {
+    "MatvareID": "04.301",
+    "Matvare": "Sildesalat, med potet"
+  },
+  {
+    "MatvareID": "04.368",
+    "Matvare": "Sushi, maki, California"
+  },
+  {
+    "MatvareID": "04.338",
+    "Matvare": "Sushi, maki, kveite"
+  },
+  {
+    "MatvareID": "04.337",
+    "Matvare": "Sushi, maki, laks"
+  },
+  {
+    "MatvareID": "04.370",
+    "Matvare": "Sushi, maki, scampi"
+  },
+  {
+    "MatvareID": "04.369",
+    "Matvare": "Sushi, maki, tempura"
+  },
+  {
+    "MatvareID": "04.339",
+    "Matvare": "Sushi, maki, tunfisk"
+  },
+  {
+    "MatvareID": "04.372",
+    "Matvare": "Sushi, nigiri, kamskjell"
+  },
+  {
+    "MatvareID": "04.335",
+    "Matvare": "Sushi, nigiri, kveite"
+  },
+  {
+    "MatvareID": "04.334",
+    "Matvare": "Sushi, nigiri, laks"
+  },
+  {
+    "MatvareID": "04.371",
+    "Matvare": "Sushi, nigiri, scampi"
+  },
+  {
+    "MatvareID": "04.336",
+    "Matvare": "Sushi, nigiri, tunfisk"
+  },
+  {
+    "MatvareID": "04.208",
+    "Matvare": "Akkar, innbakt, forfritert, fryst"
+  },
+  {
+    "MatvareID": "04.313",
+    "Matvare": "Akkar, innbakt, forfritert, stekt i soyaolje"
+  },
+  {
+    "MatvareID": "04.302",
+    "Matvare": "Akkar, tiarmet blekksprut, kokt"
+  },
+  {
+    "MatvareID": "04.262",
+    "Matvare": "Akkar, tiarmet blekksprut, rå"
+  },
+  {
+    "MatvareID": "04.076",
+    "Matvare": "Blåskjell, avrent, hermetisk"
+  },
+  {
+    "MatvareID": "04.053",
+    "Matvare": "Blåskjell, rå"
+  },
+  {
+    "MatvareID": "04.054",
+    "Matvare": "Hummer, kokt"
+  },
+  {
+    "MatvareID": "04.264",
+    "Matvare": "Kamskjell, kokt"
+  },
+  {
+    "MatvareID": "04.114",
+    "Matvare": "Kamskjell, rå"
+  },
+  {
+    "MatvareID": "04.340",
+    "Matvare": "Kongereke, rå"
+  },
+  {
+    "MatvareID": "04.055",
+    "Matvare": "Krabbe, kokt"
+  },
+  {
+    "MatvareID": "04.091",
+    "Matvare": "Krabbe, naturell, hermetisk"
+  },
+  {
+    "MatvareID": "04.265",
+    "Matvare": "Krabbepinner, crabsticks, fryst"
+  },
+  {
+    "MatvareID": "04.121",
+    "Matvare": "Kreps, kokt"
+  },
+  {
+    "MatvareID": "04.374",
+    "Matvare": "Krepsehale, i lake, avrent"
+  },
+  {
+    "MatvareID": "04.051",
+    "Matvare": "Lever, torsk, rå"
+  },
+  {
+    "MatvareID": "04.098",
+    "Matvare": "Reker, i lake, avrent"
+  },
+  {
+    "MatvareID": "04.207",
+    "Matvare": "Reker, innbakt, forfritert, fryst"
+  },
+  {
+    "MatvareID": "04.277",
+    "Matvare": "Reker, innbakt, forfritert, stekt i soyaolje"
+  },
+  {
+    "MatvareID": "04.057",
+    "Matvare": "Reker, kokt"
+  },
+  {
+    "MatvareID": "04.318",
+    "Matvare": "Rogn, torsk, hermetisk, stekt i fett"
+  },
+  {
+    "MatvareID": "04.312",
+    "Matvare": "Rogn, torsk, kokt"
+  },
+  {
+    "MatvareID": "04.100",
+    "Matvare": "Rogn, torsk, presset, hermetisk"
+  },
+  {
+    "MatvareID": "04.052",
+    "Matvare": "Rogn, torsk, rå"
+  },
+  {
+    "MatvareID": "04.258",
+    "Matvare": "Snegler, hermetisk"
+  },
+  {
+    "MatvareID": "04.367",
+    "Matvare": "Strandsnegle, norsk"
+  },
+  {
+    "MatvareID": "04.058",
+    "Matvare": "Østers, rå"
+  },
+  {
+    "MatvareID": "05.132",
+    "Matvare": "Bokhvetemel"
+  },
+  {
+    "MatvareID": "05.002",
+    "Matvare": "Byggmel"
+  },
+  {
+    "MatvareID": "05.120",
+    "Matvare": "Finbakstmel"
+  },
+  {
+    "MatvareID": "05.121",
+    "Matvare": "Grovbakstmel, 40 % sammalt"
+  },
+  {
+    "MatvareID": "05.122",
+    "Matvare": "Havrekli"
+  },
+  {
+    "MatvareID": "05.004",
+    "Matvare": "Havremel"
+  },
+  {
+    "MatvareID": "05.007",
+    "Matvare": "Hvetekim"
+  },
+  {
+    "MatvareID": "05.006",
+    "Matvare": "Hvetemel, sammalt, fint/grovt"
+  },
+  {
+    "MatvareID": "05.010",
+    "Matvare": "Hvetemel, siktet"
+  },
+  {
+    "MatvareID": "05.496",
+    "Matvare": "Hvetemel, økologisk"
+  },
+  {
+    "MatvareID": "05.351",
+    "Matvare": "Kakemiks, fin, glutenfri, pulver, Toro"
+  },
+  {
+    "MatvareID": "05.383",
+    "Matvare": "Kikertmel"
+  },
+  {
+    "MatvareID": "05.445",
+    "Matvare": "Kokosmel"
+  },
+  {
+    "MatvareID": "05.008",
+    "Matvare": "Kruskakli, hvetekli, Møllerens"
+  },
+  {
+    "MatvareID": "05.494",
+    "Matvare": "Kruskakli, hvetekli, Regal"
+  },
+  {
+    "MatvareID": "05.013",
+    "Matvare": "Maismel"
+  },
+  {
+    "MatvareID": "05.015",
+    "Matvare": "Maisstivelse"
+  },
+  {
+    "MatvareID": "05.420",
+    "Matvare": "Mandelmel"
+  },
+  {
+    "MatvareID": "05.478",
+    "Matvare": "Mel, glutenfritt, Finax"
+  },
+  {
+    "MatvareID": "05.479",
+    "Matvare": "Mel, glutenfritt, Finmix, Semper"
+  },
+  {
+    "MatvareID": "05.424",
+    "Matvare": "Mel, glutenfritt, grovt, Semper"
+  },
+  {
+    "MatvareID": "05.251",
+    "Matvare": "Mel, glutenfritt, grovt, Toro"
+  },
+  {
+    "MatvareID": "05.425",
+    "Matvare": "Mel, glutenfritt, Jyttemel Original"
+  },
+  {
+    "MatvareID": "05.250",
+    "Matvare": "Mel, glutenfritt, lyst, Toro"
+  },
+  {
+    "MatvareID": "05.426",
+    "Matvare": "Mel, glutenfritt, Schär"
+  },
+  {
+    "MatvareID": "05.480",
+    "Matvare": "Mel, havrebrødmiks, glutenfri, Toro"
+  },
+  {
+    "MatvareID": "05.481",
+    "Matvare": "Mel, vaffelmiks, glutenfri, Toro"
+  },
+  {
+    "MatvareID": "05.020",
+    "Matvare": "Potetmel, potetstivelse"
+  },
+  {
+    "MatvareID": "05.223",
+    "Matvare": "Rismel"
+  },
+  {
+    "MatvareID": "05.026",
+    "Matvare": "Rugmel, sammalt"
+  },
+  {
+    "MatvareID": "05.027",
+    "Matvare": "Rugmel, siktet"
+  },
+  {
+    "MatvareID": "06.087",
+    "Matvare": "Soyamel"
+  },
+  {
+    "MatvareID": "06.196",
+    "Matvare": "Soyamel, med mindre fett"
+  },
+  {
+    "MatvareID": "05.495",
+    "Matvare": "Speltmel, siktet"
+  },
+  {
+    "MatvareID": "05.482",
+    "Matvare": "Teffmel"
+  },
+  {
+    "MatvareID": "05.231",
+    "Matvare": "Bokhvete, hele korn"
+  },
+  {
+    "MatvareID": "05.233",
+    "Matvare": "Bulgurgryn, tørr"
+  },
+  {
+    "MatvareID": "05.001",
+    "Matvare": "Byggryn"
+  },
+  {
+    "MatvareID": "05.225",
+    "Matvare": "Couscous, tørr"
+  },
+  {
+    "MatvareID": "05.003",
+    "Matvare": "Havregryn, lettkokte/store"
+  },
+  {
+    "MatvareID": "05.005",
+    "Matvare": "Hirse, hele korn"
+  },
+  {
+    "MatvareID": "05.009",
+    "Matvare": "Hvete, helkorn"
+  },
+  {
+    "MatvareID": "05.331",
+    "Matvare": "Nudler av ris, tørr"
+  },
+  {
+    "MatvareID": "05.379",
+    "Matvare": "Nudler, glass, tørr"
+  },
+  {
+    "MatvareID": "05.330",
+    "Matvare": "Nudler, med egg, tørr"
+  },
+  {
+    "MatvareID": "05.222",
+    "Matvare": "Nudler, uten egg, tørr"
+  },
+  {
+    "MatvareID": "05.326",
+    "Matvare": "Pasta, fersk med kjøtt og ost, tortellini, rå"
+  },
+  {
+    "MatvareID": "05.325",
+    "Matvare": "Pasta, fersk med kjøtt, tortellini, rå"
+  },
+  {
+    "MatvareID": "05.327",
+    "Matvare": "Pasta, fersk med ost, ravioli, rå"
+  },
+  {
+    "MatvareID": "05.332",
+    "Matvare": "Pasta, fullkorn, tørr"
+  },
+  {
+    "MatvareID": "05.421",
+    "Matvare": "Pasta, glutenfri, av mais og ris, tørr, Barilla"
+  },
+  {
+    "MatvareID": "05.423",
+    "Matvare": "Pasta, glutenfri, av ris og grønnsaker, tørr, Orgran tricolore"
+  },
+  {
+    "MatvareID": "05.422",
+    "Matvare": "Pasta, glutenfri, spagetti, tørr, Semper"
+  },
+  {
+    "MatvareID": "05.227",
+    "Matvare": "Pasta, grønn, fersk, rå"
+  },
+  {
+    "MatvareID": "05.226",
+    "Matvare": "Pasta, naturell, fersk, rå"
+  },
+  {
+    "MatvareID": "05.016",
+    "Matvare": "Pasta, naturell, tørr"
+  },
+  {
+    "MatvareID": "05.443",
+    "Matvare": "Perlebygg"
+  },
+  {
+    "MatvareID": "05.442",
+    "Matvare": "Perlespelt"
+  },
+  {
+    "MatvareID": "05.384",
+    "Matvare": "Ris, arborio, risottoris, tørr"
+  },
+  {
+    "MatvareID": "05.023",
+    "Matvare": "Ris, grøtris, 1 times koketid, tørr"
+  },
+  {
+    "MatvareID": "05.307",
+    "Matvare": "Ris, grøtris, 5-25 min koketid, tørr"
+  },
+  {
+    "MatvareID": "05.304",
+    "Matvare": "Ris, hurtigris, 1 % salt, tørr"
+  },
+  {
+    "MatvareID": "05.024",
+    "Matvare": "Ris, hurtigris, tørr"
+  },
+  {
+    "MatvareID": "05.305",
+    "Matvare": "Ris, polert, Basmatiris, tørr"
+  },
+  {
+    "MatvareID": "05.306",
+    "Matvare": "Ris, polert, Jasminris, tørr"
+  },
+  {
+    "MatvareID": "05.212",
+    "Matvare": "Ris, polert, langkornet, tørr"
+  },
+  {
+    "MatvareID": "05.022",
+    "Matvare": "Ris, polert, parboiled, langkornet, tørr"
+  },
+  {
+    "MatvareID": "05.021",
+    "Matvare": "Ris, upolert, naturris, langkornet, tørr"
+  },
+  {
+    "MatvareID": "05.339",
+    "Matvare": "Ris, villris, rå"
+  },
+  {
+    "MatvareID": "05.029",
+    "Matvare": "Semulegryn, hvetegryn"
+  },
+  {
+    "MatvareID": "05.224",
+    "Matvare": "Sorghum"
+  },
+  {
+    "MatvareID": "05.285",
+    "Matvare": "Bulgurgryn, kokt"
+  },
+  {
+    "MatvareID": "05.447",
+    "Matvare": "Byggryn, kokt"
+  },
+  {
+    "MatvareID": "05.252",
+    "Matvare": "Couscous, kokt"
+  },
+  {
+    "MatvareID": "05.334",
+    "Matvare": "Nudler av ris, kokt uten salt"
+  },
+  {
+    "MatvareID": "05.333",
+    "Matvare": "Nudler, kokt, med krydder"
+  },
+  {
+    "MatvareID": "05.335",
+    "Matvare": "Pasta, fullkorn, kokt med salt"
+  },
+  {
+    "MatvareID": "05.253",
+    "Matvare": "Pasta, grønn, fersk, kokt"
+  },
+  {
+    "MatvareID": "05.229",
+    "Matvare": "Pasta, naturell, fersk, kokt"
+  },
+  {
+    "MatvareID": "05.130",
+    "Matvare": "Pasta, naturell, kokt"
+  },
+  {
+    "MatvareID": "05.337",
+    "Matvare": "Ris, Basmati, kokt"
+  },
+  {
+    "MatvareID": "05.336",
+    "Matvare": "Ris, hurtigris, 1 % salt, kokt"
+  },
+  {
+    "MatvareID": "05.254",
+    "Matvare": "Ris, hurtigris, kokt"
+  },
+  {
+    "MatvareID": "05.338",
+    "Matvare": "Ris, Jasmin, kokt"
+  },
+  {
+    "MatvareID": "05.289",
+    "Matvare": "Ris, polert, langkornet, kokt"
+  },
+  {
+    "MatvareID": "05.125",
+    "Matvare": "Ris, polert, parboiled, langkornet, kokt"
+  },
+  {
+    "MatvareID": "05.255",
+    "Matvare": "Ris, upolert, naturris, langkornet, kokt"
+  },
+  {
+    "MatvareID": "05.340",
+    "Matvare": "Ris, villris, kokt"
+  },
+  {
+    "MatvareID": "05.476",
+    "Matvare": "Corn flakes, glutenfri, Schär"
+  },
+  {
+    "MatvareID": "05.033",
+    "Matvare": "Corn flakes, Kelloggs"
+  },
+  {
+    "MatvareID": "05.239",
+    "Matvare": "Corn flakes, søt, Frosties"
+  },
+  {
+    "MatvareID": "05.373",
+    "Matvare": "Frokostkorn, Jippi Frokosttall"
+  },
+  {
+    "MatvareID": "05.240",
+    "Matvare": "Frokostkorn, ristet hvete og ris, Spesial K"
+  },
+  {
+    "MatvareID": "05.158",
+    "Matvare": "Frokostkorn, sjokoladesmak"
+  },
+  {
+    "MatvareID": "05.375",
+    "Matvare": "Frokostkorn, sjokoladesmak, Coco Pops Crunchers"
+  },
+  {
+    "MatvareID": "05.395",
+    "Matvare": "Frokostkorn, sjokoladesmak, Nestlé Nesquick"
+  },
+  {
+    "MatvareID": "05.474",
+    "Matvare": "Fruktmüsli, frokostblanding, glutenfri, Finax"
+  },
+  {
+    "MatvareID": "05.483",
+    "Matvare": "Granola, hjemmelaget"
+  },
+  {
+    "MatvareID": "05.136",
+    "Matvare": "Havre, ristet, med frukt, olje, Crüsli"
+  },
+  {
+    "MatvareID": "05.376",
+    "Matvare": "Havreflak, Havreflakes"
+  },
+  {
+    "MatvareID": "05.497",
+    "Matvare": "Havregryn, lettkokte, økologiske"
+  },
+  {
+    "MatvareID": "05.237",
+    "Matvare": "Havreputer, Havrefras"
+  },
+  {
+    "MatvareID": "05.374",
+    "Matvare": "Havreputer, Jippi Havreputer"
+  },
+  {
+    "MatvareID": "05.394",
+    "Matvare": "Havreringer, Nestlé Cheerios"
+  },
+  {
+    "MatvareID": "05.244",
+    "Matvare": "Hvetebrikker, Weetabix"
+  },
+  {
+    "MatvareID": "05.156",
+    "Matvare": "Hveteflak ristet, med hvetekli, All-bran Regular"
+  },
+  {
+    "MatvareID": "05.241",
+    "Matvare": "Hvetekli, ristet, All-Bran plus"
+  },
+  {
+    "MatvareID": "05.034",
+    "Matvare": "Kornblanding, 4-korn"
+  },
+  {
+    "MatvareID": "05.377",
+    "Matvare": "Kornblanding, med bær, Go'dag Blåbærmüsli"
+  },
+  {
+    "MatvareID": "05.235",
+    "Matvare": "Kornblanding, med frukt og nøtter, Go'dag Energimüsli"
+  },
+  {
+    "MatvareID": "05.400",
+    "Matvare": "Kornblanding, med frukt, AXA Fruktmüsli"
+  },
+  {
+    "MatvareID": "05.236",
+    "Matvare": "Kornblanding, med frukt, Go'dag Fruktmüsli"
+  },
+  {
+    "MatvareID": "05.238",
+    "Matvare": "Kornblanding, müsli med frukt, nøtter, søtet"
+  },
+  {
+    "MatvareID": "05.378",
+    "Matvare": "Kornblanding, Vita Hjertego' Flerkornsblanding med Blåbær og Tranebær"
+  },
+  {
+    "MatvareID": "05.477",
+    "Matvare": "Mais- og risflak, frokostblanding, glutenfri, Schär"
+  },
+  {
+    "MatvareID": "05.475",
+    "Matvare": "Mais- og risflak, frokostblanding, glutenfri, special flakes, Semper"
+  },
+  {
+    "MatvareID": "05.037",
+    "Matvare": "Puffet havre, Havrenøtter"
+  },
+  {
+    "MatvareID": "05.038",
+    "Matvare": "Puffet hvete, Hvetenøtter"
+  },
+  {
+    "MatvareID": "05.036",
+    "Matvare": "Puffet hvete, med sukker og honning, Honni korn"
+  },
+  {
+    "MatvareID": "05.039",
+    "Matvare": "Puffet ris"
+  },
+  {
+    "MatvareID": "05.454",
+    "Matvare": "Bagels, hjemmelaget"
+  },
+  {
+    "MatvareID": "05.455",
+    "Matvare": "Baguette, grov, hjemmelaget"
+  },
+  {
+    "MatvareID": "05.049",
+    "Matvare": "Brød, 1/3 sammalt mel, skummet melk, hjemmebakt"
+  },
+  {
+    "MatvareID": "05.048",
+    "Matvare": "Brød, 1/3 sammalt mel, vann, hjemmebakt"
+  },
+  {
+    "MatvareID": "05.041",
+    "Matvare": "Brød, 100 % sammalt mel, skummet melk, hjemmebakt"
+  },
+  {
+    "MatvareID": "05.045",
+    "Matvare": "Brød, 2/3 sammalt mel, skummet melk, hjemmebakt"
+  },
+  {
+    "MatvareID": "05.044",
+    "Matvare": "Brød, 2/3 sammalt mel, vann, hjemmebakt"
+  },
+  {
+    "MatvareID": "05.051",
+    "Matvare": "Brød, 25 % sammalt mel, skummet melk, hjemmebakt"
+  },
+  {
+    "MatvareID": "05.050",
+    "Matvare": "Brød, 25 % sammalt mel, vann, hjemmebakt"
+  },
+  {
+    "MatvareID": "05.047",
+    "Matvare": "Brød, 50 % sammalt mel, skummet melk, hjemmebakt"
+  },
+  {
+    "MatvareID": "05.046",
+    "Matvare": "Brød, 50 % sammalt mel, vann, hjemmebakt"
+  },
+  {
+    "MatvareID": "05.043",
+    "Matvare": "Brød, 75 % sammalt mel, skummet melk, hjemmebakt"
+  },
+  {
+    "MatvareID": "05.042",
+    "Matvare": "Brød, 75 % sammalt mel, vann, hjemmebakt"
+  },
+  {
+    "MatvareID": "05.054",
+    "Matvare": "Brød, ekstra grovt, 75 % sammalt mel, hjemmebakt"
+  },
+  {
+    "MatvareID": "05.264",
+    "Matvare": "Brød, glutenfritt, fint, med lettmelk, hjemmebakt"
+  },
+  {
+    "MatvareID": "05.262",
+    "Matvare": "Brød, glutenfritt, fint, med vann, hjemmebakt"
+  },
+  {
+    "MatvareID": "05.265",
+    "Matvare": "Brød, glutenfritt, grovt, med lettmelk, hjemmebakt"
+  },
+  {
+    "MatvareID": "05.263",
+    "Matvare": "Brød, glutenfritt, grovt, med vann, hjemmebakt"
+  },
+  {
+    "MatvareID": "05.355",
+    "Matvare": "Brød, glutenfritt, grovt, soyabasert drikke med kalsium, hjemmebakt"
+  },
+  {
+    "MatvareID": "05.354",
+    "Matvare": "Brød, glutenfritt, grovt, soyabasert drikke, hjemmebakt"
+  },
+  {
+    "MatvareID": "05.129",
+    "Matvare": "Brød, grovbakst, 40 % sammalt mel, hjemmebakt"
+  },
+  {
+    "MatvareID": "05.437",
+    "Matvare": "Focaccia"
+  },
+  {
+    "MatvareID": "05.452",
+    "Matvare": "Horn, fint, hjemmelaget"
+  },
+  {
+    "MatvareID": "05.453",
+    "Matvare": "Horn, grov, hjemmelaget"
+  },
+  {
+    "MatvareID": "05.053",
+    "Matvare": "Loff, skummet melk, hjemmebakt"
+  },
+  {
+    "MatvareID": "05.052",
+    "Matvare": "Loff, vann, hjemmebakt"
+  },
+  {
+    "MatvareID": "05.444",
+    "Matvare": "Pizzasnurrer"
+  },
+  {
+    "MatvareID": "05.065",
+    "Matvare": "Rundstykke, baguette, finbakstmel, hjemmebakt"
+  },
+  {
+    "MatvareID": "05.206",
+    "Matvare": "Rundstykke, fint, med skummet melk, hjemmebakt"
+  },
+  {
+    "MatvareID": "05.300",
+    "Matvare": "Rundstykke, fint, med vann, hjemmebakt"
+  },
+  {
+    "MatvareID": "05.067",
+    "Matvare": "Rundstykke, grovt, med skummet melk, hjemmebakt"
+  },
+  {
+    "MatvareID": "05.301",
+    "Matvare": "Rundstykke, grovt, med vann, hjemmebakt"
+  },
+  {
+    "MatvareID": "05.066",
+    "Matvare": "Rundstykke, mellomgrovt, med skummet melk, hjemmebakt"
+  },
+  {
+    "MatvareID": "05.302",
+    "Matvare": "Rundstykke, mellomgrovt, med vann, hjemmebakt"
+  },
+  {
+    "MatvareID": "05.485",
+    "Matvare": "Scones, fin, glutenfri"
+  },
+  {
+    "MatvareID": "05.489",
+    "Matvare": "Scones, grov, glutenfri"
+  },
+  {
+    "MatvareID": "05.413",
+    "Matvare": "Scones, grove, med melk"
+  },
+  {
+    "MatvareID": "05.414",
+    "Matvare": "Scones, grove, med yoghurt"
+  },
+  {
+    "MatvareID": "05.491",
+    "Matvare": "Baguett, glutenfri, Semper"
+  },
+  {
+    "MatvareID": "05.211",
+    "Matvare": "Baguette, fin, halvstekt, stekt"
+  },
+  {
+    "MatvareID": "05.344",
+    "Matvare": "Brød, ekstra grovt (75-100 %), karbohydratredusert, kjøpt, Fiber og frø"
+  },
+  {
+    "MatvareID": "05.343",
+    "Matvare": "Brød, ekstra grovt (75-100 %), kjøpt"
+  },
+  {
+    "MatvareID": "05.366",
+    "Matvare": "Brød, ekstra grovt (75-100 %), kjøpt, Grovbrød uten hele korn"
+  },
+  {
+    "MatvareID": "05.390",
+    "Matvare": "Brød, ekstra grovt (75-100 %), kjøpt, Grovt & Godt Grovbrød"
+  },
+  {
+    "MatvareID": "05.367",
+    "Matvare": "Brød, ekstra grovt (75-100 %), kjøpt, Grovt og godt havrebrød"
+  },
+  {
+    "MatvareID": "05.368",
+    "Matvare": "Brød, ekstra grovt (75-100 %), kjøpt, Havrebrød"
+  },
+  {
+    "MatvareID": "05.427",
+    "Matvare": "Brød, glutenfritt, Semper formbrød"
+  },
+  {
+    "MatvareID": "05.342",
+    "Matvare": "Brød, grovt (50-75 %), kjøpt"
+  },
+  {
+    "MatvareID": "05.392",
+    "Matvare": "Brød, grovt (50-75 %), kjøpt, First Price kneipp"
+  },
+  {
+    "MatvareID": "05.363",
+    "Matvare": "Brød, grovt (50-75 %), kjøpt, Istidbrød"
+  },
+  {
+    "MatvareID": "05.361",
+    "Matvare": "Brød, grovt (50-75 %), kjøpt, Josefinebrød"
+  },
+  {
+    "MatvareID": "05.365",
+    "Matvare": "Brød, grovt (50-75 %), kjøpt, Løvebrølbrød"
+  },
+  {
+    "MatvareID": "05.389",
+    "Matvare": "Brød, grovt (50-75 %), kjøpt, Norsk Fjellbrød"
+  },
+  {
+    "MatvareID": "05.393",
+    "Matvare": "Brød, grovt (50-75 %), kjøpt, Pågen kjernesunt brød"
+  },
+  {
+    "MatvareID": "05.362",
+    "Matvare": "Brød, grovt (50-75 %), kjøpt, Skibrød"
+  },
+  {
+    "MatvareID": "05.364",
+    "Matvare": "Brød, grovt (50-75 %), kjøpt, Speltbrød"
+  },
+  {
+    "MatvareID": "05.391",
+    "Matvare": "Brød, grovt (50-75 %), kjøpt, Superbrød"
+  },
+  {
+    "MatvareID": "05.468",
+    "Matvare": "Brød, grovt, glutenfritt, Fria"
+  },
+  {
+    "MatvareID": "05.341",
+    "Matvare": "Brød, halvgrovt (25-50 %), kjøpt"
+  },
+  {
+    "MatvareID": "05.358",
+    "Matvare": "Brød, halvgrovt (25-50 %), kjøpt, Jegerbrød"
+  },
+  {
+    "MatvareID": "05.360",
+    "Matvare": "Brød, halvgrovt (25-50 %), kjøpt, Kneippbrød"
+  },
+  {
+    "MatvareID": "05.359",
+    "Matvare": "Brød, halvgrovt (25-50 %), kjøpt, Odelsbrød"
+  },
+  {
+    "MatvareID": "05.357",
+    "Matvare": "Brød, halvgrovt (25-50 %), kjøpt, Yoghurtbrød"
+  },
+  {
+    "MatvareID": "05.182",
+    "Matvare": "Chapatti, med sammalt mel"
+  },
+  {
+    "MatvareID": "05.472",
+    "Matvare": "Ciabatta, glutenfri, Schär"
+  },
+  {
+    "MatvareID": "05.061",
+    "Matvare": "Hamburgerbrød, fint, kjøpt"
+  },
+  {
+    "MatvareID": "05.284",
+    "Matvare": "Loff, fint brød (0-25 %), formstekt, kjøpt"
+  },
+  {
+    "MatvareID": "05.186",
+    "Matvare": "Loff, fint brød (0-25 %), halvstekt, stekt"
+  },
+  {
+    "MatvareID": "05.060",
+    "Matvare": "Loff, fint brød (0-25 %), kjøpt"
+  },
+  {
+    "MatvareID": "05.283",
+    "Matvare": "Loff, fint brød (0-25 %), spiral, kjøpt"
+  },
+  {
+    "MatvareID": "05.188",
+    "Matvare": "Pitabrød, fint, kjøpt"
+  },
+  {
+    "MatvareID": "05.062",
+    "Matvare": "Pizzabunn, uten fyll"
+  },
+  {
+    "MatvareID": "05.385",
+    "Matvare": "Polarbrød, hvete"
+  },
+  {
+    "MatvareID": "05.184",
+    "Matvare": "Pumpernikkel, fullkornsbrød, ekstra grovt (75-100 %), kjøpt"
+  },
+  {
+    "MatvareID": "05.063",
+    "Matvare": "Pølsebrød, fint, kjøpt"
+  },
+  {
+    "MatvareID": "05.272",
+    "Matvare": "Rugbrød, fint (0-25 %), kjøpt"
+  },
+  {
+    "MatvareID": "05.273",
+    "Matvare": "Rugbrød, grovt (50-75 %), kjøpt"
+  },
+  {
+    "MatvareID": "05.216",
+    "Matvare": "Rundstykke, fint, halvstekt, kjøpt, stekt"
+  },
+  {
+    "MatvareID": "05.064",
+    "Matvare": "Rundstykke, fint, kjøpt"
+  },
+  {
+    "MatvareID": "05.215",
+    "Matvare": "Rundstykke, grovt, halvstekt, kjøpt, stekt"
+  },
+  {
+    "MatvareID": "05.271",
+    "Matvare": "Rundstykke, grovt, kjøpt"
+  },
+  {
+    "MatvareID": "05.490",
+    "Matvare": "Rundstykker, av pulver, grove, glutenfrie"
+  },
+  {
+    "MatvareID": "05.493",
+    "Matvare": "Rundstykker, fiber, glutenfrie, Hatting"
+  },
+  {
+    "MatvareID": "05.492",
+    "Matvare": "Rundstykker, fine, glutenfrie, Hatting"
+  },
+  {
+    "MatvareID": "05.372",
+    "Matvare": "Tortilla, burrito, hvetemel, Old El Paso"
+  },
+  {
+    "MatvareID": "05.248",
+    "Matvare": "Tortilla, maislefse"
+  },
+  {
+    "MatvareID": "05.371",
+    "Matvare": "Tortilla, wraps, hvetemel, Santa Maria"
+  },
+  {
+    "MatvareID": "05.381",
+    "Matvare": "Tortilla, wraps/burrito, hvetemel"
+  },
+  {
+    "MatvareID": "05.470",
+    "Matvare": "Wraps, glutenfri, Bfree"
+  },
+  {
+    "MatvareID": "05.471",
+    "Matvare": "Wraps, glutenfri, Schär"
+  },
+  {
+    "MatvareID": "05.144",
+    "Matvare": "Flatbrød, havre, kjøpt"
+  },
+  {
+    "MatvareID": "05.146",
+    "Matvare": "Flatbrød, hjemmebakt type, kjøpt"
+  },
+  {
+    "MatvareID": "05.068",
+    "Matvare": "Flatbrød, kjøpt"
+  },
+  {
+    "MatvareID": "05.075",
+    "Matvare": "Kjeks, fet, Cream cracker"
+  },
+  {
+    "MatvareID": "05.152",
+    "Matvare": "Kjeks, Kaptein"
+  },
+  {
+    "MatvareID": "05.076",
+    "Matvare": "Kjeks, mager, usøtet, Frokost"
+  },
+  {
+    "MatvareID": "05.154",
+    "Matvare": "Kjeks, salt, fet, Ritz, Seltiner"
+  },
+  {
+    "MatvareID": "05.473",
+    "Matvare": "Kjeks, salt, glutenfri, Salti"
+  },
+  {
+    "MatvareID": "05.328",
+    "Matvare": "Kjeks, Start"
+  },
+  {
+    "MatvareID": "05.071",
+    "Matvare": "Klibrød, med hvetekli"
+  },
+  {
+    "MatvareID": "05.190",
+    "Matvare": "Knekkebrød, glutenfritt"
+  },
+  {
+    "MatvareID": "05.353",
+    "Matvare": "Knekkebrød, glutenfritt, av pulver, Toro"
+  },
+  {
+    "MatvareID": "05.466",
+    "Matvare": "Knekkebrød, glutenfritt, laktosefri, sesam og havsalt, Wasa"
+  },
+  {
+    "MatvareID": "05.467",
+    "Matvare": "Knekkebrød, glutenfritt, Superknäcke chia"
+  },
+  {
+    "MatvareID": "05.142",
+    "Matvare": "Knekkebrød, havre"
+  },
+  {
+    "MatvareID": "05.459",
+    "Matvare": "Knekkebrød, hjemmelaget"
+  },
+  {
+    "MatvareID": "05.069",
+    "Matvare": "Knekkebrød, lyst"
+  },
+  {
+    "MatvareID": "05.143",
+    "Matvare": "Knekkebrød, med ekstra fiber"
+  },
+  {
+    "MatvareID": "05.399",
+    "Matvare": "Knekkebrød, Mesterbakeren Original"
+  },
+  {
+    "MatvareID": "05.397",
+    "Matvare": "Knekkebrød, rug og speltkli, Sigdal helsprøtt"
+  },
+  {
+    "MatvareID": "05.148",
+    "Matvare": "Knekkebrød, rug, grovt"
+  },
+  {
+    "MatvareID": "05.070",
+    "Matvare": "Knekkebrød, rug, Husman"
+  },
+  {
+    "MatvareID": "05.419",
+    "Matvare": "Knekkebrød, rug, Husman Sport"
+  },
+  {
+    "MatvareID": "05.446",
+    "Matvare": "Knekkebrød, rug, med fyll, sandwich"
+  },
+  {
+    "MatvareID": "05.396",
+    "Matvare": "Knekkebrød, rug, Ryvita"
+  },
+  {
+    "MatvareID": "05.189",
+    "Matvare": "Knekkebrød, rug, tynt, Rugsprø, Finncrisp"
+  },
+  {
+    "MatvareID": "05.398",
+    "Matvare": "Knekkebrød, Synnøve Grovkrisp sesamfrø og linfrø"
+  },
+  {
+    "MatvareID": "05.193",
+    "Matvare": "Riskaker, lettsaltet"
+  },
+  {
+    "MatvareID": "05.194",
+    "Matvare": "Riskaker, usaltet"
+  },
+  {
+    "MatvareID": "05.073",
+    "Matvare": "Skonrokk, grov"
+  },
+  {
+    "MatvareID": "05.382",
+    "Matvare": "Tacoskjell"
+  },
+  {
+    "MatvareID": "05.370",
+    "Matvare": "Tacoskjell, Old El Paso"
+  },
+  {
+    "MatvareID": "05.369",
+    "Matvare": "Tacoskjell, tubs, Santa Maria"
+  },
+  {
+    "MatvareID": "05.460",
+    "Matvare": "Berlinerkrans, småkake"
+  },
+  {
+    "MatvareID": "05.433",
+    "Matvare": "Biscotti"
+  },
+  {
+    "MatvareID": "05.434",
+    "Matvare": "Brune pinner"
+  },
+  {
+    "MatvareID": "05.461",
+    "Matvare": "Goro, småkake"
+  },
+  {
+    "MatvareID": "05.140",
+    "Matvare": "Havremakroner, kjøpt"
+  },
+  {
+    "MatvareID": "05.438",
+    "Matvare": "Hvite kakemenn"
+  },
+  {
+    "MatvareID": "05.192",
+    "Matvare": "Kavring, søt, sukkerkavring"
+  },
+  {
+    "MatvareID": "05.077",
+    "Matvare": "Kjeks, grov, Kornmo"
+  },
+  {
+    "MatvareID": "05.386",
+    "Matvare": "Kjeks, søt, Ballerina"
+  },
+  {
+    "MatvareID": "05.151",
+    "Matvare": "Kjeks, søt, barnekjeks"
+  },
+  {
+    "MatvareID": "05.150",
+    "Matvare": "Kjeks, søt, barnekjeks med sjokolade"
+  },
+  {
+    "MatvareID": "05.308",
+    "Matvare": "Kjeks, søt, fylt med syltetøy el. frukt"
+  },
+  {
+    "MatvareID": "05.080",
+    "Matvare": "Kjeks, søt, Gjende"
+  },
+  {
+    "MatvareID": "05.469",
+    "Matvare": "Kjeks, søt, glutenfri, Choco chip cookies"
+  },
+  {
+    "MatvareID": "05.197",
+    "Matvare": "Kjeks, søt, grov, Digestive"
+  },
+  {
+    "MatvareID": "05.149",
+    "Matvare": "Kjeks, søt, havre og sjokolade"
+  },
+  {
+    "MatvareID": "05.221",
+    "Matvare": "Kjeks, søt, havre, Bixit"
+  },
+  {
+    "MatvareID": "05.309",
+    "Matvare": "Kjeks, søt, havre, SIBAS"
+  },
+  {
+    "MatvareID": "05.310",
+    "Matvare": "Kjeks, søt, havreflarn"
+  },
+  {
+    "MatvareID": "05.078",
+    "Matvare": "Kjeks, søt, kremfyll"
+  },
+  {
+    "MatvareID": "05.079",
+    "Matvare": "Kjeks, søt, Mariekjeks"
+  },
+  {
+    "MatvareID": "05.311",
+    "Matvare": "Kjeks, søt, sjokoladebiter, cookies, store"
+  },
+  {
+    "MatvareID": "05.153",
+    "Matvare": "Kjeks, søt, sjokoladebiter, nøtter, cookies, små"
+  },
+  {
+    "MatvareID": "05.135",
+    "Matvare": "Kjeks, søt, vaffel, fylt"
+  },
+  {
+    "MatvareID": "05.098",
+    "Matvare": "Kokosmakroner"
+  },
+  {
+    "MatvareID": "05.099",
+    "Matvare": "Kransekake"
+  },
+  {
+    "MatvareID": "05.440",
+    "Matvare": "Krumkaker"
+  },
+  {
+    "MatvareID": "05.462",
+    "Matvare": "Müslibar, energibar, hjemmelaget"
+  },
+  {
+    "MatvareID": "05.198",
+    "Matvare": "Pepperkaker"
+  },
+  {
+    "MatvareID": "05.134",
+    "Matvare": "Peppernøtter"
+  },
+  {
+    "MatvareID": "05.463",
+    "Matvare": "Sandkake, småkake"
+  },
+  {
+    "MatvareID": "05.106",
+    "Matvare": "Serinakaker"
+  },
+  {
+    "MatvareID": "05.464",
+    "Matvare": "Sirupssnipper, småkake"
+  },
+  {
+    "MatvareID": "05.199",
+    "Matvare": "Berlinerbolle, kjøpt"
+  },
+  {
+    "MatvareID": "05.266",
+    "Matvare": "Bolle, glutenfri, med lettmelk, hjemmebakt"
+  },
+  {
+    "MatvareID": "05.095",
+    "Matvare": "Bolle, med helmelk, hjemmebakt"
+  },
+  {
+    "MatvareID": "05.202",
+    "Matvare": "Bolle, med lettmelk, hjemmebakt"
+  },
+  {
+    "MatvareID": "05.432",
+    "Matvare": "Bolle, med sjokoladebiter"
+  },
+  {
+    "MatvareID": "05.286",
+    "Matvare": "Bolle, med skummet melk, hjemmebakt"
+  },
+  {
+    "MatvareID": "05.217",
+    "Matvare": "Bolle, uten rosiner, kjøpt"
+  },
+  {
+    "MatvareID": "05.312",
+    "Matvare": "Croissant, uten fyll, kjøpt"
+  },
+  {
+    "MatvareID": "05.096",
+    "Matvare": "Hvetekake"
+  },
+  {
+    "MatvareID": "05.097",
+    "Matvare": "Julekake"
+  },
+  {
+    "MatvareID": "05.187",
+    "Matvare": "Kanelbolle, skillingsbolle, hjemmebakt"
+  },
+  {
+    "MatvareID": "05.314",
+    "Matvare": "Kanelbolle, skillingsbolle, med sukkerstrø, kjøpt"
+  },
+  {
+    "MatvareID": "05.315",
+    "Matvare": "Kanelbolle, skillingsbolle, med vaniljekrem, melisglasur, kjøpt"
+  },
+  {
+    "MatvareID": "05.100",
+    "Matvare": "Kringle, gjærdeig, med tørket frukt"
+  },
+  {
+    "MatvareID": "05.313",
+    "Matvare": "Lefse, ferdig smurt, Vestlandslefsa"
+  },
+  {
+    "MatvareID": "05.428",
+    "Matvare": "Lussekatter"
+  },
+  {
+    "MatvareID": "05.084",
+    "Matvare": "Potetlompe, potetlefse, kjøpt"
+  },
+  {
+    "MatvareID": "05.207",
+    "Matvare": "Rosinbolle, kjøpt"
+  },
+  {
+    "MatvareID": "05.107",
+    "Matvare": "Sirupskake"
+  },
+  {
+    "MatvareID": "05.109",
+    "Matvare": "Skolebrød, med melisglasur, eggekrem, kokos, kjøpt"
+  },
+  {
+    "MatvareID": "05.418",
+    "Matvare": "Sveler"
+  },
+  {
+    "MatvareID": "05.082",
+    "Matvare": "Tykklefse, påsmurt, kjøpt"
+  },
+  {
+    "MatvareID": "05.081",
+    "Matvare": "Tykklefse, uten fyll"
+  },
+  {
+    "MatvareID": "05.349",
+    "Matvare": "Vafler, av pulver, Toro"
+  },
+  {
+    "MatvareID": "05.350",
+    "Matvare": "Vafler, glutenfrie, av pulver, Toro"
+  },
+  {
+    "MatvareID": "05.387",
+    "Matvare": "Vafler, grove"
+  },
+  {
+    "MatvareID": "05.085",
+    "Matvare": "Vafler, med egg og helmelk"
+  },
+  {
+    "MatvareID": "05.288",
+    "Matvare": "Vafler, med egg og lettmelk, uten fett"
+  },
+  {
+    "MatvareID": "05.270",
+    "Matvare": "Vafler, med egg og skummet melk"
+  },
+  {
+    "MatvareID": "05.247",
+    "Matvare": "Vafler, med egg, lettmelk"
+  },
+  {
+    "MatvareID": "05.086",
+    "Matvare": "Vafler, med fløte/rømme, uten egg"
+  },
+  {
+    "MatvareID": "05.117",
+    "Matvare": "Vørterkake"
+  },
+  {
+    "MatvareID": "05.118",
+    "Matvare": "Wienerbrød, med eggekrem"
+  },
+  {
+    "MatvareID": "05.316",
+    "Matvare": "Wienerbrød, med syltetøy, kjøpt"
+  },
+  {
+    "MatvareID": "05.287",
+    "Matvare": "Wienerkringle, med mandelfyll"
+  },
+  {
+    "MatvareID": "05.448",
+    "Matvare": "Banankake"
+  },
+  {
+    "MatvareID": "05.112",
+    "Matvare": "Bløtkake, med krem, syltetøy"
+  },
+  {
+    "MatvareID": "05.317",
+    "Matvare": "Brownies, med sjokoladeglasur, kjøpt"
+  },
+  {
+    "MatvareID": "05.346",
+    "Matvare": "Cupcakes, med glasur, av pulver, smør"
+  },
+  {
+    "MatvareID": "05.435",
+    "Matvare": "Daimkake"
+  },
+  {
+    "MatvareID": "05.087",
+    "Matvare": "Delfiakake"
+  },
+  {
+    "MatvareID": "05.318",
+    "Matvare": "Donuts, med sjokoladeglasur, kjøpt"
+  },
+  {
+    "MatvareID": "05.436",
+    "Matvare": "Eplekake"
+  },
+  {
+    "MatvareID": "05.131",
+    "Matvare": "Eplepai"
+  },
+  {
+    "MatvareID": "05.091",
+    "Matvare": "Formkake, fet, dansk sandkake"
+  },
+  {
+    "MatvareID": "05.090",
+    "Matvare": "Formkake, marmor"
+  },
+  {
+    "MatvareID": "05.319",
+    "Matvare": "Formkake, med glasur, kjøpt"
+  },
+  {
+    "MatvareID": "05.088",
+    "Matvare": "Formkake, med mindre fett"
+  },
+  {
+    "MatvareID": "05.320",
+    "Matvare": "Formkake, uten glasur, kjøpt"
+  },
+  {
+    "MatvareID": "05.093",
+    "Matvare": "Fyrstekake, med epler"
+  },
+  {
+    "MatvareID": "05.094",
+    "Matvare": "Fyrstekake, med mandler"
+  },
+  {
+    "MatvareID": "05.210",
+    "Matvare": "Gulrotkake"
+  },
+  {
+    "MatvareID": "05.321",
+    "Matvare": "Gulrotkake, med ostekrem, kjøpt"
+  },
+  {
+    "MatvareID": "05.352",
+    "Matvare": "Kakebunn, glutenfri, av pulver, Toro"
+  },
+  {
+    "MatvareID": "05.439",
+    "Matvare": "Kokosbollekake"
+  },
+  {
+    "MatvareID": "05.449",
+    "Matvare": "Krydderkake"
+  },
+  {
+    "MatvareID": "05.441",
+    "Matvare": "Kvæfjordkake, Verdens beste"
+  },
+  {
+    "MatvareID": "05.139",
+    "Matvare": "Marengs"
+  },
+  {
+    "MatvareID": "05.429",
+    "Matvare": "Marengsbunn"
+  },
+  {
+    "MatvareID": "05.200",
+    "Matvare": "Marsipankake, med syltetøy og krem"
+  },
+  {
+    "MatvareID": "05.203",
+    "Matvare": "Mazarin, kjøpt"
+  },
+  {
+    "MatvareID": "05.430",
+    "Matvare": "Muffins"
+  },
+  {
+    "MatvareID": "05.487",
+    "Matvare": "Muffins, av pulver, glutenfrie"
+  },
+  {
+    "MatvareID": "05.488",
+    "Matvare": "Muffins, av pulver, med melisglasur, glutenfrie"
+  },
+  {
+    "MatvareID": "05.431",
+    "Matvare": "Muffins, med banan"
+  },
+  {
+    "MatvareID": "05.406",
+    "Matvare": "Muffins, med banan, melisglasur"
+  },
+  {
+    "MatvareID": "05.401",
+    "Matvare": "Muffins, med blåbær"
+  },
+  {
+    "MatvareID": "05.322",
+    "Matvare": "Muffins, med blåbær, kjøpt"
+  },
+  {
+    "MatvareID": "05.407",
+    "Matvare": "Muffins, med blåbær, melisglasur"
+  },
+  {
+    "MatvareID": "05.450",
+    "Matvare": "Muffins, med gulrot"
+  },
+  {
+    "MatvareID": "05.451",
+    "Matvare": "Muffins, med gulrot, melisglasur"
+  },
+  {
+    "MatvareID": "05.402",
+    "Matvare": "Muffins, med kakao"
+  },
+  {
+    "MatvareID": "05.408",
+    "Matvare": "Muffins, med kakao, melisglasur"
+  },
+  {
+    "MatvareID": "05.405",
+    "Matvare": "Muffins, med melisglasur"
+  },
+  {
+    "MatvareID": "05.403",
+    "Matvare": "Muffins, med sitron"
+  },
+  {
+    "MatvareID": "05.409",
+    "Matvare": "Muffins, med sitron, melisglasur"
+  },
+  {
+    "MatvareID": "05.404",
+    "Matvare": "Muffins, med sjokoladebiter"
+  },
+  {
+    "MatvareID": "05.268",
+    "Matvare": "Muffins, med sjokoladebiter, kjøpt"
+  },
+  {
+    "MatvareID": "05.410",
+    "Matvare": "Muffins, med sjokoladebiter, melisglasur"
+  },
+  {
+    "MatvareID": "05.102",
+    "Matvare": "Napoleonskake"
+  },
+  {
+    "MatvareID": "05.103",
+    "Matvare": "Nøttebunn"
+  },
+  {
+    "MatvareID": "05.208",
+    "Matvare": "Nøttekake, myk"
+  },
+  {
+    "MatvareID": "05.345",
+    "Matvare": "Oreokake, av pulver, fløte og smør"
+  },
+  {
+    "MatvareID": "05.205",
+    "Matvare": "Ostekake, med kjeksbunn"
+  },
+  {
+    "MatvareID": "05.411",
+    "Matvare": "Pavlova, med kremfløte og bær"
+  },
+  {
+    "MatvareID": "05.105",
+    "Matvare": "Rullekake, med smørkrem av margarin"
+  },
+  {
+    "MatvareID": "05.323",
+    "Matvare": "Rullekake, med smørkrem, kjøpt"
+  },
+  {
+    "MatvareID": "05.104",
+    "Matvare": "Rullekake, med syltetøy"
+  },
+  {
+    "MatvareID": "05.412",
+    "Matvare": "Sarah Bernhard-kake"
+  },
+  {
+    "MatvareID": "05.415",
+    "Matvare": "Sitronterte"
+  },
+  {
+    "MatvareID": "05.108",
+    "Matvare": "Sjokoladekake, med glasur"
+  },
+  {
+    "MatvareID": "05.324",
+    "Matvare": "Sjokoladekake, med glasur, kjøpt"
+  },
+  {
+    "MatvareID": "05.486",
+    "Matvare": "Sjokoladekake, med ostekrem, glutenfri"
+  },
+  {
+    "MatvareID": "05.484",
+    "Matvare": "Sjokoladekake, med smørkrem, glutenfri"
+  },
+  {
+    "MatvareID": "05.201",
+    "Matvare": "Sjokoladekake, uten glasur"
+  },
+  {
+    "MatvareID": "05.110",
+    "Matvare": "Smultringer"
+  },
+  {
+    "MatvareID": "05.416",
+    "Matvare": "Snickerskake"
+  },
+  {
+    "MatvareID": "05.111",
+    "Matvare": "Sukkerbrød"
+  },
+  {
+    "MatvareID": "05.113",
+    "Matvare": "Sukkerbrød, med eggekrem, bær, gele"
+  },
+  {
+    "MatvareID": "05.417",
+    "Matvare": "Suksessterte"
+  },
+  {
+    "MatvareID": "05.115",
+    "Matvare": "Terte, uten fyll"
+  },
+  {
+    "MatvareID": "05.180",
+    "Matvare": "Vannbakkels, uten fyll"
+  },
+  {
+    "MatvareID": "05.388",
+    "Matvare": "Amaranth, tørr"
+  },
+  {
+    "MatvareID": "06.582",
+    "Matvare": "Cashewnøtter"
+  },
+  {
+    "MatvareID": "05.380",
+    "Matvare": "Chiafrø, tørket"
+  },
+  {
+    "MatvareID": "06.553",
+    "Matvare": "Hasselnøtter"
+  },
+  {
+    "MatvareID": "06.039",
+    "Matvare": "Kastanjer, ristede"
+  },
+  {
+    "MatvareID": "05.012",
+    "Matvare": "Linfrø, knuste"
+  },
+  {
+    "MatvareID": "06.617",
+    "Matvare": "Macadamianøtter"
+  },
+  {
+    "MatvareID": "06.107",
+    "Matvare": "Mandler"
+  },
+  {
+    "MatvareID": "06.555",
+    "Matvare": "Mandler, skåldet"
+  },
+  {
+    "MatvareID": "06.592",
+    "Matvare": "Paranøtter"
+  },
+  {
+    "MatvareID": "06.557",
+    "Matvare": "Peanøtter"
+  },
+  {
+    "MatvareID": "06.558",
+    "Matvare": "Peanøtter, saltet"
+  },
+  {
+    "MatvareID": "06.559",
+    "Matvare": "Peanøttsmør"
+  },
+  {
+    "MatvareID": "06.593",
+    "Matvare": "Pekannøtter"
+  },
+  {
+    "MatvareID": "06.614",
+    "Matvare": "Pinjekjerner"
+  },
+  {
+    "MatvareID": "06.668",
+    "Matvare": "Pistasjnøtter"
+  },
+  {
+    "MatvareID": "06.594",
+    "Matvare": "Pistasjnøtter, saltet"
+  },
+  {
+    "MatvareID": "05.465",
+    "Matvare": "Psylliumfrø, loppefrø"
+  },
+  {
+    "MatvareID": "05.456",
+    "Matvare": "Quinoa, hvit, kokt"
+  },
+  {
+    "MatvareID": "06.663",
+    "Matvare": "Quinoa, hvit, tørr"
+  },
+  {
+    "MatvareID": "06.616",
+    "Matvare": "Quinoa, kokt"
+  },
+  {
+    "MatvareID": "05.457",
+    "Matvare": "Quinoa, rød, kokt"
+  },
+  {
+    "MatvareID": "06.664",
+    "Matvare": "Quinoa, rød, tørr"
+  },
+  {
+    "MatvareID": "05.458",
+    "Matvare": "Quinoa, svart, kokt"
+  },
+  {
+    "MatvareID": "06.665",
+    "Matvare": "Quinoa, svart, tørr"
+  },
+  {
+    "MatvareID": "06.615",
+    "Matvare": "Quinoa, tørr"
+  },
+  {
+    "MatvareID": "05.030",
+    "Matvare": "Sesamfrø, med skall"
+  },
+  {
+    "MatvareID": "05.147",
+    "Matvare": "Sesamfrø, uten skall"
+  },
+  {
+    "MatvareID": "05.126",
+    "Matvare": "Solsikkefrø"
+  },
+  {
+    "MatvareID": "05.170",
+    "Matvare": "Squashfrø, gresskarfrø"
+  },
+  {
+    "MatvareID": "06.560",
+    "Matvare": "Valnøtter"
+  },
+  {
+    "MatvareID": "06.006",
+    "Matvare": "Pommes frites, fryst"
+  },
+  {
+    "MatvareID": "06.738",
+    "Matvare": "Pommes frites, gatekjøkken"
+  },
+  {
+    "MatvareID": "06.005",
+    "Matvare": "Potet, hermetisk, avrent"
+  },
+  {
+    "MatvareID": "06.003",
+    "Matvare": "Potet, høstpotet, rå"
+  },
+  {
+    "MatvareID": "06.096",
+    "Matvare": "Potet, lagringspotet, kokt med skall"
+  },
+  {
+    "MatvareID": "06.095",
+    "Matvare": "Potet, lagringspotet, kokt uten skall, saltet vann"
+  },
+  {
+    "MatvareID": "06.004",
+    "Matvare": "Potet, lagringspotet, rå"
+  },
+  {
+    "MatvareID": "06.739",
+    "Matvare": "Potet, tidligpotet, med skall, Kypros, rå"
+  },
+  {
+    "MatvareID": "06.001",
+    "Matvare": "Potet, tidligpotet, rå"
+  },
+  {
+    "MatvareID": "06.008",
+    "Matvare": "Potetmos, av pulver, uten melk"
+  },
+  {
+    "MatvareID": "08.012",
+    "Matvare": "Potetsalat, med ekte majones"
+  },
+  {
+    "MatvareID": "08.021",
+    "Matvare": "Potetsalat, med lettmajones (40 % fett)"
+  },
+  {
+    "MatvareID": "08.203",
+    "Matvare": "Potetsalat, med lettrømme"
+  },
+  {
+    "MatvareID": "08.204",
+    "Matvare": "Potetsalat, med seterrømme"
+  },
+  {
+    "MatvareID": "06.010",
+    "Matvare": "Agurk, norsk, rå"
+  },
+  {
+    "MatvareID": "06.114",
+    "Matvare": "Alfalfaspirer, rå"
+  },
+  {
+    "MatvareID": "06.011",
+    "Matvare": "Artiskokk, rå"
+  },
+  {
+    "MatvareID": "06.012",
+    "Matvare": "Asparges, rå"
+  },
+  {
+    "MatvareID": "06.741",
+    "Matvare": "Aspargesbønner, fryst"
+  },
+  {
+    "MatvareID": "06.015",
+    "Matvare": "Aubergine, rå"
+  },
+  {
+    "MatvareID": "06.749",
+    "Matvare": "Babygulrot, importert, rå"
+  },
+  {
+    "MatvareID": "06.058",
+    "Matvare": "Bladsalat, norsk, rå"
+  },
+  {
+    "MatvareID": "06.746",
+    "Matvare": "Blomkål, norsk, fryst"
+  },
+  {
+    "MatvareID": "06.016",
+    "Matvare": "Blomkål, norsk, rå"
+  },
+  {
+    "MatvareID": "06.118",
+    "Matvare": "Brennesle, rå"
+  },
+  {
+    "MatvareID": "06.740",
+    "Matvare": "Brokkoli, fryst"
+  },
+  {
+    "MatvareID": "06.747",
+    "Matvare": "Brokkoli, importert, rå"
+  },
+  {
+    "MatvareID": "06.018",
+    "Matvare": "Brokkoli, norsk, rå"
+  },
+  {
+    "MatvareID": "06.748",
+    "Matvare": "Brokkoli, uspesifisert, rå"
+  },
+  {
+    "MatvareID": "06.174",
+    "Matvare": "Brønnkarse, rå"
+  },
+  {
+    "MatvareID": "06.145",
+    "Matvare": "Bønnespirer, mungbønnespirer, rå"
+  },
+  {
+    "MatvareID": "06.182",
+    "Matvare": "Chayote, rå"
+  },
+  {
+    "MatvareID": "06.752",
+    "Matvare": "Cherrytomat, importert, rå"
+  },
+  {
+    "MatvareID": "06.146",
+    "Matvare": "Chili, grønn, rå"
+  },
+  {
+    "MatvareID": "06.115",
+    "Matvare": "Chili, rød, rå"
+  },
+  {
+    "MatvareID": "06.032",
+    "Matvare": "Endivesalat, rå"
+  },
+  {
+    "MatvareID": "06.137",
+    "Matvare": "Feltsalat, rå"
+  },
+  {
+    "MatvareID": "06.112",
+    "Matvare": "Fennikel, rå"
+  },
+  {
+    "MatvareID": "06.033",
+    "Matvare": "Gresskar, rå"
+  },
+  {
+    "MatvareID": "06.034",
+    "Matvare": "Gressløk, rå"
+  },
+  {
+    "MatvareID": "06.035",
+    "Matvare": "Grønnkål, rå"
+  },
+  {
+    "MatvareID": "06.744",
+    "Matvare": "Gulrot, babygulrot, fryst"
+  },
+  {
+    "MatvareID": "06.750",
+    "Matvare": "Gulrot, importert, rå"
+  },
+  {
+    "MatvareID": "06.742",
+    "Matvare": "Gulrot, knaskegulrot, norsk, rå"
+  },
+  {
+    "MatvareID": "06.036",
+    "Matvare": "Gulrot, norsk, rå"
+  },
+  {
+    "MatvareID": "06.743",
+    "Matvare": "Gulrot, terninger, fryst"
+  },
+  {
+    "MatvareID": "06.751",
+    "Matvare": "Gulrot, uspesifisert, rå"
+  },
+  {
+    "MatvareID": "06.037",
+    "Matvare": "Hodekål, rå"
+  },
+  {
+    "MatvareID": "06.038",
+    "Matvare": "Hvitløk, rå"
+  },
+  {
+    "MatvareID": "06.108",
+    "Matvare": "Ingefærrot, rå"
+  },
+  {
+    "MatvareID": "06.059",
+    "Matvare": "Isbergsalat, issalat, norsk, rå"
+  },
+  {
+    "MatvareID": "06.125",
+    "Matvare": "Jalapeño, rå"
+  },
+  {
+    "MatvareID": "06.109",
+    "Matvare": "Jordskokk, rå"
+  },
+  {
+    "MatvareID": "06.116",
+    "Matvare": "Kantarell, rå"
+  },
+  {
+    "MatvareID": "06.122",
+    "Matvare": "Kassava, rå"
+  },
+  {
+    "MatvareID": "06.040",
+    "Matvare": "Kinakål, norsk, rå"
+  },
+  {
+    "MatvareID": "06.086",
+    "Matvare": "Knutekål, rå"
+  },
+  {
+    "MatvareID": "06.041",
+    "Matvare": "Kålrot, kålrabi, norsk, rå"
+  },
+  {
+    "MatvareID": "06.185",
+    "Matvare": "Lotusrot, rå"
+  },
+  {
+    "MatvareID": "06.042",
+    "Matvare": "Løk, gul/rød, norsk, rå"
+  },
+  {
+    "MatvareID": "06.745",
+    "Matvare": "Mais, fryst"
+  },
+  {
+    "MatvareID": "06.044",
+    "Matvare": "Mais, norsk, rå"
+  },
+  {
+    "MatvareID": "06.092",
+    "Matvare": "Mangold, sølvbete, rå"
+  },
+  {
+    "MatvareID": "06.046",
+    "Matvare": "Neper, norsk, rå"
+  },
+  {
+    "MatvareID": "06.188",
+    "Matvare": "Okra, rå"
+  },
+  {
+    "MatvareID": "06.175",
+    "Matvare": "Pak-choi, bok choy, kål, rå"
+  },
+  {
+    "MatvareID": "06.047",
+    "Matvare": "Paprika, grønn, rå"
+  },
+  {
+    "MatvareID": "06.088",
+    "Matvare": "Paprika, gul/oransje, rå"
+  },
+  {
+    "MatvareID": "06.048",
+    "Matvare": "Paprika, rød, rå"
+  },
+  {
+    "MatvareID": "06.049",
+    "Matvare": "Pastinakk, rå"
+  },
+  {
+    "MatvareID": "06.117",
+    "Matvare": "Pepperrot, rå"
+  },
+  {
+    "MatvareID": "06.050",
+    "Matvare": "Persille, norsk, rå"
+  },
+  {
+    "MatvareID": "06.051",
+    "Matvare": "Persillerot, norsk, rå"
+  },
+  {
+    "MatvareID": "06.190",
+    "Matvare": "Portobellosopp, rå"
+  },
+  {
+    "MatvareID": "06.052",
+    "Matvare": "Purreløk, norsk, rå"
+  },
+  {
+    "MatvareID": "06.053",
+    "Matvare": "Rabarbra, rå"
+  },
+  {
+    "MatvareID": "06.123",
+    "Matvare": "Radicchio rosso, salat, rå"
+  },
+  {
+    "MatvareID": "06.097",
+    "Matvare": "Rapidsalat, norsk, rå"
+  },
+  {
+    "MatvareID": "06.054",
+    "Matvare": "Reddik, norsk, rå"
+  },
+  {
+    "MatvareID": "06.138",
+    "Matvare": "Romanosalat, rå"
+  },
+  {
+    "MatvareID": "06.056",
+    "Matvare": "Rosenkål, fryst"
+  },
+  {
+    "MatvareID": "06.055",
+    "Matvare": "Rosenkål, norsk, rå"
+  },
+  {
+    "MatvareID": "06.100",
+    "Matvare": "Ruccolasalat, rå"
+  },
+  {
+    "MatvareID": "06.057",
+    "Matvare": "Rødbete, norsk, rå"
+  },
+  {
+    "MatvareID": "06.093",
+    "Matvare": "Rødkål, rå"
+  },
+  {
+    "MatvareID": "06.060",
+    "Matvare": "Sellerirot, norsk, rå"
+  },
+  {
+    "MatvareID": "06.127",
+    "Matvare": "Shiitakesopp, rå"
+  },
+  {
+    "MatvareID": "06.061",
+    "Matvare": "Sikorisalat, rå"
+  },
+  {
+    "MatvareID": "06.124",
+    "Matvare": "Sjalottløk, rå"
+  },
+  {
+    "MatvareID": "06.062",
+    "Matvare": "Sjampinjong, norsk,  rå"
+  },
+  {
+    "MatvareID": "06.110",
+    "Matvare": "Skorsonnerot, svartrot, rå"
+  },
+  {
+    "MatvareID": "06.065",
+    "Matvare": "Spinat, fryst, rå"
+  },
+  {
+    "MatvareID": "06.064",
+    "Matvare": "Spinat, rå"
+  },
+  {
+    "MatvareID": "06.067",
+    "Matvare": "Spisskål, rå"
+  },
+  {
+    "MatvareID": "06.085",
+    "Matvare": "Squash, zucchini, rå"
+  },
+  {
+    "MatvareID": "06.068",
+    "Matvare": "Stangselleri, norsk, rå"
+  },
+  {
+    "MatvareID": "06.198",
+    "Matvare": "Steinsopp, rå"
+  },
+  {
+    "MatvareID": "06.136",
+    "Matvare": "Søtpotet, rå"
+  },
+  {
+    "MatvareID": "06.753",
+    "Matvare": "Tomat, importert, rå"
+  },
+  {
+    "MatvareID": "06.069",
+    "Matvare": "Tomat, norsk, rå"
+  },
+  {
+    "MatvareID": "06.754",
+    "Matvare": "Tomat, uspesifisert, rå"
+  },
+  {
+    "MatvareID": "06.199",
+    "Matvare": "Traktkantarell, rå"
+  },
+  {
+    "MatvareID": "06.147",
+    "Matvare": "Vannkastanje, rå"
+  },
+  {
+    "MatvareID": "06.113",
+    "Matvare": "Vårløk, rå"
+  },
+  {
+    "MatvareID": "06.192",
+    "Matvare": "Wasabirot, rå"
+  },
+  {
+    "MatvareID": "06.193",
+    "Matvare": "Yams, rå"
+  },
+  {
+    "MatvareID": "06.126",
+    "Matvare": "Østerssopp, rå"
+  },
+  {
+    "MatvareID": "06.719",
+    "Matvare": "Blomkål, kokt"
+  },
+  {
+    "MatvareID": "06.725",
+    "Matvare": "Brokkoli, kokt"
+  },
+  {
+    "MatvareID": "06.718",
+    "Matvare": "Gulrot, kokt"
+  },
+  {
+    "MatvareID": "06.720",
+    "Matvare": "Hodekål, kokt"
+  },
+  {
+    "MatvareID": "06.721",
+    "Matvare": "Kålrot, kokt"
+  },
+  {
+    "MatvareID": "06.722",
+    "Matvare": "Løk, kokt"
+  },
+  {
+    "MatvareID": "06.716",
+    "Matvare": "Paprika, grønn, kokt"
+  },
+  {
+    "MatvareID": "06.717",
+    "Matvare": "Paprika, rød, kokt"
+  },
+  {
+    "MatvareID": "06.727",
+    "Matvare": "Persillerot, kokt"
+  },
+  {
+    "MatvareID": "06.723",
+    "Matvare": "Purre, kokt"
+  },
+  {
+    "MatvareID": "06.101",
+    "Matvare": "Søtpotet, med skall, kokt uten salt"
+  },
+  {
+    "MatvareID": "06.724",
+    "Matvare": "Tomat, kokt"
+  },
+  {
+    "MatvareID": "06.076",
+    "Matvare": "Agurker, syltede"
+  },
+  {
+    "MatvareID": "06.669",
+    "Matvare": "Agurksalat"
+  },
+  {
+    "MatvareID": "06.014",
+    "Matvare": "Asparges, hermetisk, avrent"
+  },
+  {
+    "MatvareID": "06.148",
+    "Matvare": "Babymais, minimais, hermetisk"
+  },
+  {
+    "MatvareID": "06.119",
+    "Matvare": "Bambusskudd, hermetisk"
+  },
+  {
+    "MatvareID": "06.075",
+    "Matvare": "Blomkål, bønner, erter, gulrot, fryst"
+  },
+  {
+    "MatvareID": "06.072",
+    "Matvare": "Blomkål, erter, gulrot, fryst"
+  },
+  {
+    "MatvareID": "06.200",
+    "Matvare": "Cæsarsalat"
+  },
+  {
+    "MatvareID": "06.073",
+    "Matvare": "Erter, gulrot, fryst"
+  },
+  {
+    "MatvareID": "06.074",
+    "Matvare": "Erter, gulrot, mais, fryst"
+  },
+  {
+    "MatvareID": "06.670",
+    "Matvare": "Fløtegratinerte poteter"
+  },
+  {
+    "MatvareID": "06.672",
+    "Matvare": "Guacamole"
+  },
+  {
+    "MatvareID": "06.140",
+    "Matvare": "Ingefær, syltet"
+  },
+  {
+    "MatvareID": "06.129",
+    "Matvare": "Kapers, hermetisk"
+  },
+  {
+    "MatvareID": "06.079",
+    "Matvare": "Ketchup, tomatketchup"
+  },
+  {
+    "MatvareID": "06.671",
+    "Matvare": "Kålrotstappe"
+  },
+  {
+    "MatvareID": "06.177",
+    "Matvare": "Laurbærblad, tørket"
+  },
+  {
+    "MatvareID": "06.677",
+    "Matvare": "Løk, sprøstekt"
+  },
+  {
+    "MatvareID": "06.736",
+    "Matvare": "Mais, hermetisk"
+  },
+  {
+    "MatvareID": "06.139",
+    "Matvare": "Nori, tørket tang"
+  },
+  {
+    "MatvareID": "06.176",
+    "Matvare": "Oliven, grønne, med paprikafyll"
+  },
+  {
+    "MatvareID": "06.556",
+    "Matvare": "Oliven, grønne, pickles"
+  },
+  {
+    "MatvareID": "06.611",
+    "Matvare": "Oliven, sorte, i olje, hermetisk"
+  },
+  {
+    "MatvareID": "06.143",
+    "Matvare": "Pesto, grønn, hjemmelaget"
+  },
+  {
+    "MatvareID": "06.144",
+    "Matvare": "Pesto, grønn, kjøpt"
+  },
+  {
+    "MatvareID": "06.077",
+    "Matvare": "Rødbeter, syltede"
+  },
+  {
+    "MatvareID": "06.201",
+    "Matvare": "Salat nicoise"
+  },
+  {
+    "MatvareID": "06.063",
+    "Matvare": "Sjampinjong, hermetisk, avrent"
+  },
+  {
+    "MatvareID": "06.078",
+    "Matvare": "Surkål, kjøpt"
+  },
+  {
+    "MatvareID": "06.149",
+    "Matvare": "Tacosaus"
+  },
+  {
+    "MatvareID": "06.142",
+    "Matvare": "Tacosaus, medium, Old El Paso"
+  },
+  {
+    "MatvareID": "06.141",
+    "Matvare": "Tacosaus, medium, Santa Maria"
+  },
+  {
+    "MatvareID": "06.081",
+    "Matvare": "Tomat, hakket, tetrapak"
+  },
+  {
+    "MatvareID": "06.070",
+    "Matvare": "Tomat, hermetisk"
+  },
+  {
+    "MatvareID": "06.103",
+    "Matvare": "Tomater, soltørkede, innlagte i olje, avrent"
+  },
+  {
+    "MatvareID": "06.102",
+    "Matvare": "Tomater, soltørkede, tørr"
+  },
+  {
+    "MatvareID": "06.071",
+    "Matvare": "Tomatjuice"
+  },
+  {
+    "MatvareID": "06.080",
+    "Matvare": "Tomatpuré"
+  },
+  {
+    "MatvareID": "06.202",
+    "Matvare": "Tomatsalsa"
+  },
+  {
+    "MatvareID": "06.673",
+    "Matvare": "Tzatziki"
+  },
+  {
+    "MatvareID": "06.135",
+    "Matvare": "Vannkastanjer, hermetiske"
+  },
+  {
+    "MatvareID": "06.674",
+    "Matvare": "Wokblanding, indisk"
+  },
+  {
+    "MatvareID": "06.675",
+    "Matvare": "Wokblanding, kinesisk"
+  },
+  {
+    "MatvareID": "06.106",
+    "Matvare": "Wokblanding, klassisk"
+  },
+  {
+    "MatvareID": "06.676",
+    "Matvare": "Wokblanding, thai"
+  },
+  {
+    "MatvareID": "06.178",
+    "Matvare": "Adzukibønner, tørr"
+  },
+  {
+    "MatvareID": "06.098",
+    "Matvare": "Aspargesbønner, rå"
+  },
+  {
+    "MatvareID": "06.180",
+    "Matvare": "Bondebønner, hestebønner, tørr"
+  },
+  {
+    "MatvareID": "06.181",
+    "Matvare": "Borlottibønner, tørr"
+  },
+  {
+    "MatvareID": "06.735",
+    "Matvare": "Brune bønner, kokt"
+  },
+  {
+    "MatvareID": "06.023",
+    "Matvare": "Brune bønner, tørre"
+  },
+  {
+    "MatvareID": "06.197",
+    "Matvare": "Edamamebønner, soyabønner, fryst"
+  },
+  {
+    "MatvareID": "06.027",
+    "Matvare": "Erter, fryst"
+  },
+  {
+    "MatvareID": "06.028",
+    "Matvare": "Erter, grønne, hermetisk, avrent"
+  },
+  {
+    "MatvareID": "06.029",
+    "Matvare": "Erter, tørre"
+  },
+  {
+    "MatvareID": "06.134",
+    "Matvare": "Hvite bønner, store, hermetiske"
+  },
+  {
+    "MatvareID": "06.084",
+    "Matvare": "Hvite bønner, tørre"
+  },
+  {
+    "MatvareID": "06.133",
+    "Matvare": "Kidneybønner, røde, hermetiske"
+  },
+  {
+    "MatvareID": "06.128",
+    "Matvare": "Kikerter, hermetiske"
+  },
+  {
+    "MatvareID": "06.091",
+    "Matvare": "Kikerter, tørre"
+  },
+  {
+    "MatvareID": "06.179",
+    "Matvare": "Limabønner, smørbønner, tørr"
+  },
+  {
+    "MatvareID": "06.105",
+    "Matvare": "Linser, grønne og brune, kokt"
+  },
+  {
+    "MatvareID": "06.104",
+    "Matvare": "Linser, grønne og brune, tørre"
+  },
+  {
+    "MatvareID": "06.130",
+    "Matvare": "Linser, grønne, hermetiske"
+  },
+  {
+    "MatvareID": "06.131",
+    "Matvare": "Linser, røde, hermetiske"
+  },
+  {
+    "MatvareID": "06.184",
+    "Matvare": "Linser, røde/rosa, tørr"
+  },
+  {
+    "MatvareID": "06.187",
+    "Matvare": "Meterbønner, rå"
+  },
+  {
+    "MatvareID": "06.089",
+    "Matvare": "Mungbønner, tørre"
+  },
+  {
+    "MatvareID": "06.090",
+    "Matvare": "Røde bønner, tørre"
+  },
+  {
+    "MatvareID": "06.083",
+    "Matvare": "Soyabønner, tørre"
+  },
+  {
+    "MatvareID": "06.031",
+    "Matvare": "Sukkererter, norsk, rå"
+  },
+  {
+    "MatvareID": "06.132",
+    "Matvare": "Svarte bønner, hermetiske"
+  },
+  {
+    "MatvareID": "06.191",
+    "Matvare": "Svartøyebønner, tørr"
+  },
+  {
+    "MatvareID": "06.024",
+    "Matvare": "Tomatbønner, hvite bønner, i tomatsaus, hermetisk"
+  },
+  {
+    "MatvareID": "06.517",
+    "Matvare": "Ananas, rå"
+  },
+  {
+    "MatvareID": "06.520",
+    "Matvare": "Appelsin, rå"
+  },
+  {
+    "MatvareID": "06.521",
+    "Matvare": "Aprikos, rå"
+  },
+  {
+    "MatvareID": "06.764",
+    "Matvare": "Aronia, svartsurbær, rå"
+  },
+  {
+    "MatvareID": "06.524",
+    "Matvare": "Avokado, rå"
+  },
+  {
+    "MatvareID": "06.525",
+    "Matvare": "Banan, rå"
+  },
+  {
+    "MatvareID": "06.501",
+    "Matvare": "Bjørnebær, rå"
+  },
+  {
+    "MatvareID": "06.774",
+    "Matvare": "Blokkebær, mikkelsbær, rå"
+  },
+  {
+    "MatvareID": "06.667",
+    "Matvare": "Blåbær, amerikanske, rå"
+  },
+  {
+    "MatvareID": "06.502",
+    "Matvare": "Blåbær, rå"
+  },
+  {
+    "MatvareID": "06.503",
+    "Matvare": "Bringebær, rå"
+  },
+  {
+    "MatvareID": "06.768",
+    "Matvare": "Carambola, stjernefrukt, rå"
+  },
+  {
+    "MatvareID": "06.595",
+    "Matvare": "Cherimoya, rå"
+  },
+  {
+    "MatvareID": "06.755",
+    "Matvare": "Drue, blå, rå"
+  },
+  {
+    "MatvareID": "06.756",
+    "Matvare": "Drue, grønn, rå"
+  },
+  {
+    "MatvareID": "06.528",
+    "Matvare": "Drue, uspesifisert, rå"
+  },
+  {
+    "MatvareID": "06.620",
+    "Matvare": "Eple, Granny Smith, Golden Delicious, rå"
+  },
+  {
+    "MatvareID": "06.757",
+    "Matvare": "Eple, importert, rå"
+  },
+  {
+    "MatvareID": "06.621",
+    "Matvare": "Eple, Ingrid Marie, rå"
+  },
+  {
+    "MatvareID": "06.529",
+    "Matvare": "Eple, norsk, uspesifisert, rå"
+  },
+  {
+    "MatvareID": "06.622",
+    "Matvare": "Eple, Rød aroma, rå"
+  },
+  {
+    "MatvareID": "06.758",
+    "Matvare": "Eple, uspesifisert, rå"
+  },
+  {
+    "MatvareID": "06.532",
+    "Matvare": "Fersken, rå"
+  },
+  {
+    "MatvareID": "06.770",
+    "Matvare": "Galiamelon, rå"
+  },
+  {
+    "MatvareID": "06.596",
+    "Matvare": "Granateple, rå"
+  },
+  {
+    "MatvareID": "06.538",
+    "Matvare": "Grapefrukt, rå"
+  },
+  {
+    "MatvareID": "06.597",
+    "Matvare": "Guava, rå"
+  },
+  {
+    "MatvareID": "06.610",
+    "Matvare": "Honningmelon, rå"
+  },
+  {
+    "MatvareID": "06.598",
+    "Matvare": "Hyllebær, rå"
+  },
+  {
+    "MatvareID": "06.629",
+    "Matvare": "Jackfrukt, rå"
+  },
+  {
+    "MatvareID": "06.504",
+    "Matvare": "Jordbær, rå"
+  },
+  {
+    "MatvareID": "06.599",
+    "Matvare": "Kaktusfiken, rå"
+  },
+  {
+    "MatvareID": "06.600",
+    "Matvare": "Kantaloupemelon, rå"
+  },
+  {
+    "MatvareID": "06.506",
+    "Matvare": "Kirsebær, rå"
+  },
+  {
+    "MatvareID": "06.539",
+    "Matvare": "Kiwi, rå"
+  },
+  {
+    "MatvareID": "06.526",
+    "Matvare": "Klementin, rå"
+  },
+  {
+    "MatvareID": "06.623",
+    "Matvare": "Kokebanan, melbanan, plantain, rå"
+  },
+  {
+    "MatvareID": "06.769",
+    "Matvare": "Kokosnøtt, rå"
+  },
+  {
+    "MatvareID": "06.619",
+    "Matvare": "Krekling, krøkebær, rå"
+  },
+  {
+    "MatvareID": "06.601",
+    "Matvare": "Kumquat, rå"
+  },
+  {
+    "MatvareID": "06.603",
+    "Matvare": "Lime, rå"
+  },
+  {
+    "MatvareID": "06.604",
+    "Matvare": "Litchi, rå"
+  },
+  {
+    "MatvareID": "06.542",
+    "Matvare": "Mango, rå"
+  },
+  {
+    "MatvareID": "06.507",
+    "Matvare": "Moreller, rå"
+  },
+  {
+    "MatvareID": "06.508",
+    "Matvare": "Multer, molter, rå"
+  },
+  {
+    "MatvareID": "06.630",
+    "Matvare": "Nashi, asiatisk pære, rå"
+  },
+  {
+    "MatvareID": "06.605",
+    "Matvare": "Nektarin, rå"
+  },
+  {
+    "MatvareID": "06.772",
+    "Matvare": "Nype, rå"
+  },
+  {
+    "MatvareID": "06.606",
+    "Matvare": "Papaya, rå"
+  },
+  {
+    "MatvareID": "06.607",
+    "Matvare": "Paradisepler, rå"
+  },
+  {
+    "MatvareID": "06.581",
+    "Matvare": "Pasjonsfrukt, rå"
+  },
+  {
+    "MatvareID": "06.766",
+    "Matvare": "Physalis, rå"
+  },
+  {
+    "MatvareID": "06.544",
+    "Matvare": "Plomme, rå"
+  },
+  {
+    "MatvareID": "06.771",
+    "Matvare": "Pomelo, rå"
+  },
+  {
+    "MatvareID": "06.759",
+    "Matvare": "Pære, importert, rå"
+  },
+  {
+    "MatvareID": "06.546",
+    "Matvare": "Pære, norsk, rå"
+  },
+  {
+    "MatvareID": "06.760",
+    "Matvare": "Pære, uspesifisert, rå"
+  },
+  {
+    "MatvareID": "06.631",
+    "Matvare": "Rambutan, rå"
+  },
+  {
+    "MatvareID": "06.512",
+    "Matvare": "Rips, rå"
+  },
+  {
+    "MatvareID": "06.773",
+    "Matvare": "Rognebær, rå"
+  },
+  {
+    "MatvareID": "06.767",
+    "Matvare": "Sharon, kakifrukt, rå"
+  },
+  {
+    "MatvareID": "06.550",
+    "Matvare": "Sitron, rå"
+  },
+  {
+    "MatvareID": "06.513",
+    "Matvare": "Solbær, rå"
+  },
+  {
+    "MatvareID": "06.514",
+    "Matvare": "Stikkelsbær, rå"
+  },
+  {
+    "MatvareID": "06.632",
+    "Matvare": "Tamarind, rå"
+  },
+  {
+    "MatvareID": "06.624",
+    "Matvare": "Tindved, havtorn, rå"
+  },
+  {
+    "MatvareID": "06.765",
+    "Matvare": "Tranebær, rå"
+  },
+  {
+    "MatvareID": "06.515",
+    "Matvare": "Tyttebær, rå"
+  },
+  {
+    "MatvareID": "06.543",
+    "Matvare": "Vannmelon, rå"
+  },
+  {
+    "MatvareID": "06.518",
+    "Matvare": "Ananas, hermetisk, med egen saft"
+  },
+  {
+    "MatvareID": "06.519",
+    "Matvare": "Ananas, hermetisk, med sukkerlake"
+  },
+  {
+    "MatvareID": "06.565",
+    "Matvare": "Appelsinmarmelade"
+  },
+  {
+    "MatvareID": "06.628",
+    "Matvare": "Appelsinskall, rå"
+  },
+  {
+    "MatvareID": "06.522",
+    "Matvare": "Aprikos, hermetisk, med sukkerlake"
+  },
+  {
+    "MatvareID": "06.523",
+    "Matvare": "Aprikos, tørket"
+  },
+  {
+    "MatvareID": "06.792",
+    "Matvare": "Aprikossyltetøy"
+  },
+  {
+    "MatvareID": "06.793",
+    "Matvare": "Bjørnebærsyltetøy"
+  },
+  {
+    "MatvareID": "06.797",
+    "Matvare": "Blåbærsyltetøy"
+  },
+  {
+    "MatvareID": "06.795",
+    "Matvare": "Blåbærsyltetøy, lett"
+  },
+  {
+    "MatvareID": "06.794",
+    "Matvare": "Blåbærsyltetøy, rørt/fryst"
+  },
+  {
+    "MatvareID": "06.796",
+    "Matvare": "Blåbærsyltetøy, uten tilsatt sukker"
+  },
+  {
+    "MatvareID": "06.801",
+    "Matvare": "Bringebærsyltetøy"
+  },
+  {
+    "MatvareID": "06.799",
+    "Matvare": "Bringebærsyltetøy, lett"
+  },
+  {
+    "MatvareID": "06.798",
+    "Matvare": "Bringebærsyltetøy, rørt/fryst"
+  },
+  {
+    "MatvareID": "06.800",
+    "Matvare": "Bringebærsyltetøy, uten tilsatt sukker"
+  },
+  {
+    "MatvareID": "06.527",
+    "Matvare": "Daddel, tørket"
+  },
+  {
+    "MatvareID": "06.530",
+    "Matvare": "Eple, hermetisk"
+  },
+  {
+    "MatvareID": "06.531",
+    "Matvare": "Eple, tørket"
+  },
+  {
+    "MatvareID": "06.804",
+    "Matvare": "Eplemos"
+  },
+  {
+    "MatvareID": "06.802",
+    "Matvare": "Eplemos, lett"
+  },
+  {
+    "MatvareID": "06.803",
+    "Matvare": "Eplemos, uten tilsatt sukker"
+  },
+  {
+    "MatvareID": "06.533",
+    "Matvare": "Fersken, hermetisk, med egen saft"
+  },
+  {
+    "MatvareID": "06.534",
+    "Matvare": "Fersken, hermetisk, med sukkerlake"
+  },
+  {
+    "MatvareID": "06.535",
+    "Matvare": "Fiken, tørket"
+  },
+  {
+    "MatvareID": "06.536",
+    "Matvare": "Fruktcocktail, hermetisk, med egen saft"
+  },
+  {
+    "MatvareID": "06.537",
+    "Matvare": "Fruktcocktail, hermetisk, med sukkerlake"
+  },
+  {
+    "MatvareID": "06.588",
+    "Matvare": "Jordbær, 100 g sukker pr. kg bær, fryst"
+  },
+  {
+    "MatvareID": "06.505",
+    "Matvare": "Jordbær, 250 g sukker pr. kg bær, fryst"
+  },
+  {
+    "MatvareID": "06.808",
+    "Matvare": "Jordbærsyltetøy"
+  },
+  {
+    "MatvareID": "06.806",
+    "Matvare": "Jordbærsyltetøy, lett"
+  },
+  {
+    "MatvareID": "06.805",
+    "Matvare": "Jordbærsyltetøy, rørt/fryst"
+  },
+  {
+    "MatvareID": "06.807",
+    "Matvare": "Jordbærsyltetøy, uten tilsatt sukker"
+  },
+  {
+    "MatvareID": "06.809",
+    "Matvare": "Kirsebærsyltetøy"
+  },
+  {
+    "MatvareID": "06.203",
+    "Matvare": "Mangosalsa, hjemmelaget"
+  },
+  {
+    "MatvareID": "06.810",
+    "Matvare": "Multesyltetøy"
+  },
+  {
+    "MatvareID": "06.509",
+    "Matvare": "Multesyltetøy, rørt/fryst"
+  },
+  {
+    "MatvareID": "06.811",
+    "Matvare": "Nypesyltetøy"
+  },
+  {
+    "MatvareID": "06.625",
+    "Matvare": "Papaya, tørket"
+  },
+  {
+    "MatvareID": "06.545",
+    "Matvare": "Plomme, hermetisk, med sukkerlake"
+  },
+  {
+    "MatvareID": "06.812",
+    "Matvare": "Plommesyltetøy"
+  },
+  {
+    "MatvareID": "06.608",
+    "Matvare": "Pære, hermetisk, med egen saft"
+  },
+  {
+    "MatvareID": "06.548",
+    "Matvare": "Pære, hermetisk, med sukkerlake"
+  },
+  {
+    "MatvareID": "06.813",
+    "Matvare": "Rabarbrasyltetøy"
+  },
+  {
+    "MatvareID": "06.549",
+    "Matvare": "Rosiner"
+  },
+  {
+    "MatvareID": "06.626",
+    "Matvare": "Sitronskall"
+  },
+  {
+    "MatvareID": "06.814",
+    "Matvare": "Solbærsyltetøy"
+  },
+  {
+    "MatvareID": "06.552",
+    "Matvare": "Svisker"
+  },
+  {
+    "MatvareID": "06.762",
+    "Matvare": "Syltetøy, 40 % bær, 40 % sukker"
+  },
+  {
+    "MatvareID": "06.591",
+    "Matvare": "Syltetøy, 45 % bær, 25 % sukker"
+  },
+  {
+    "MatvareID": "06.763",
+    "Matvare": "Syltetøy, 60 % bær, 30 % sukker"
+  },
+  {
+    "MatvareID": "06.761",
+    "Matvare": "Syltetøy, uten tilsatt sukker"
+  },
+  {
+    "MatvareID": "06.815",
+    "Matvare": "Tyttebærsyltetøy"
+  },
+  {
+    "MatvareID": "06.516",
+    "Matvare": "Tyttebærsyltetøy, rørt/fryst"
+  },
+  {
+    "MatvareID": "06.195",
+    "Matvare": "Anisfrø"
+  },
+  {
+    "MatvareID": "06.111",
+    "Matvare": "Basilikum, rå"
+  },
+  {
+    "MatvareID": "06.151",
+    "Matvare": "Basilikum, tørket"
+  },
+  {
+    "MatvareID": "06.152",
+    "Matvare": "Chilipulver"
+  },
+  {
+    "MatvareID": "06.120",
+    "Matvare": "Dill, rå"
+  },
+  {
+    "MatvareID": "06.183",
+    "Matvare": "Estragon, tørket"
+  },
+  {
+    "MatvareID": "06.204",
+    "Matvare": "Fennikelfrø"
+  },
+  {
+    "MatvareID": "06.153",
+    "Matvare": "Gurkemeie, malt"
+  },
+  {
+    "MatvareID": "06.154",
+    "Matvare": "Hvitløkspulver"
+  },
+  {
+    "MatvareID": "06.155",
+    "Matvare": "Ingefær, malt"
+  },
+  {
+    "MatvareID": "06.156",
+    "Matvare": "Kanel, malt"
+  },
+  {
+    "MatvareID": "06.157",
+    "Matvare": "Kardemomme, malt"
+  },
+  {
+    "MatvareID": "06.158",
+    "Matvare": "Karri, malt"
+  },
+  {
+    "MatvareID": "06.159",
+    "Matvare": "Karve, kummin, hel"
+  },
+  {
+    "MatvareID": "06.121",
+    "Matvare": "Koriander, rå"
+  },
+  {
+    "MatvareID": "06.160",
+    "Matvare": "Koriander, tørket"
+  },
+  {
+    "MatvareID": "06.194",
+    "Matvare": "Korianderfrø"
+  },
+  {
+    "MatvareID": "06.186",
+    "Matvare": "Merian, tørket"
+  },
+  {
+    "MatvareID": "06.161",
+    "Matvare": "Muskat, malt"
+  },
+  {
+    "MatvareID": "06.162",
+    "Matvare": "Nellik, malt"
+  },
+  {
+    "MatvareID": "06.163",
+    "Matvare": "Oregano, tørket"
+  },
+  {
+    "MatvareID": "06.164",
+    "Matvare": "Paprikapulver"
+  },
+  {
+    "MatvareID": "06.165",
+    "Matvare": "Pepper, cayenne, rød"
+  },
+  {
+    "MatvareID": "06.166",
+    "Matvare": "Pepper, hvit"
+  },
+  {
+    "MatvareID": 12.111,
+    "Matvare": "Pepper, sort"
+  },
+  {
+    "MatvareID": "06.167",
+    "Matvare": "Persille, tørket"
+  },
+  {
+    "MatvareID": "06.168",
+    "Matvare": "Rosmarin, rå"
+  },
+  {
+    "MatvareID": "06.169",
+    "Matvare": "Rosmarin, tørket"
+  },
+  {
+    "MatvareID": "06.189",
+    "Matvare": "Safran, tørket"
+  },
+  {
+    "MatvareID": "06.170",
+    "Matvare": "Sennepsfrø"
+  },
+  {
+    "MatvareID": "06.171",
+    "Matvare": "Timian, rå"
+  },
+  {
+    "MatvareID": "06.172",
+    "Matvare": "Timian, tørket"
+  },
+  {
+    "MatvareID": "06.173",
+    "Matvare": "Valmuefrø"
+  },
+  {
+    "MatvareID": "09.003",
+    "Matvare": "Honning"
+  },
+  {
+    "MatvareID": "09.004",
+    "Matvare": "Melis"
+  },
+  {
+    "MatvareID": "05.299",
+    "Matvare": "Melisglasur"
+  },
+  {
+    "MatvareID": "09.008",
+    "Matvare": "Melkepålegg, med sukker, Hapå"
+  },
+  {
+    "MatvareID": "09.131",
+    "Matvare": "Nøttepålegg, med mindre sukker, Nugatti"
+  },
+  {
+    "MatvareID": "09.009",
+    "Matvare": "Nøttepålegg, Nugatti"
+  },
+  {
+    "MatvareID": "09.015",
+    "Matvare": "Sirup"
+  },
+  {
+    "MatvareID": "09.132",
+    "Matvare": "Sjokoladepålegg, med mindre sukker, Sjokade"
+  },
+  {
+    "MatvareID": "09.010",
+    "Matvare": "Sjokoladepålegg, Sjokade"
+  },
+  {
+    "MatvareID": "09.001",
+    "Matvare": "Sukker, brunt"
+  },
+  {
+    "MatvareID": "09.002",
+    "Matvare": "Sukker, hvitt"
+  },
+  {
+    "MatvareID": "09.108",
+    "Matvare": "Vaniljesukker"
+  },
+  {
+    "MatvareID": "09.128",
+    "Matvare": "Geléfrukt, Seigmenn"
+  },
+  {
+    "MatvareID": "09.013",
+    "Matvare": "Karamell"
+  },
+  {
+    "MatvareID": "09.125",
+    "Matvare": "Karamell, med sjokoladetrekk"
+  },
+  {
+    "MatvareID": "09.111",
+    "Matvare": "Kokosbolle"
+  },
+  {
+    "MatvareID": "09.030",
+    "Matvare": "Lakris, søt"
+  },
+  {
+    "MatvareID": "09.113",
+    "Matvare": "Lakriskonfekt"
+  },
+  {
+    "MatvareID": "09.130",
+    "Matvare": "Marsipan, 30 % mandler"
+  },
+  {
+    "MatvareID": "09.016",
+    "Matvare": "Marsipan, 50 % mandler"
+  },
+  {
+    "MatvareID": "09.101",
+    "Matvare": "Marsipanbrød, med sjokoladetrekk"
+  },
+  {
+    "MatvareID": "09.021",
+    "Matvare": "Pastiller"
+  },
+  {
+    "MatvareID": "09.124",
+    "Matvare": "Pastiller, uten sukker"
+  },
+  {
+    "MatvareID": "09.169",
+    "Matvare": "Risboller, av puffet ris og sjokolade"
+  },
+  {
+    "MatvareID": "09.103",
+    "Matvare": "Sjokolade, fylt, konfekt"
+  },
+  {
+    "MatvareID": "09.134",
+    "Matvare": "Sjokolade, hvit"
+  },
+  {
+    "MatvareID": "09.104",
+    "Matvare": "Sjokolade, kokesjokolade, lys"
+  },
+  {
+    "MatvareID": "09.019",
+    "Matvare": "Sjokolade, kokesjokolade, mørk"
+  },
+  {
+    "MatvareID": "09.157",
+    "Matvare": "Sjokolade, Mars"
+  },
+  {
+    "MatvareID": "09.117",
+    "Matvare": "Sjokolade, med gelé og marsipan, Troika"
+  },
+  {
+    "MatvareID": "09.102",
+    "Matvare": "Sjokolade, med kjeks"
+  },
+  {
+    "MatvareID": "09.156",
+    "Matvare": "Sjokolade, med kokosfyll, Bounty"
+  },
+  {
+    "MatvareID": "09.154",
+    "Matvare": "Sjokolade, med mandelkrokan, Daim"
+  },
+  {
+    "MatvareID": "09.155",
+    "Matvare": "Sjokolade, med mintfyll, After Eight"
+  },
+  {
+    "MatvareID": "09.018",
+    "Matvare": "Sjokolade, med nøtter"
+  },
+  {
+    "MatvareID": "09.017",
+    "Matvare": "Sjokolade, melkesjokolade"
+  },
+  {
+    "MatvareID": "09.116",
+    "Matvare": "Sjokolade, melkesjokolade, porøs"
+  },
+  {
+    "MatvareID": "09.158",
+    "Matvare": "Sjokolade, Milky Way"
+  },
+  {
+    "MatvareID": "09.133",
+    "Matvare": "Sjokolade, mørk, 70 % kakao"
+  },
+  {
+    "MatvareID": "09.105",
+    "Matvare": "Sjokolade, småsjokolader"
+  },
+  {
+    "MatvareID": "09.159",
+    "Matvare": "Sjokolade, Snickers"
+  },
+  {
+    "MatvareID": "09.160",
+    "Matvare": "Skumgodt, Ahlgrens biler"
+  },
+  {
+    "MatvareID": "09.127",
+    "Matvare": "Skumgodt, marshmallows"
+  },
+  {
+    "MatvareID": "09.106",
+    "Matvare": "Smågodt, blandet, uten sjokolade"
+  },
+  {
+    "MatvareID": "09.107",
+    "Matvare": "Smågodt, salte"
+  },
+  {
+    "MatvareID": "09.022",
+    "Matvare": "Sukkertøy, drops"
+  },
+  {
+    "MatvareID": "09.129",
+    "Matvare": "Tyggegummi, med sukker"
+  },
+  {
+    "MatvareID": "08.103",
+    "Matvare": "Brelett"
+  },
+  {
+    "MatvareID": "08.102",
+    "Matvare": "Bremykt"
+  },
+  {
+    "MatvareID": "08.262",
+    "Matvare": "Bremykt, mykere"
+  },
+  {
+    "MatvareID": "08.252",
+    "Matvare": "Ghee"
+  },
+  {
+    "MatvareID": "08.253",
+    "Matvare": "Ghee, vegetabilsk"
+  },
+  {
+    "MatvareID": "08.238",
+    "Matvare": "Margarin, hard"
+  },
+  {
+    "MatvareID": "08.212",
+    "Matvare": "Margarin, Melange"
+  },
+  {
+    "MatvareID": "08.213",
+    "Matvare": "Margarin, Melange, flytende"
+  },
+  {
+    "MatvareID": "08.244",
+    "Matvare": "Margarin, Melange, uten salt og melk, folie"
+  },
+  {
+    "MatvareID": "08.239",
+    "Matvare": "Margarin, myk"
+  },
+  {
+    "MatvareID": "08.260",
+    "Matvare": "Margarin, Olivero, beger"
+  },
+  {
+    "MatvareID": "08.246",
+    "Matvare": "Margarin, Soft ekstra, beger"
+  },
+  {
+    "MatvareID": "08.223",
+    "Matvare": "Margarin, Soft Flora lett"
+  },
+  {
+    "MatvareID": "08.222",
+    "Matvare": "Margarin, Soft Flora, folie"
+  },
+  {
+    "MatvareID": "08.221",
+    "Matvare": "Margarin, Soft Flora, original"
+  },
+  {
+    "MatvareID": "08.245",
+    "Matvare": "Margarin, Soft Spesial, redusert saltinnhold"
+  },
+  {
+    "MatvareID": "08.228",
+    "Matvare": "Margarin, Vita Hjertego´"
+  },
+  {
+    "MatvareID": "08.229",
+    "Matvare": "Margarin, Vita Hjertego´ lett"
+  },
+  {
+    "MatvareID": "08.117",
+    "Matvare": "Margarin, Vita Hjertego´, flytende"
+  },
+  {
+    "MatvareID": "08.118",
+    "Matvare": "Margarin, Vita Pro aktiv"
+  },
+  {
+    "MatvareID": "08.240",
+    "Matvare": "Matlagingsfett, uspesifisert"
+  },
+  {
+    "MatvareID": "08.005",
+    "Matvare": "Smør"
+  },
+  {
+    "MatvareID": "08.247",
+    "Matvare": "Smør, meierismør, ekstra salt, Kviteseidsmør"
+  },
+  {
+    "MatvareID": "08.237",
+    "Matvare": "Smør, usaltet"
+  },
+  {
+    "MatvareID": "08.111",
+    "Matvare": "Frityrolje"
+  },
+  {
+    "MatvareID": "08.104",
+    "Matvare": "Hvetekimolje"
+  },
+  {
+    "MatvareID": "08.001",
+    "Matvare": "Kokosfett"
+  },
+  {
+    "MatvareID": "08.249",
+    "Matvare": "Kokosolje"
+  },
+  {
+    "MatvareID": "08.251",
+    "Matvare": "Linfrøolje"
+  },
+  {
+    "MatvareID": "08.006",
+    "Matvare": "Maisolje"
+  },
+  {
+    "MatvareID": "08.230",
+    "Matvare": "Matfett, Flott"
+  },
+  {
+    "MatvareID": "08.019",
+    "Matvare": "Olivenolje"
+  },
+  {
+    "MatvareID": "08.112",
+    "Matvare": "Olivenolje, extra virgin, jomfruolje"
+  },
+  {
+    "MatvareID": "08.236",
+    "Matvare": "Palmeolje"
+  },
+  {
+    "MatvareID": "08.234",
+    "Matvare": "Peanøttolje"
+  },
+  {
+    "MatvareID": "08.248",
+    "Matvare": "Raps- og solsikkeolje, Melange"
+  },
+  {
+    "MatvareID": "08.235",
+    "Matvare": "Rapsolje"
+  },
+  {
+    "MatvareID": "08.113",
+    "Matvare": "Rapsolje, kaldpresset, Odelia"
+  },
+  {
+    "MatvareID": "08.105",
+    "Matvare": "Sesamolje"
+  },
+  {
+    "MatvareID": "08.106",
+    "Matvare": "Solsikkeolje"
+  },
+  {
+    "MatvareID": "08.007",
+    "Matvare": "Soyaolje"
+  },
+  {
+    "MatvareID": "08.250",
+    "Matvare": "Valnøttolje"
+  },
+  {
+    "MatvareID": "08.114",
+    "Matvare": "Vita Hjertego´ olje"
+  },
+  {
+    "MatvareID": "08.254",
+    "Matvare": "Aioli"
+  },
+  {
+    "MatvareID": "08.256",
+    "Matvare": "Cheddarsaus"
+  },
+  {
+    "MatvareID": "08.122",
+    "Matvare": "Crabsticksalat, majonessalat, 25 % fett"
+  },
+  {
+    "MatvareID": "08.257",
+    "Matvare": "Cæsardressing"
+  },
+  {
+    "MatvareID": "08.125",
+    "Matvare": "Dressing, majonestype, 15 % fett"
+  },
+  {
+    "MatvareID": "08.126",
+    "Matvare": "Dressing, majonestype, 30 % fett"
+  },
+  {
+    "MatvareID": "08.016",
+    "Matvare": "Dressing, majonestype, 40 % fett"
+  },
+  {
+    "MatvareID": "08.127",
+    "Matvare": "Dressing, majonestype, 55 % fett"
+  },
+  {
+    "MatvareID": "08.130",
+    "Matvare": "Eggesalat, majonessalat, 37 % fett"
+  },
+  {
+    "MatvareID": "08.121",
+    "Matvare": "Frokostsalat, majonessalat, med ostemasse"
+  },
+  {
+    "MatvareID": "08.128",
+    "Matvare": "Italiensk salat, majonessalat, 37 % fett"
+  },
+  {
+    "MatvareID": "08.022",
+    "Matvare": "Majones, ekstra lett, 25 % fett"
+  },
+  {
+    "MatvareID": "08.009",
+    "Matvare": "Majones, ekte"
+  },
+  {
+    "MatvareID": "08.011",
+    "Matvare": "Majones, lett, 40 % fett"
+  },
+  {
+    "MatvareID": "08.010",
+    "Matvare": "Majones, lett, 50 % fett"
+  },
+  {
+    "MatvareID": "08.123",
+    "Matvare": "Rekesalat, majonessalat, 35 % fett"
+  },
+  {
+    "MatvareID": "08.013",
+    "Matvare": "Remulade"
+  },
+  {
+    "MatvareID": "08.129",
+    "Matvare": "Rødbetsalat, majonessalat, 30 % fett"
+  },
+  {
+    "MatvareID": "08.201",
+    "Matvare": "Salatdressing, olje og eddik, fransk dressing"
+  },
+  {
+    "MatvareID": "08.017",
+    "Matvare": "Salatdressing, uten fett"
+  },
+  {
+    "MatvareID": "08.258",
+    "Matvare": "Sandefjordsmør"
+  },
+  {
+    "MatvareID": "08.124",
+    "Matvare": "Sennepssaus"
+  },
+  {
+    "MatvareID": "08.259",
+    "Matvare": "Skagenrøre, Skagensalat"
+  },
+  {
+    "MatvareID": "08.202",
+    "Matvare": "Waldorfsalat"
+  },
+  {
+    "MatvareID": "08.008",
+    "Matvare": "Tran, Møllers"
+  },
+  {
+    "MatvareID": "08.030",
+    "Matvare": "Tran, Møllers Dobbel, kapsler"
+  },
+  {
+    "MatvareID": 13.079,
+    "Matvare": "Café au lait"
+  },
+  {
+    "MatvareID": 13.133,
+    "Matvare": "Café au lait, med havrebasert drikke"
+  },
+  {
+    "MatvareID": 13.132,
+    "Matvare": "Café au lait, med laktosefri melk"
+  },
+  {
+    "MatvareID": 13.134,
+    "Matvare": "Café au lait, med soyabasert drikke"
+  },
+  {
+    "MatvareID": 13.127,
+    "Matvare": "Caffe latte, enkel, med havrebasert drikke"
+  },
+  {
+    "MatvareID": 13.04,
+    "Matvare": "Caffe latte, enkel, med helmelk"
+  },
+  {
+    "MatvareID": 13.141,
+    "Matvare": "Caffe latte, enkel, med laktosefri melk"
+  },
+  {
+    "MatvareID": 13.041,
+    "Matvare": "Caffe latte, enkel, med lettmelk"
+  },
+  {
+    "MatvareID": 13.128,
+    "Matvare": "Caffe latte, enkel, med soyabasert drikke"
+  },
+  {
+    "MatvareID": 13.081,
+    "Matvare": "Caffe mocca"
+  },
+  {
+    "MatvareID": 13.136,
+    "Matvare": "Cappucino, enkel, med havrebasert drikke"
+  },
+  {
+    "MatvareID": 13.038,
+    "Matvare": "Cappucino, enkel, med helmelk"
+  },
+  {
+    "MatvareID": 13.135,
+    "Matvare": "Cappucino, enkel, med laktosefri melk"
+  },
+  {
+    "MatvareID": 13.039,
+    "Matvare": "Cappucino, enkel, med lettmelk"
+  },
+  {
+    "MatvareID": 13.137,
+    "Matvare": "Cappucino, enkel, med soyabasert drikke"
+  },
+  {
+    "MatvareID": 13.08,
+    "Matvare": "Cortado, enkel"
+  },
+  {
+    "MatvareID": 13.13,
+    "Matvare": "Cortado, enkel, med havrebasert drikke"
+  },
+  {
+    "MatvareID": 13.129,
+    "Matvare": "Cortado, enkel, med laktosefri melk"
+  },
+  {
+    "MatvareID": 13.131,
+    "Matvare": "Cortado, enkel, med soyabasert drikke"
+  },
+  {
+    "MatvareID": 13.069,
+    "Matvare": "Espresso, enkel"
+  },
+  {
+    "MatvareID": 13.12,
+    "Matvare": "Iskaffe, cappuchino"
+  },
+  {
+    "MatvareID": 13.07,
+    "Matvare": "Iste, kunstig søtet, lett, Nestea"
+  },
+  {
+    "MatvareID": 13.071,
+    "Matvare": "Iste, Nestea"
+  },
+  {
+    "MatvareID": 13.034,
+    "Matvare": "Kaffe, pulver, tilberedt"
+  },
+  {
+    "MatvareID": 13.009,
+    "Matvare": "Kaffe, traktet, kokt"
+  },
+  {
+    "MatvareID": 13.078,
+    "Matvare": "Macchiato, enkel"
+  },
+  {
+    "MatvareID": 13.139,
+    "Matvare": "Macchiato, enkel, med havrebasert drikke"
+  },
+  {
+    "MatvareID": 13.138,
+    "Matvare": "Macchiato, enkel, med laktosefri melk"
+  },
+  {
+    "MatvareID": 13.14,
+    "Matvare": "Macchiato, enkel, med soyabasert drikke"
+  },
+  {
+    "MatvareID": 13.072,
+    "Matvare": "Mineralvann, med kullsyre, Bonaqua naturell"
+  },
+  {
+    "MatvareID": 13.073,
+    "Matvare": "Mineralvann, med kullsyre, Bris naturell"
+  },
+  {
+    "MatvareID": 13.074,
+    "Matvare": "Mineralvann, med kullsyre, Farris naturell"
+  },
+  {
+    "MatvareID": 13.076,
+    "Matvare": "Mineralvann, med kullsyre, Olden"
+  },
+  {
+    "MatvareID": 13.075,
+    "Matvare": "Mineralvann, uten kullsyre, Bonaqua naturell"
+  },
+  {
+    "MatvareID": 13.077,
+    "Matvare": "Mineralvann, uten kullsyre, Olden"
+  },
+  {
+    "MatvareID": 13.042,
+    "Matvare": "Te, grønn, tilberedt"
+  },
+  {
+    "MatvareID": 13.01,
+    "Matvare": "Te, svart, tilberedt"
+  },
+  {
+    "MatvareID": 13.033,
+    "Matvare": "Vann, drikkevann"
+  },
+  {
+    "MatvareID": "06.775",
+    "Matvare": "Ananasjuice"
+  },
+  {
+    "MatvareID": "06.568",
+    "Matvare": "Appelsinjuice"
+  },
+  {
+    "MatvareID": "06.585",
+    "Matvare": "Appelsinsaft, drikkeklar"
+  },
+  {
+    "MatvareID": "06.569",
+    "Matvare": "Appelsinsaft, ublandet"
+  },
+  {
+    "MatvareID": 13.044,
+    "Matvare": "Brus, Bitter lemon"
+  },
+  {
+    "MatvareID": 13.047,
+    "Matvare": "Brus, cola, kunstig søtet, lett"
+  },
+  {
+    "MatvareID": 13.045,
+    "Matvare": "Brus, cola, med sukker"
+  },
+  {
+    "MatvareID": 13.048,
+    "Matvare": "Brus, fruktjuice, kunstig søtet, lett, Solo light, Mozell light o.l."
+  },
+  {
+    "MatvareID": 13.046,
+    "Matvare": "Brus, fruktjuice, med sukker, Solo, Mozell o.l."
+  },
+  {
+    "MatvareID": 13.004,
+    "Matvare": "Brus, sitronsmak, kunstig søtet, lett"
+  },
+  {
+    "MatvareID": 13.003,
+    "Matvare": "Brus, sitronsmak, med sukker"
+  },
+  {
+    "MatvareID": 13.043,
+    "Matvare": "Brus, Tonic water"
+  },
+  {
+    "MatvareID": "06.728",
+    "Matvare": "Druejuice"
+  },
+  {
+    "MatvareID": 13.064,
+    "Matvare": "Energidrikk, tilsatt taurin, koffein og B-vitaminer"
+  },
+  {
+    "MatvareID": 13.065,
+    "Matvare": "Energidrikk, tilsatt taurin, koffein og B-vitaminer, sukkerfri"
+  },
+  {
+    "MatvareID": "06.571",
+    "Matvare": "Eplejuice, most"
+  },
+  {
+    "MatvareID": "06.586",
+    "Matvare": "Eplenektar"
+  },
+  {
+    "MatvareID": "06.776",
+    "Matvare": "Grapefruktjuice"
+  },
+  {
+    "MatvareID": 13.122,
+    "Matvare": "Havre- og mandelbasert drikke"
+  },
+  {
+    "MatvareID": 13.125,
+    "Matvare": "Havrebasert drikke"
+  },
+  {
+    "MatvareID": 13.103,
+    "Matvare": "Havrebasert drikke, appelsin- og mangosmak"
+  },
+  {
+    "MatvareID": 13.124,
+    "Matvare": "Havrebasert drikke, med jod, kalsium, vitaminer (vit B2, folat, vit B12, vit D)"
+  },
+  {
+    "MatvareID": 13.123,
+    "Matvare": "Havrebasert drikke, med kalsium og vitamin D"
+  },
+  {
+    "MatvareID": 13.068,
+    "Matvare": "Havrebasert drikke, med kalsium og vitaminer (vit D, vit B2, vit B12)"
+  },
+  {
+    "MatvareID": 13.101,
+    "Matvare": "Havrebasert drikke, sjokoladesmak, tilsatt kalsium og vitaminer"
+  },
+  {
+    "MatvareID": 13.121,
+    "Matvare": "Havrebasert drikke, økologisk"
+  },
+  {
+    "MatvareID": "06.590",
+    "Matvare": "Husholdningssaft, drikkeklar"
+  },
+  {
+    "MatvareID": "06.589",
+    "Matvare": "Husholdningssaft, ublandet, kjøpt"
+  },
+  {
+    "MatvareID": 13.097,
+    "Matvare": "Kokosbasert drikke, med kalsium og vitaminer (vit B12, vit D)"
+  },
+  {
+    "MatvareID": 13.036,
+    "Matvare": "Leskedrikk, kunstig søtet, drikkeklar"
+  },
+  {
+    "MatvareID": 13.098,
+    "Matvare": "Mandelbasert drikke"
+  },
+  {
+    "MatvareID": 13.099,
+    "Matvare": "Mandelbasert drikke, med kalsium og vitaminer (vit B2, vit B12, vit E, vit D), usøtet"
+  },
+  {
+    "MatvareID": 13.1,
+    "Matvare": "Risdrikke"
+  },
+  {
+    "MatvareID": "06.584",
+    "Matvare": "Saft, 1000 g sukker pr. l råsaft, drikkeklar"
+  },
+  {
+    "MatvareID": "06.567",
+    "Matvare": "Saft, 1000 g sukker pr. l råsaft, ublandet"
+  },
+  {
+    "MatvareID": "06.583",
+    "Matvare": "Saft, 500 g sukker pr. l råsaft, drikkeklar"
+  },
+  {
+    "MatvareID": "06.566",
+    "Matvare": "Saft, 500 g sukker pr. l råsaft, ublandet"
+  },
+  {
+    "MatvareID": "06.729",
+    "Matvare": "Sitronsaft, flaske"
+  },
+  {
+    "MatvareID": 10.021,
+    "Matvare": "Sjokoladedrikk, Rett i koppen, drikkeklar"
+  },
+  {
+    "MatvareID": 13.11,
+    "Matvare": "Smoothie, acerola og solbær"
+  },
+  {
+    "MatvareID": 13.112,
+    "Matvare": "Smoothie, ananas og ingefær"
+  },
+  {
+    "MatvareID": 13.105,
+    "Matvare": "Smoothie, ananas og kokos"
+  },
+  {
+    "MatvareID": 13.106,
+    "Matvare": "Smoothie, ananas og mango"
+  },
+  {
+    "MatvareID": 13.119,
+    "Matvare": "Smoothie, appelsin, gulrot og ingefær"
+  },
+  {
+    "MatvareID": 13.114,
+    "Matvare": "Smoothie, banan og mango"
+  },
+  {
+    "MatvareID": 13.118,
+    "Matvare": "Smoothie, blåbær og bringebær"
+  },
+  {
+    "MatvareID": 13.107,
+    "Matvare": "Smoothie, blåbær og eple"
+  },
+  {
+    "MatvareID": 13.116,
+    "Matvare": "Smoothie, blåbær og granateple"
+  },
+  {
+    "MatvareID": 13.104,
+    "Matvare": "Smoothie, bringebær og jordbær"
+  },
+  {
+    "MatvareID": 13.115,
+    "Matvare": "Smoothie, eple og jordbær"
+  },
+  {
+    "MatvareID": 13.109,
+    "Matvare": "Smoothie, guava og gojibær"
+  },
+  {
+    "MatvareID": 13.062,
+    "Matvare": "Smoothie, juice, banan og bær"
+  },
+  {
+    "MatvareID": 13.117,
+    "Matvare": "Smoothie, mango og appelsin"
+  },
+  {
+    "MatvareID": 13.113,
+    "Matvare": "Smoothie, mango og gojibær"
+  },
+  {
+    "MatvareID": 13.108,
+    "Matvare": "Smoothie, mango og gulrot"
+  },
+  {
+    "MatvareID": 13.111,
+    "Matvare": "Smoothie, mango og pasjonsfrukt"
+  },
+  {
+    "MatvareID": 13.061,
+    "Matvare": "Smoothie, yoghurt, juice, banan og bær"
+  },
+  {
+    "MatvareID": "06.731",
+    "Matvare": "Solbærsaft, 1000 g sukker pr. l råsaft, drikkeklar"
+  },
+  {
+    "MatvareID": "06.732",
+    "Matvare": "Solbærsaft, 1000 g sukker pr. l råsaft, ublandet"
+  },
+  {
+    "MatvareID": "06.613",
+    "Matvare": "Solbærsaft, 500 g sukker pr. l råsaft, drikkeklar"
+  },
+  {
+    "MatvareID": "06.730",
+    "Matvare": "Solbærsaft, 500 g sukker pr. l råsaft, ublandet"
+  },
+  {
+    "MatvareID": "06.587",
+    "Matvare": "Solbærsirup, drikkeklar"
+  },
+  {
+    "MatvareID": "06.574",
+    "Matvare": "Solbærsirup, ublandet"
+  },
+  {
+    "MatvareID": 13.126,
+    "Matvare": "Soyabasert drikke"
+  },
+  {
+    "MatvareID": 13.066,
+    "Matvare": "Soyabasert drikke, med kalsium og vitaminer (vit B2, vit B12, vit D), søtet"
+  },
+  {
+    "MatvareID": 13.067,
+    "Matvare": "Soyabasert drikke, med kalsium og vitaminer (vit B2, vit B12, vit D), usøtet"
+  },
+  {
+    "MatvareID": "06.777",
+    "Matvare": "Tranebærjuice"
+  },
+  {
+    "MatvareID": "06.627",
+    "Matvare": "Tropisk juice"
+  },
+  {
+    "MatvareID": 13.012,
+    "Matvare": "Brennevin, 40 vol-% alkohol"
+  },
+  {
+    "MatvareID": 13.011,
+    "Matvare": "Brennevin, 60 vol-% alkohol"
+  },
+  {
+    "MatvareID": 13.063,
+    "Matvare": "Cider, søt, 4,5 vol-% alkohol"
+  },
+  {
+    "MatvareID": 13.057,
+    "Matvare": "Dessertvin, ekstra søt, musserende"
+  },
+  {
+    "MatvareID": 13.023,
+    "Matvare": "Gulløl, 5,7 vol-% alkohol"
+  },
+  {
+    "MatvareID": 13.015,
+    "Matvare": "Hetvin, søt, 17 vol-% alkohol"
+  },
+  {
+    "MatvareID": 13.018,
+    "Matvare": "Hetvin, tørr, 15 vol-% alkohol"
+  },
+  {
+    "MatvareID": 13.056,
+    "Matvare": "Hvitvin, halvsøt/søt, inkl musserende"
+  },
+  {
+    "MatvareID": 13.031,
+    "Matvare": "Hvitvin, halvtørr, 10 vol-% alkohol"
+  },
+  {
+    "MatvareID": 13.058,
+    "Matvare": "Hvitvin, rosé, musserende"
+  },
+  {
+    "MatvareID": 13.032,
+    "Matvare": "Hvitvin, tørr, 12 vol-% alkohol"
+  },
+  {
+    "MatvareID": 13.022,
+    "Matvare": "Lettøl, lett, 2,5 vol-% alkohol"
+  },
+  {
+    "MatvareID": 13.054,
+    "Matvare": "Likør, 17 vol-% alkohol, fløtebasert"
+  },
+  {
+    "MatvareID": 13.014,
+    "Matvare": "Likør, 35 vol-% alkohol"
+  },
+  {
+    "MatvareID": 13.053,
+    "Matvare": "Likør, søt, 21 vol-% alkohol"
+  },
+  {
+    "MatvareID": 13.051,
+    "Matvare": "Mørkt øl, Bayer og juleøl, 4,5-4,7 vol-% alkohol"
+  },
+  {
+    "MatvareID": 13.024,
+    "Matvare": "Pils, 4,7 vol-% alkohol"
+  },
+  {
+    "MatvareID": 13.017,
+    "Matvare": "Rødvin, 12 vol-% alkohol"
+  },
+  {
+    "MatvareID": 13.059,
+    "Matvare": "Rødvin, tørr"
+  },
+  {
+    "MatvareID": 13.06,
+    "Matvare": "Rødvin, uspesifisert"
+  },
+  {
+    "MatvareID": 13.055,
+    "Matvare": "Sterkvin, søt, portvin, 20 vol-% alkohol"
+  },
+  {
+    "MatvareID": 13.052,
+    "Matvare": "Sterkvin, søt, vermouth, 15 vol-% alkohol"
+  },
+  {
+    "MatvareID": 13.049,
+    "Matvare": "Sterkøl, bokkøl, 6,5 vol-% alkohol"
+  },
+  {
+    "MatvareID": 13.007,
+    "Matvare": "Vin, alkoholfri"
+  },
+  {
+    "MatvareID": 13.03,
+    "Matvare": "Vin, alkoholsvak"
+  },
+  {
+    "MatvareID": 13.025,
+    "Matvare": "Vørterøl"
+  },
+  {
+    "MatvareID": 13.026,
+    "Matvare": "Øl, alkoholfritt"
+  },
+  {
+    "MatvareID": 13.05,
+    "Matvare": "Øl, redusert energiinnhold, lavkarbo"
+  },
+  {
+    "MatvareID": 10.1,
+    "Matvare": "Pizza, pai, taco o.l."
+  },
+  {
+    "MatvareID": "09.135",
+    "Matvare": "Kjøttkaker med ertestuing, Fjordland"
+  },
+  {
+    "MatvareID": 10.148,
+    "Matvare": "Kjøttsuppe med grønnsaker og poteter, Fjordland"
+  },
+  {
+    "MatvareID": "09.136",
+    "Matvare": "Kokt laks med urtesaus, gulrot og poteter, Fjordland"
+  },
+  {
+    "MatvareID": "03.261",
+    "Matvare": "Pai, med skinke og ost"
+  },
+  {
+    "MatvareID": "05.356",
+    "Matvare": "Pannekaker, av pulver, Toro"
+  },
+  {
+    "MatvareID": "09.144",
+    "Matvare": "Pannekaker, grove"
+  },
+  {
+    "MatvareID": 10.153,
+    "Matvare": "Pannekaker, med banan"
+  },
+  {
+    "MatvareID": "05.246",
+    "Matvare": "Pannekaker, med helmelk, stekt i hard margarin"
+  },
+  {
+    "MatvareID": "05.258",
+    "Matvare": "Pannekaker, med lettmelk, stekt i hard margarin"
+  },
+  {
+    "MatvareID": "05.133",
+    "Matvare": "Pannekaker, med lettmelk, stekt i myk margarin"
+  },
+  {
+    "MatvareID": "05.282",
+    "Matvare": "Pannekaker, med skummet melk, stekt i hard margarin"
+  },
+  {
+    "MatvareID": "05.218",
+    "Matvare": "Pannekaker, med skummet melk, stekt uten fett"
+  },
+  {
+    "MatvareID": "09.165",
+    "Matvare": "Pizza parma, hjemmelaget"
+  },
+  {
+    "MatvareID": "09.146",
+    "Matvare": "Pizza, Big One Classic"
+  },
+  {
+    "MatvareID": "09.149",
+    "Matvare": "Pizza, Big One New York Grilled Steak"
+  },
+  {
+    "MatvareID": "09.148",
+    "Matvare": "Pizza, Grandiosa kjøttdeig og løk"
+  },
+  {
+    "MatvareID": "09.145",
+    "Matvare": "Pizza, Grandiosa Original"
+  },
+  {
+    "MatvareID": "09.153",
+    "Matvare": "Pizza, kjøpt"
+  },
+  {
+    "MatvareID": "09.166",
+    "Matvare": "Pizza, kjøttdeig, hjemmelaget"
+  },
+  {
+    "MatvareID": "06.734",
+    "Matvare": "Pizza, med tomatsaus og ost"
+  },
+  {
+    "MatvareID": "09.151",
+    "Matvare": "Pizza, Ristorante Mozarella"
+  },
+  {
+    "MatvareID": "09.147",
+    "Matvare": "Pizza, Ristorante Speciale"
+  },
+  {
+    "MatvareID": "09.168",
+    "Matvare": "Pizza, skinke, hjemmelaget"
+  },
+  {
+    "MatvareID": "09.152",
+    "Matvare": "Pizza, Stenovnsbakt Tradizionale Diavola"
+  },
+  {
+    "MatvareID": "09.150",
+    "Matvare": "Pizza, Take Away Meat Lover by Big One"
+  },
+  {
+    "MatvareID": "09.167",
+    "Matvare": "Pizza, vegetar, hjemmelaget"
+  },
+  {
+    "MatvareID": "09.137",
+    "Matvare": "Svinestek med surkål og poteter, Fjordland"
+  },
+  {
+    "MatvareID": "09.170",
+    "Matvare": "Taco med skjell/tubs, karbonadedeig, grønnsaker"
+  },
+  {
+    "MatvareID": "09.141",
+    "Matvare": "Taco med skjell/tubs, kjøttdeig, grønnsaker"
+  },
+  {
+    "MatvareID": "09.142",
+    "Matvare": "Taco med skjell/tubs, kylling, grønnsaker"
+  },
+  {
+    "MatvareID": "09.143",
+    "Matvare": "Taco med skjell/tubs, laks, grønnsaker"
+  },
+  {
+    "MatvareID": "09.172",
+    "Matvare": "Taco med skjell/tubs, plantebasert deig, grønnsaker"
+  },
+  {
+    "MatvareID": "09.171",
+    "Matvare": "Taco med tortilla, karbonadedeig, grønnsaker"
+  },
+  {
+    "MatvareID": "09.138",
+    "Matvare": "Taco med tortilla, kjøttdeig, grønnsaker"
+  },
+  {
+    "MatvareID": "09.139",
+    "Matvare": "Taco med tortilla, kylling, grønnsaker"
+  },
+  {
+    "MatvareID": "09.140",
+    "Matvare": "Taco med tortilla, laks, grønnsaker"
+  },
+  {
+    "MatvareID": "09.173",
+    "Matvare": "Taco med tortilla, plantebasert deig, grønnsaker"
+  },
+  {
+    "MatvareID": 10.172,
+    "Matvare": "Byggrynsgrøt"
+  },
+  {
+    "MatvareID": 10.151,
+    "Matvare": "Fløyelsgrøt"
+  },
+  {
+    "MatvareID": 10.176,
+    "Matvare": "Havre- og bokhvetegrøt, glutenfri"
+  },
+  {
+    "MatvareID": 10.149,
+    "Matvare": "Havregrøt, med melk"
+  },
+  {
+    "MatvareID": "05.127",
+    "Matvare": "Havregrøt, med vann"
+  },
+  {
+    "MatvareID": 10.173,
+    "Matvare": "Kjøleskapsgrøt, havregryn"
+  },
+  {
+    "MatvareID": 10.175,
+    "Matvare": "Kjøleskapsgrøt, havregryn og chiafrø"
+  },
+  {
+    "MatvareID": "05.245",
+    "Matvare": "Risgrøt, med helmelk"
+  },
+  {
+    "MatvareID": "05.128",
+    "Matvare": "Risgrøt, med lettmelk"
+  },
+  {
+    "MatvareID": "01.195",
+    "Matvare": "Rømmegrøt"
+  },
+  {
+    "MatvareID": 10.152,
+    "Matvare": "Semulegrøt"
+  },
+  {
+    "MatvareID": 10.155,
+    "Matvare": "Aspargessuppe, hjemmelaget"
+  },
+  {
+    "MatvareID": 10.015,
+    "Matvare": "Bernaisesaus, av pulver"
+  },
+  {
+    "MatvareID": 10.171,
+    "Matvare": "Bernaisesaus, hjemmelaget"
+  },
+  {
+    "MatvareID": 10.024,
+    "Matvare": "Betasuppe, av pulver, tilberedt"
+  },
+  {
+    "MatvareID": 10.156,
+    "Matvare": "Betasuppe, hjemmelaget"
+  },
+  {
+    "MatvareID": 10.032,
+    "Matvare": "Blomkål/brokkolisuppe, Rett i koppen"
+  },
+  {
+    "MatvareID": 10.012,
+    "Matvare": "Blomkålsuppe, av pulver"
+  },
+  {
+    "MatvareID": 10.15,
+    "Matvare": "Blomkålsuppe, hjemmelaget"
+  },
+  {
+    "MatvareID": 10.157,
+    "Matvare": "Bouillabaisse, fransk fiskesuppe"
+  },
+  {
+    "MatvareID": 10.158,
+    "Matvare": "Brokkolisuppe, hjemmelaget"
+  },
+  {
+    "MatvareID": 10.016,
+    "Matvare": "Brun saus, av blokk"
+  },
+  {
+    "MatvareID": 10.017,
+    "Matvare": "Brun saus, kjøttkakesaus, av pulver"
+  },
+  {
+    "MatvareID": 10.025,
+    "Matvare": "Brun saus, med løk, av pulver"
+  },
+  {
+    "MatvareID": 10.125,
+    "Matvare": "Dipsaus, sursøt barbequesaus"
+  },
+  {
+    "MatvareID": 10.02,
+    "Matvare": "Ertestuing, av pulver"
+  },
+  {
+    "MatvareID": 10.011,
+    "Matvare": "Ertesuppe, av pulver"
+  },
+  {
+    "MatvareID": 10.023,
+    "Matvare": "Fiskesuppe, Bergensk, av pulver"
+  },
+  {
+    "MatvareID": 10.159,
+    "Matvare": "Gresskarsuppe, hjemmelaget"
+  },
+  {
+    "MatvareID": 10.028,
+    "Matvare": "Grytebasis, Jegergryte, uten kjøtt"
+  },
+  {
+    "MatvareID": 10.01,
+    "Matvare": "Grytebasis, med pasta, italiensk, uten kjøtt"
+  },
+  {
+    "MatvareID": 10.009,
+    "Matvare": "Grytebasis, med ris, meksikansk, uten kjøtt"
+  },
+  {
+    "MatvareID": 10.008,
+    "Matvare": "Grytebasis, orientalsk, uten kjøtt"
+  },
+  {
+    "MatvareID": 10.033,
+    "Matvare": "Grytebasis, Pasta di Napoli, uten kjøtt"
+  },
+  {
+    "MatvareID": 10.029,
+    "Matvare": "Grytebasis, Stroganoff, uten kjøtt"
+  },
+  {
+    "MatvareID": 10.16,
+    "Matvare": "Gulasj, hjemmelaget"
+  },
+  {
+    "MatvareID": 10.161,
+    "Matvare": "Gulrotsuppe, hjemmelaget"
+  },
+  {
+    "MatvareID": 10.162,
+    "Matvare": "Hollandaisesaus, hjemmelaget"
+  },
+  {
+    "MatvareID": 10.018,
+    "Matvare": "Hvit saus, av pulver"
+  },
+  {
+    "MatvareID": 10.163,
+    "Matvare": "Jordskokksuppe, hjemmelaget"
+  },
+  {
+    "MatvareID": 12.004,
+    "Matvare": "Kjøttbuljong, tilberedt"
+  },
+  {
+    "MatvareID": 10.165,
+    "Matvare": "Løksuppe, gratinert med ost og brød, hjemmelaget"
+  },
+  {
+    "MatvareID": 10.164,
+    "Matvare": "Løksuppe, hjemmelaget"
+  },
+  {
+    "MatvareID": 10.166,
+    "Matvare": "Minestronesuppe, uten kjøtt, hjemmelaget"
+  },
+  {
+    "MatvareID": 10.167,
+    "Matvare": "Potet- og purreløksuppe, hjemmelaget"
+  },
+  {
+    "MatvareID": 10.019,
+    "Matvare": "Sjysaus, av pulver"
+  },
+  {
+    "MatvareID": 10.168,
+    "Matvare": "Spinatsuppe, hjemmelaget"
+  },
+  {
+    "MatvareID": 10.169,
+    "Matvare": "Søtpotetsuppe, hjemmelaget"
+  },
+  {
+    "MatvareID": 10.17,
+    "Matvare": "Tacosuppe, hjemmelaget"
+  },
+  {
+    "MatvareID": 10.013,
+    "Matvare": "Tomatsuppe, av pulver"
+  },
+  {
+    "MatvareID": 10.031,
+    "Matvare": "Tomatsuppe, med krutonger, Rett i koppen"
+  },
+  {
+    "MatvareID": 10.014,
+    "Matvare": "Tomatsuppe, med makaroni, av pulver"
+  },
+  {
+    "MatvareID": 10.026,
+    "Matvare": "Viltsaus, av pulver"
+  },
+  {
+    "MatvareID": "05.291",
+    "Matvare": "Eggekrem, vaniljekrem"
+  },
+  {
+    "MatvareID": 10.002,
+    "Matvare": "Fromasj, av pulver"
+  },
+  {
+    "MatvareID": 10.001,
+    "Matvare": "Fruktsaus, av pulver"
+  },
+  {
+    "MatvareID": 10.003,
+    "Matvare": "Fruktsuppe, av pulver"
+  },
+  {
+    "MatvareID": 10.004,
+    "Matvare": "Gelé, av pulver"
+  },
+  {
+    "MatvareID": "01.182",
+    "Matvare": "Is, vegetabilsk fett, havrebasert, med smak"
+  },
+  {
+    "MatvareID": "01.211",
+    "Matvare": "Iskrem, fløte, med ekstra sjokolade"
+  },
+  {
+    "MatvareID": "01.183",
+    "Matvare": "Iskrem, fløte, med sjokoladebiter"
+  },
+  {
+    "MatvareID": "01.018",
+    "Matvare": "Iskrem, fløtebasert"
+  },
+  {
+    "MatvareID": "01.081",
+    "Matvare": "Iskrem, lettis, med mindre sukker og fett"
+  },
+  {
+    "MatvareID": "01.241",
+    "Matvare": "Iskrem, med kjeks, Krone-is med jordbær"
+  },
+  {
+    "MatvareID": "01.240",
+    "Matvare": "Iskrem, med kjeks, Krone-is med sjokolade"
+  },
+  {
+    "MatvareID": "01.244",
+    "Matvare": "Iskrem, med kjeks, Lion King Size"
+  },
+  {
+    "MatvareID": "01.199",
+    "Matvare": "Iskrem, med kjeks, sjokolade, nøtter"
+  },
+  {
+    "MatvareID": "01.193",
+    "Matvare": "Iskrem, med kjeks, syltetøy, sjokolade"
+  },
+  {
+    "MatvareID": "01.243",
+    "Matvare": "Iskrem, pinneis, Royal Mørk"
+  },
+  {
+    "MatvareID": "01.194",
+    "Matvare": "Iskrem, yoghurtis"
+  },
+  {
+    "MatvareID": "01.112",
+    "Matvare": "Kakekrem, romsmak, Piano"
+  },
+  {
+    "MatvareID": 10.174,
+    "Matvare": "Karamellpudding, hjemmelaget"
+  },
+  {
+    "MatvareID": "01.078",
+    "Matvare": "Karamellpudding, Piano"
+  },
+  {
+    "MatvareID": 12.01,
+    "Matvare": "Karamellsaus"
+  },
+  {
+    "MatvareID": "06.540",
+    "Matvare": "Kompott, av frukt og bær"
+  },
+  {
+    "MatvareID": 10.14,
+    "Matvare": "Multekrem"
+  },
+  {
+    "MatvareID": 10.005,
+    "Matvare": "Nypesuppe, av pulver"
+  },
+  {
+    "MatvareID": 10.141,
+    "Matvare": "Panna cotta"
+  },
+  {
+    "MatvareID": "01.131",
+    "Matvare": "Pudding, mandelsmak, Piano"
+  },
+  {
+    "MatvareID": 10.154,
+    "Matvare": "Rabarbragrøt"
+  },
+  {
+    "MatvareID": "09.161",
+    "Matvare": "Rabarbrasuppe"
+  },
+  {
+    "MatvareID": 10.142,
+    "Matvare": "Riskrem"
+  },
+  {
+    "MatvareID": "01.184",
+    "Matvare": "Rislunsj med jordbær"
+  },
+  {
+    "MatvareID": "09.114",
+    "Matvare": "Saftis"
+  },
+  {
+    "MatvareID": "09.115",
+    "Matvare": "Saftis, Lollipop"
+  },
+  {
+    "MatvareID": "09.162",
+    "Matvare": "Sitronfromasj"
+  },
+  {
+    "MatvareID": 10.143,
+    "Matvare": "Sjokoladefondant"
+  },
+  {
+    "MatvareID": "05.292",
+    "Matvare": "Sjokoladeglasur"
+  },
+  {
+    "MatvareID": 10.144,
+    "Matvare": "Sjokolademousse"
+  },
+  {
+    "MatvareID": 10.006,
+    "Matvare": "Sjokoladepudding, av pulver"
+  },
+  {
+    "MatvareID": "01.020",
+    "Matvare": "Sjokoladepudding, Piano"
+  },
+  {
+    "MatvareID": 12.011,
+    "Matvare": "Sjokoladesaus, kjøpt"
+  },
+  {
+    "MatvareID": "09.163",
+    "Matvare": "Smuldrepai, med bær"
+  },
+  {
+    "MatvareID": "09.164",
+    "Matvare": "Smuldrepai, med eple"
+  },
+  {
+    "MatvareID": "05.294",
+    "Matvare": "Smørkrem, med hard margarin"
+  },
+  {
+    "MatvareID": "05.293",
+    "Matvare": "Smørkrem, med smør"
+  },
+  {
+    "MatvareID": "09.110",
+    "Matvare": "Sorbet"
+  },
+  {
+    "MatvareID": 10.146,
+    "Matvare": "Tilslørte bondepiker, med kavring"
+  },
+  {
+    "MatvareID": 10.145,
+    "Matvare": "Trollkrem"
+  },
+  {
+    "MatvareID": "05.295",
+    "Matvare": "Vaniljekrem, med helmelk"
+  },
+  {
+    "MatvareID": "01.111",
+    "Matvare": "Vaniljekrem, Piano"
+  },
+  {
+    "MatvareID": 10.007,
+    "Matvare": "Vaniljesaus, av pulver"
+  },
+  {
+    "MatvareID": "01.023",
+    "Matvare": "Vaniljesaus, Piano"
+  },
+  {
+    "MatvareID": 12.015,
+    "Matvare": "Baconcrisp"
+  },
+  {
+    "MatvareID": "06.618",
+    "Matvare": "Cashewnøtter, saltet"
+  },
+  {
+    "MatvareID": 13.095,
+    "Matvare": "Cashewnøtter, saltet, Den lille nøttefabrikken"
+  },
+  {
+    "MatvareID": 13.094,
+    "Matvare": "Cashewnøtter, saltet, Eldorado"
+  },
+  {
+    "MatvareID": 13.093,
+    "Matvare": "Cashewnøtter, saltet, Rema 1000"
+  },
+  {
+    "MatvareID": 13.096,
+    "Matvare": "Chilinøtter"
+  },
+  {
+    "MatvareID": 13.092,
+    "Matvare": "Chilinøtter, Den lille nøttefabrikken"
+  },
+  {
+    "MatvareID": 13.091,
+    "Matvare": "Chilinøtter, Eldorado"
+  },
+  {
+    "MatvareID": 13.09,
+    "Matvare": "Chilinøtter, Polly"
+  },
+  {
+    "MatvareID": 13.102,
+    "Matvare": "Nøtteblanding, orientalsk blanding"
+  },
+  {
+    "MatvareID": 12.016,
+    "Matvare": "Ostepop"
+  },
+  {
+    "MatvareID": 13.089,
+    "Matvare": "Peanøtter, saltet, Eldorado"
+  },
+  {
+    "MatvareID": 13.087,
+    "Matvare": "Peanøtter, saltet, Maarud"
+  },
+  {
+    "MatvareID": 13.088,
+    "Matvare": "Peanøtter, saltet, Polly"
+  },
+  {
+    "MatvareID": 12.012,
+    "Matvare": "Popcorn, kjøpt"
+  },
+  {
+    "MatvareID": 12.028,
+    "Matvare": "Popcorn, mikrobølgeovn"
+  },
+  {
+    "MatvareID": 12.029,
+    "Matvare": "Popcorn, poppet i soyaolje"
+  },
+  {
+    "MatvareID": 12.013,
+    "Matvare": "Popcorn, uten fett"
+  },
+  {
+    "MatvareID": "06.007",
+    "Matvare": "Potetchips"
+  },
+  {
+    "MatvareID": 13.083,
+    "Matvare": "Potetchips, Kims"
+  },
+  {
+    "MatvareID": "06.082",
+    "Matvare": "Potetchips, med mindre fett"
+  },
+  {
+    "MatvareID": 13.082,
+    "Matvare": "Potetchips, Maarud"
+  },
+  {
+    "MatvareID": 12.03,
+    "Matvare": "Potetchips, stekt i peanøttolje"
+  },
+  {
+    "MatvareID": 13.084,
+    "Matvare": "Potetchips, Sørlandschips"
+  },
+  {
+    "MatvareID": "06.009",
+    "Matvare": "Potetskruer, potetringer"
+  },
+  {
+    "MatvareID": 12.014,
+    "Matvare": "Saltstenger"
+  },
+  {
+    "MatvareID": 12.017,
+    "Matvare": "Tortillachips, nachochips"
+  },
+  {
+    "MatvareID": 13.085,
+    "Matvare": "Tortillachips, nachochips, Maarud Tortilla Cheese"
+  },
+  {
+    "MatvareID": 13.086,
+    "Matvare": "Tortillachips, nachochips, Santa Maria"
+  },
+  {
+    "MatvareID": "06.790",
+    "Matvare": "Ajvar, paprikasaus, hjemmelaget"
+  },
+  {
+    "MatvareID": "06.791",
+    "Matvare": "Avokado- og kikertpålegg, Plantego"
+  },
+  {
+    "MatvareID": "06.788",
+    "Matvare": "Bønne- og olivensalat, Plantego"
+  },
+  {
+    "MatvareID": "06.708",
+    "Matvare": "Bønnegryte, vegetarisk"
+  },
+  {
+    "MatvareID": "06.705",
+    "Matvare": "Bønnekarbonader, stekt i soyaolje"
+  },
+  {
+    "MatvareID": "06.681",
+    "Matvare": "Cashewsmør, hjemmelaget"
+  },
+  {
+    "MatvareID": "06.783",
+    "Matvare": "Falafel, kikertboller, hjemmelaget"
+  },
+  {
+    "MatvareID": "06.817",
+    "Matvare": "Falafel, kikertboller, Hälsans kök"
+  },
+  {
+    "MatvareID": "06.707",
+    "Matvare": "Grønnsaksgryte, med potet"
+  },
+  {
+    "MatvareID": "06.789",
+    "Matvare": "Grønnsakspostei, Vita hjertego"
+  },
+  {
+    "MatvareID": "06.706",
+    "Matvare": "Grønnsaksrøre, med tomat, Ratatouille"
+  },
+  {
+    "MatvareID": "06.679",
+    "Matvare": "Hummus"
+  },
+  {
+    "MatvareID": "06.680",
+    "Matvare": "Mandelsmør, hjemmelaget"
+  },
+  {
+    "MatvareID": "06.833",
+    "Matvare": "Plantebasert burger"
+  },
+  {
+    "MatvareID": "06.820",
+    "Matvare": "Plantebasert burger, potet og linser, Hoff"
+  },
+  {
+    "MatvareID": "06.819",
+    "Matvare": "Plantebasert burger, soyaprotein, Hälsans kök"
+  },
+  {
+    "MatvareID": "06.830",
+    "Matvare": "Plantebasert deig, erteprotein, Naturli"
+  },
+  {
+    "MatvareID": "06.678",
+    "Matvare": "Plantebasert deig, soyaprotein"
+  },
+  {
+    "MatvareID": "06.826",
+    "Matvare": "Plantebasert deig, soyaprotein og hvete, Folkets"
+  },
+  {
+    "MatvareID": "06.818",
+    "Matvare": "Plantebasert deig, soyaprotein, Hälsans kök"
+  },
+  {
+    "MatvareID": "06.824",
+    "Matvare": "Plantebasert deig, soyaprotein, VegMe"
+  },
+  {
+    "MatvareID": "06.831",
+    "Matvare": "Plantebasert deig, åkerbønne- og erteprotein, stekt, Flow Food"
+  },
+  {
+    "MatvareID": "06.835",
+    "Matvare": "Plantebasert grillpølse"
+  },
+  {
+    "MatvareID": "06.821",
+    "Matvare": "Plantebasert grillpølse, grønnsaker og potet, Hoff"
+  },
+  {
+    "MatvareID": "06.827",
+    "Matvare": "Plantebasert grillpølse, solsikkeprotein, Go vegan"
+  },
+  {
+    "MatvareID": "06.825",
+    "Matvare": "Plantebasert grillpølse, VegMe"
+  },
+  {
+    "MatvareID": "06.837",
+    "Matvare": "Plantebasert middagsdeig"
+  },
+  {
+    "MatvareID": "06.834",
+    "Matvare": "Plantebasert pølse, soyaprotein"
+  },
+  {
+    "MatvareID": "06.816",
+    "Matvare": "Plantebasert pølse, soyaprotein, Hälsans kök"
+  },
+  {
+    "MatvareID": "06.832",
+    "Matvare": "Plantebasert pølse, soyaprotein, Naturli"
+  },
+  {
+    "MatvareID": "06.822",
+    "Matvare": "Plantebaserte boller, potet og linser, Hoff"
+  },
+  {
+    "MatvareID": "06.829",
+    "Matvare": "Plantebaserte boller, soyaprotein, Naturli"
+  },
+  {
+    "MatvareID": "06.823",
+    "Matvare": "Plantebaserte boller, soyaprotein, VegMe"
+  },
+  {
+    "MatvareID": "06.836",
+    "Matvare": "Plantebaserte middagsboller"
+  },
+  {
+    "MatvareID": "06.712",
+    "Matvare": "Salat, gresk, med fetaost, oliven"
+  },
+  {
+    "MatvareID": "06.702",
+    "Matvare": "Sesampostei/-pasta, tahini"
+  },
+  {
+    "MatvareID": "06.781",
+    "Matvare": "Sopprotein, Quorn"
+  },
+  {
+    "MatvareID": "06.711",
+    "Matvare": "Soyaburger, stekt i vegetabilsk olje"
+  },
+  {
+    "MatvareID": "06.737",
+    "Matvare": "Soyaprotein, teksturert"
+  },
+  {
+    "MatvareID": "06.703",
+    "Matvare": "Soyapølse, hermetisk"
+  },
+  {
+    "MatvareID": "06.786",
+    "Matvare": "Sushi, maki, avokado, vegetar"
+  },
+  {
+    "MatvareID": "06.785",
+    "Matvare": "Sushi, maki, mango, vegetar"
+  },
+  {
+    "MatvareID": "06.787",
+    "Matvare": "Sushi, maki, tofu, vegetar"
+  },
+  {
+    "MatvareID": "06.704",
+    "Matvare": "Tofu, soyabønneprodukt"
+  },
+  {
+    "MatvareID": "06.713",
+    "Matvare": "Vegetabilsk postei, Tartex"
+  },
+  {
+    "MatvareID": "06.784",
+    "Matvare": "Vegetarburger, hjemmelaget"
+  },
+  {
+    "MatvareID": "06.782",
+    "Matvare": "Vegetarlasagne, hjemmelaget"
+  },
+  {
+    "MatvareID": 12.018,
+    "Matvare": "Bakepulver"
+  },
+  {
+    "MatvareID": 10.129,
+    "Matvare": "Balsamicoeddik"
+  },
+  {
+    "MatvareID": 10.13,
+    "Matvare": "Butterdeig"
+  },
+  {
+    "MatvareID": 12.027,
+    "Matvare": "Eddik, 7 %"
+  },
+  {
+    "MatvareID": 10.132,
+    "Matvare": "Filodeig"
+  },
+  {
+    "MatvareID": 12.117,
+    "Matvare": "Floradix"
+  },
+  {
+    "MatvareID": 12.11,
+    "Matvare": "Gelatin, plater/pulver"
+  },
+  {
+    "MatvareID": 12.007,
+    "Matvare": "Gjær, pressgjær"
+  },
+  {
+    "MatvareID": 12.009,
+    "Matvare": "Gjær, tørrgjær"
+  },
+  {
+    "MatvareID": 12.026,
+    "Matvare": "Havsalt"
+  },
+  {
+    "MatvareID": "09.011",
+    "Matvare": "Kakaopulver"
+  },
+  {
+    "MatvareID": 10.131,
+    "Matvare": "Karripasta, curry paste"
+  },
+  {
+    "MatvareID": "06.554",
+    "Matvare": "Kokosmasse, usøtet"
+  },
+  {
+    "MatvareID": "06.701",
+    "Matvare": "Kokosmelk, hermetisk"
+  },
+  {
+    "MatvareID": "06.780",
+    "Matvare": "Kokosmelk, mager, hermetisk"
+  },
+  {
+    "MatvareID": 10.147,
+    "Matvare": "Kondensert melk, søtet"
+  },
+  {
+    "MatvareID": 12.023,
+    "Matvare": "Mineralsalt"
+  },
+  {
+    "MatvareID": 10.138,
+    "Matvare": "Miso, fermentert soyabønnepasta"
+  },
+  {
+    "MatvareID": 10.136,
+    "Matvare": "Multi 0,65 g/stk, Nycoplus"
+  },
+  {
+    "MatvareID": 10.135,
+    "Matvare": "Multi Barn 1,1 g/stk, Nycoplus"
+  },
+  {
+    "MatvareID": 10.137,
+    "Matvare": "Multi Vitaminmikstur, Nycoplus"
+  },
+  {
+    "MatvareID": 10.133,
+    "Matvare": "Natron"
+  },
+  {
+    "MatvareID": "06.511",
+    "Matvare": "Nypesuppe, pulver"
+  },
+  {
+    "MatvareID": 12.022,
+    "Matvare": "Salt, bordsalt"
+  },
+  {
+    "MatvareID": 12.025,
+    "Matvare": "Salt, bordsalt, jodert, Jozo"
+  },
+  {
+    "MatvareID": 12.116,
+    "Matvare": "Sanasol"
+  },
+  {
+    "MatvareID": 12.008,
+    "Matvare": "Sennep"
+  },
+  {
+    "MatvareID": 10.126,
+    "Matvare": "Soyasaus"
+  },
+  {
+    "MatvareID": 10.134,
+    "Matvare": "Taco kryddermix"
+  },
+  {
+    "MatvareID": 12.113,
+    "Matvare": "Taco kryddermix, Old El Paso"
+  },
+  {
+    "MatvareID": 12.112,
+    "Matvare": "Taco kryddermix, Santa Maria"
+  },
+  {
+    "MatvareID": 12.024,
+    "Matvare": "Urtesalt"
+  },
+  {
+    "MatvareID": 12.115,
+    "Matvare": "Vitaminbjørner, 2,1 g/stk, Collett"
+  },
+  {
+    "MatvareID": 12.114,
+    "Matvare": "Vitamineral, 0,55 g/stk, Vitaplex"
+  },
+  {
+    "MatvareID": 10.139,
+    "Matvare": "Wonton-ark"
+  },
+  {
+    "MatvareID": 10.1,
+    "Matvare": "Buljongpulver"
+  },
+  {
+    "MatvareID": 10.123,
+    "Matvare": "Fiskesuppe, Bergensk, pulver"
+  },
+  {
+    "MatvareID": 10.11,
+    "Matvare": "Grytebasis, med pasta, pulver"
+  },
+  {
+    "MatvareID": 10.109,
+    "Matvare": "Grytebasis, med ris, pulver"
+  },
+  {
+    "MatvareID": 10.034,
+    "Matvare": "Pizzafyllbasis, uten kjøtt"
+  },
+  {
+    "MatvareID": 10.124,
+    "Matvare": "Potetmospulver, med melk"
+  },
+  {
+    "MatvareID": "09.109",
+    "Matvare": "Sjokoladepulver, Rett i koppen"
+  },
+  {
+    "MatvareID": "09.012",
+    "Matvare": "Sjokoladepulver, uten melk"
+  },
+  {
+    "MatvareID": 10.113,
+    "Matvare": "Tomatsuppe, pulver"
+  },
+  {
+    "MatvareID": 11.081,
+    "Matvare": "Barnemat, middag, biff stroganoff med pasta, fra 15 mnd"
+  },
+  {
+    "MatvareID": 11.088,
+    "Matvare": "Barnemat, middag, couscous og biff, fra 12 mnd"
+  },
+  {
+    "MatvareID": 11.087,
+    "Matvare": "Barnemat, middag, couscous og laks, fra 15 mnd"
+  },
+  {
+    "MatvareID": 11.079,
+    "Matvare": "Barnemat, middag, fiskegrateng, fra 12 mnd"
+  },
+  {
+    "MatvareID": 11.082,
+    "Matvare": "Barnemat, middag, fullkornslasagne, fra 12 mnd"
+  },
+  {
+    "MatvareID": 11.089,
+    "Matvare": "Barnemat, middag, fullkornspasta med grønnsaker, fra 12 mnd"
+  },
+  {
+    "MatvareID": 11.078,
+    "Matvare": "Barnemat, middag, grønnsakslasagne, fra 12 mnd"
+  },
+  {
+    "MatvareID": 11.093,
+    "Matvare": "Barnemat, middag, grønnsaksrisotto og kalkun, fra 12 mnd"
+  },
+  {
+    "MatvareID": 11.084,
+    "Matvare": "Barnemat, middag, gulrot og potet, fra 4 mnd"
+  },
+  {
+    "MatvareID": 11.094,
+    "Matvare": "Barnemat, middag, gulrot, fra 4 mnd"
+  },
+  {
+    "MatvareID": 11.077,
+    "Matvare": "Barnemat, middag, kjøttkaker i brun saus, fra 8 mnd"
+  },
+  {
+    "MatvareID": 11.083,
+    "Matvare": "Barnemat, middag, kjøttkaker og poteter, fra 12 mnd"
+  },
+  {
+    "MatvareID": 11.085,
+    "Matvare": "Barnemat, middag, kyllingboller og pasta, fra 12 mnd"
+  },
+  {
+    "MatvareID": 11.091,
+    "Matvare": "Barnemat, middag, oksekjøtt og potet, fra 12 mnd"
+  },
+  {
+    "MatvareID": 11.092,
+    "Matvare": "Barnemat, middag, potet og brokkoli, fra 4 mnd"
+  },
+  {
+    "MatvareID": 11.086,
+    "Matvare": "Barnemat, middag, spagetti bolognese, fra 15 mnd"
+  },
+  {
+    "MatvareID": 11.09,
+    "Matvare": "Barnemat, middag, vegetargryte, fra 12 mnd"
+  },
+  {
+    "MatvareID": 11.08,
+    "Matvare": "Barnemat, middag, vegetarisk, fra 6 mnd"
+  },
+  {
+    "MatvareID": 11.061,
+    "Matvare": "Flerkornsgrøt med eple og pære, fra 12 mnd, pulver, Småfolk"
+  },
+  {
+    "MatvareID": 11.062,
+    "Matvare": "Flerkornsgrøt med eple og pære, fra 12 mnd, spiseklar, Småfolk"
+  },
+  {
+    "MatvareID": 11.057,
+    "Matvare": "Fruktgrøt med eple og banan, fra 6 mnd, pulver, Småfolk"
+  },
+  {
+    "MatvareID": 11.058,
+    "Matvare": "Fruktgrøt med eple og banan, fra 6 mnd, spiseklar, Småfolk"
+  },
+  {
+    "MatvareID": 11.051,
+    "Matvare": "Fruktgrøt med pære og banan, fra 8 mnd, pulver, Nestlé"
+  },
+  {
+    "MatvareID": 11.052,
+    "Matvare": "Fruktgrøt med pære og banan, fra 8 mnd, spiseklar, Nestlé"
+  },
+  {
+    "MatvareID": 11.065,
+    "Matvare": "Fruktpuré, eple, med fersken og mango, fra 4 mnd, HiPP"
+  },
+  {
+    "MatvareID": 11.066,
+    "Matvare": "Fruktpuré, med eple og banan, fra 4 mnd, HiPP"
+  },
+  {
+    "MatvareID": 11.067,
+    "Matvare": "Fruktpuré, med eple og pære, fra 4 mnd, HiPP"
+  },
+  {
+    "MatvareID": 11.072,
+    "Matvare": "Fruktpuré, med eple, banan og jordbær, fra 6 mnd, HiPP"
+  },
+  {
+    "MatvareID": 11.07,
+    "Matvare": "Fruktpuré, med eple, fersken, blåbær og bringebær, fra 6 mnd, HiPP"
+  },
+  {
+    "MatvareID": 11.071,
+    "Matvare": "Fruktpuré, med eple, jordbær, banan og blåbær, fra 6 mnd, HiPP"
+  },
+  {
+    "MatvareID": 11.068,
+    "Matvare": "Fruktpuré, med fersken, mango og eple, fra 4 mnd, HiPP"
+  },
+  {
+    "MatvareID": 11.069,
+    "Matvare": "Fruktsmoothie, med eple, jordbær og banan, fra 6 mnd, Nestlé"
+  },
+  {
+    "MatvareID": 11.053,
+    "Matvare": "Fullkornsgrøt med eksotiske frukter og müsli, fra 12 mnd, pulver, Nestlé"
+  },
+  {
+    "MatvareID": 11.054,
+    "Matvare": "Fullkornsgrøt med eksotiske frukter og müsli, fra 12 mnd, spiseklar, Nestlé"
+  },
+  {
+    "MatvareID": 11.059,
+    "Matvare": "Fullkornsgrøt med pære, eple og bringebær, fra 8 mnd, pulver, Småfolk"
+  },
+  {
+    "MatvareID": 11.06,
+    "Matvare": "Fullkornsgrøt med pære, eple og bringebær, fra 8 mnd, spiseklar, Småfolk"
+  },
+  {
+    "MatvareID": 11.047,
+    "Matvare": "God natt havregrøt naturell, fra 6 mnd, pulver, Nestlé"
+  },
+  {
+    "MatvareID": 11.048,
+    "Matvare": "God natt havregrøt naturell, fra 6 mnd, spiseklar, Nestlé"
+  },
+  {
+    "MatvareID": 11.075,
+    "Matvare": "Grøt, med ris, mais og banan, fra 4 mnd, pulver, Nestlé"
+  },
+  {
+    "MatvareID": 11.076,
+    "Matvare": "Grøt, med ris, mais og banan, fra 4 mnd, spiseklar, Nestlé"
+  },
+  {
+    "MatvareID": 11.045,
+    "Matvare": "Havregrøt med banan og bringebær, fra 6 mnd, pulver, Nestlé"
+  },
+  {
+    "MatvareID": 11.046,
+    "Matvare": "Havregrøt med banan og bringebær, fra 6 mnd, spiseklar, Nestlé"
+  },
+  {
+    "MatvareID": 11.049,
+    "Matvare": "Havregrøt med banan og mango, fra 8 mnd, pulver, Nestlé"
+  },
+  {
+    "MatvareID": 11.05,
+    "Matvare": "Havregrøt med banan og mango, fra 8 mnd, spiseklar, Nestlé"
+  },
+  {
+    "MatvareID": 11.063,
+    "Matvare": "Hirsegrøt med eple og pære, fra 6 mnd, pulver, Holle"
+  },
+  {
+    "MatvareID": 11.064,
+    "Matvare": "Hirsegrøt med eple og pære, fra 6 mnd, spiseklar, Holle"
+  },
+  {
+    "MatvareID": 11.073,
+    "Matvare": "Kveldsgrøt, med ris, pasta og gulrot, fra 6 mnd, pulver, Semper"
+  },
+  {
+    "MatvareID": 11.074,
+    "Matvare": "Kveldsgrøt, med ris, pasta og gulrot, fra 6 mnd, spiseklar, Semper"
+  },
+  {
+    "MatvareID": 11.04,
+    "Matvare": "Morsmelkerstatning, fra fødsel, drikkeklar"
+  },
+  {
+    "MatvareID": 11.095,
+    "Matvare": "Morsmelkerstatning, fra fødsel, ferdig utblandet"
+  },
+  {
+    "MatvareID": 11.042,
+    "Matvare": "Morsmelkerstatning, fra fødsel, pulver"
+  },
+  {
+    "MatvareID": 11.055,
+    "Matvare": "Sinlac spesialgrøt, pulver, Nestlé"
+  },
+  {
+    "MatvareID": 11.056,
+    "Matvare": "Sinlac spesialgrøt, spiseklar, Nestlé"
+  },
+  {
+    "MatvareID": 11.041,
+    "Matvare": "Tilskuddsblanding, fra 6 mnd, drikkeklar"
+  },
+  {
+    "MatvareID": 11.096,
+    "Matvare": "Tilskuddsblanding, fra 6 mnd, ferdig utblandet"
+  },
+  {
+    "MatvareID": 11.043,
+    "Matvare": "Tilskuddsblanding, fra 6 mnd, pulver"
+  }
+]

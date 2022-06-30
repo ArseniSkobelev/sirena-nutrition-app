@@ -26,8 +26,11 @@ const transporter = nodemailer.createTransport({
     },
 });
 
-// Import 'User' model
+// Import models
 const User = require('./models/User');
+const ProductName = require('./models/Product');
+const Eat = require('./models/Eat');
+const WeightChange = require('./models/WeightChange');
 
 const Messages = require('./messages/messages')
 
@@ -56,7 +59,7 @@ const generateVerificationToken = (userInfo) => {
     return jwt.sign(userInfo, process.env.USER_VERIFICATION_SECRET, jwtSignOptions);
 }
 
-function authenticateToken(req, res, next) {
+const authenticateToken = (req, res, next) => {
     const token = req.body.token;
   
     if (token == null) return res.sendStatus(401)
@@ -585,24 +588,104 @@ app.get('/verify/:token', (req, res) => {
 })
 
 app.post('/setAge', authenticateToken, (req, res) => {
-    User.updateOne({ "email": req.user.email }, { "age": req.body.age }, (err, result) => {
-        if(err) return res.send({ outcome: Messages.INTERNAL_SERVER_ERROR })
-        return res.send({ outcome: Messages.SUCCESS })
+  const token = req.body.token;
+
+  if(!token) return res.send({ outcome: Messages.INTERNAL_SERVER_ERROR })
+  let userData;
+
+  try {
+    userData = jwt.verify(token, process.env.TOKEN_SECRET);
+
+    User.updateOne({ "email": userData.email }, { "age": req.body.age }, (err, result) => {
+      if(err) return res.send({ outcome: Messages.INTERNAL_SERVER_ERROR })
+      return res.send({ outcome: Messages.SUCCESS })
     })
+  } catch(err) {
+    return res.send({ outcome: Messages.INTERNAL_SERVER_ERROR })
+  }
 })
 
 app.post('/setHeight', authenticateToken, (req, res) => {
-    User.updateOne({ "email": req.user.email }, { "height": req.body.height }, (err, result) => {
-        if(err) return res.send({ outcome: Messages.INTERNAL_SERVER_ERROR })
-        return res.send({ outcome: Messages.SUCCESS })
+  const token = req.body.token;
+
+  if(!token) return res.send({ outcome: Messages.INTERNAL_SERVER_ERROR })
+  let userData;
+
+  try {
+    userData = jwt.verify(token, process.env.TOKEN_SECRET);
+
+    User.updateOne({ "email": userData.email }, { "height": req.body.height }, (err, result) => {
+      if(err) return res.send({ outcome: Messages.INTERNAL_SERVER_ERROR })
+      return res.send({ outcome: Messages.SUCCESS })
     })
+  } catch(err) {
+    return res.send({ outcome: Messages.INTERNAL_SERVER_ERROR })
+  }
 })
 
 app.post('/setWeight', authenticateToken, (req, res) => {
-    User.updateOne({ "email": req.user.email }, { "weight": req.body.weight }, (err, result) => {
-        if(err) return res.send({ outcome: Messages.INTERNAL_SERVER_ERROR })
-        return res.send({ outcome: Messages.SUCCESS })
+  const token = req.body.token;
+
+  if(!token) return res.send({ outcome: Messages.INTERNAL_SERVER_ERROR })
+  let userData;
+
+  try {
+    userData = jwt.verify(token, process.env.TOKEN_SECRET);
+
+    const oldWeight = userData.weight;
+
+    User.updateOne({ "email": userData.email }, { "weight": req.body.weight }, (err, result) => {
+      if(err) return res.send({ outcome: Messages.INTERNAL_SERVER_ERROR })
+
+      const tempWeightChange = new WeightChange({
+        _id: mongoose.Types.ObjectId(),
+        old_weight: oldWeight,  
+        new_weight: req.body.weight,
+        userEmail: userData.email
+      })
+
+      return res.send({ outcome: Messages.SUCCESS })
     })
+  } catch(err) {
+    return res.send({ outcome: Messages.INTERNAL_SERVER_ERROR })
+  }
+})
+
+app.post('/eat', authenticateToken, (req, res) => {
+  const productID = req.body.productID;
+  let product;
+  let token = req.body.token
+
+  ProductName.findOne({ MatvareID: productID }, (err, result) => {
+    if(err) return err;
+    product = result;
+
+    let calories = (parseInt(product.Kilokalorier) / 100) * req.body.grams;
+    try {
+      userData = jwt.verify(token, process.env.TOKEN_SECRET);
+  
+      User.updateOne({ "email": userData.email }, { "$inc": { "calories_left": -calories } }, (err, result) => {
+        if(err) return res.send({ outcome: Messages.INTERNAL_SERVER_ERROR });
+        
+        const tempFood = new Eat({
+          _id: mongoose.Types.ObjectId(),
+          food_name: product.Matvare,
+          food_id: productID,
+          calories_consumed: calories,
+          userEmail: userData.email
+        });
+
+        tempFood.save((err, result) => {
+          if(err) return res.send({ outcome: Messages.INTERNAL_SERVER_ERROR});
+        });
+
+        return res.send({ outcome: Messages.SUCCESS });
+      })
+    } catch(err) {
+      return res.send({ outcome: Messages.INTERNAL_SERVER_ERROR });
+    }
+  })
+
 })
 
 // cron jobs
