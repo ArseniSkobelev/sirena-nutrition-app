@@ -1,76 +1,52 @@
-import { StatusBar } from "expo-status-bar";
-import {
-  StyleSheet,
-  Text,
-  View,
-  ImageBackground,
-  TouchableOpacity,
-} from "react-native";
-import { useFonts } from "expo-font";
+import Welcome from "./components/Welcome";
+import * as SecureStore from "expo-secure-store";
+import { useEffect } from "react";
+import { useStateIfMounted } from "use-state-if-mounted";
+import Main from "./components/Main";
+import { NavigationContainer } from "@react-navigation/native";
+import { createNativeStackNavigator } from "@react-navigation/native-stack";
+import Login from "./components/Login";
+
+const Stack = createNativeStackNavigator();
 
 export default function App() {
-  const [loaded] = useFonts({
-    RalewayBold: require("./assets/fonts/Raleway-Bold.ttf"),
-    RalewayMedium: require("./assets/fonts/Raleway-Medium.ttf"),
-  });
+  const [keyResult, setKeyResult] = useStateIfMounted(0);
 
-  const navigateToLogin = () => {};
+  useEffect(() => {
+    let isMounted = true;
+    getKey();
+    return () => {
+      isMounted = false;
+    };
 
-  return (
-    <View style={styles.container}>
-      <ImageBackground
-        source={require("./assets/welcome-bg.png")}
-        resizeMode="cover"
-        style={styles.image}
-      >
-        <Text style={styles.header}>Nutrition & Diet</Text>
-        <Text style={styles.paragraph}>
-          Let’s take care of your diet together! Join us today!
-        </Text>
-        <TouchableOpacity onPress={navigateToLogin} style={styles.mainButton}>
-          <Text style={styles.mainButtonText}>Get started</Text>
-        </TouchableOpacity>
-        <StatusBar style="auto" />
-      </ImageBackground>
-    </View>
-  );
+    function getKey() {
+      // let result = SecureStore.getItemAsync("sessionID");
+      // setKeyResult(result);
+      if (isMounted) {
+        setKeyResult(null);
+      } else return;
+    }
+  }, []);
+
+  if (keyResult === null) {
+    return (
+      <NavigationContainer>
+        <Stack.Navigator
+          initialRouteName="Welcome"
+          screenOptions={{ headerShown: false }}
+        >
+          <Stack.Screen name="Welcome" component={Welcome} />
+          <Stack.Screen name="Login" component={Login} />
+        </Stack.Navigator>
+      </NavigationContainer>
+    );
+  } else {
+    return (
+      <NavigationContainer>
+        <Stack.Navigator screenOptions={{ headerShown: false }}>
+          <Stack.Screen name="Main" component={Main} />
+        </Stack.Navigator>
+      </NavigationContainer>
+    );
+  }
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-  },
-  image: {
-    flex: 1,
-    justifyContent: "center",
-    alignContent: "center",
-    alignItems: "center",
-  },
-  header: {
-    fontFamily: "RalewayBold",
-    color: "#F4F6F6",
-    fontSize: 42,
-    marginBottom: 8,
-  },
-  paragraph: {
-    fontFamily: "RalewayMedium",
-    color: "#F4F6F6",
-    fontSize: 22,
-    textAlign: "center",
-    width: "80%",
-    marginBottom: 48,
-  },
-  mainButton: {
-    backgroundColor: "#F4F6F6",
-    borderRadius: 10,
-    paddingTop: 15,
-    paddingLeft: 35,
-    paddingBottom: 15,
-    paddingRight: 35,
-  },
-  mainButtonText: {
-    fontFamily: "RalewayMedium",
-    fontSize: 26,
-    color: "#12452C",
-  },
-});
