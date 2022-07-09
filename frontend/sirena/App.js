@@ -12,23 +12,28 @@ const Stack = createNativeStackNavigator();
 export default function App() {
   const [keyResult, setKeyResult] = useStateIfMounted(0);
 
+  let isNull = null;
+
   useEffect(() => {
     let isMounted = true;
-    getKey();
-    return () => {
-      isMounted = false;
-    };
+    let keyValue = getKey();
+    console.log(keyValue);
+    if (isMounted) {
+      setKeyResult(keyValue);
+    }
 
     function getKey() {
       // let result = SecureStore.getItemAsync("sessionID");
-      // setKeyResult(result);
-      if (isMounted) {
-        setKeyResult(null);
-      } else return;
+      let result = null;
+      return result;
     }
+
+    return () => {
+      isMounted = false;
+    };
   }, []);
 
-  if (keyResult === null) {
+  if (isNull === null) {
     return (
       <NavigationContainer>
         <Stack.Navigator
