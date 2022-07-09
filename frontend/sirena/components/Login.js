@@ -1,14 +1,22 @@
 import { StyleSheet, View, Text, Image, TextInput, TouchableOpacity } from 'react-native'
 import { StatusBar } from "expo-status-bar";
 import { useFonts } from "expo-font";
+import { useStateIfMounted } from 'use-state-if-mounted';
 
 export default function Login() {
+    const [email, setEmail] = useStateIfMounted("");
+    const [password, setPassword] = useStateIfMounted("");
+
     const [loaded] = useFonts({
         RalewaySemiBold: require("../assets/fonts/Raleway-SemiBold.ttf"),
         RalewayMedium: require("../assets/fonts/Raleway-Medium.ttf"),
     });
 
     if (!loaded) return <Text>Loading...</Text>;
+
+    const handleLogin = () => {
+
+    }
 
     return (
         <View style={styles.container}>
@@ -24,20 +32,22 @@ export default function Login() {
                 <View style={styles.inputBox}>
                     <Image style={styles.inputIco} source={require('../assets/ico/Vector.png')} />
                     <View style={{flexDirection: "column", width: "100%", marginBottom: 48}}>
-                        <TextInput textContentType='emailAddress' placeholder='Email' style={{fontFamily: 'RalewaySemiBold', fontSize: 24, marginBottom: 8, color: "#C0C0C0", width: "80%"}} />
+                        <TextInput onChangeText={newEmail => setEmail(newEmail)} textContentType='emailAddress' placeholder='Email' style={{fontFamily: 'RalewaySemiBold', fontSize: 24, marginBottom: 8, color: "#C0C0C0", width: "80%"}} />
                         <View style={styles.separator} />
+                        <Text>{ email }</Text>
                     </View>
                 </View>
                 <View style={styles.inputBox}>
                     <Image style={styles.inputIco} source={require('../assets/ico/dashicons_lock.png')} />
                     <View style={{flexDirection: "column", width: "100%"}}>
-                        <TextInput secureTextEntry={true} textContentType='password' placeholder='Password' style={{fontFamily: 'RalewaySemiBold', fontSize: 24, marginBottom: 8, color: "#C0C0C0", width: "80%"}} />
+                        <TextInput onChangeText={newPassword => setPassword(newPassword)} secureTextEntry={true} textContentType='password' placeholder='Password' style={{fontFamily: 'RalewaySemiBold', fontSize: 24, marginBottom: 8, color: "#C0C0C0", width: "80%"}} />
                         <View style={styles.separator} />
+                        <Text>{ password }</Text>
                     </View>
                 </View>
             </View>
             <View style={styles.btnContainer}>
-                <TouchableOpacity style={styles.loginButton}>
+                <TouchableOpacity style={styles.loginButton} onPress={handleLogin}>
                     <Text style={styles.loginButton}>Login</Text>
                 </TouchableOpacity>
             </View>
@@ -106,7 +116,7 @@ const styles = StyleSheet.create({
         marginTop: 48
     },
     loginButton: {
-        backgroundColor: "#12452C",
+        backgroundColor: "#37715B",
         borderRadius: 10,
         paddingTop: 10,
         paddingLeft: 35,
